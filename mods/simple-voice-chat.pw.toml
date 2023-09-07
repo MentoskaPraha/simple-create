@@ -1,0 +1,13 @@
+name = "Simple Voice Chat"
+filename = "voicechat-quilt-1.19.2-2.4.24.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9eGKb6K1/versions/UXs4sihV/voicechat-quilt-1.19.2-2.4.24.jar"
+hash-format = "sha1"
+hash = "021bfa2d89d14fe55448f31b9ebf07f3e087de16"
+
+[update]
+[update.modrinth]
+mod-id = "9eGKb6K1"
+version = "UXs4sihV"
