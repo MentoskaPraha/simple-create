@@ -42,6 +42,8 @@ Enjoy the modlist!
 
 ### Modlist
 Dependancies not included.
+Also note that the modpack is using Kotlin for Fabric along side Quilt Kotlin Libraries for compatibility reasons. Updating to `1.20.1`` should fix the issue.  
+Also also Better Compatibility Checker will be added once modpack is updated to `1.20.1`
 
 |  Mod Name and Link | Client/Server Info | Ready for 1.20 Upgrade |
 | ---------------------| :-----------------: | :-----------------------: |
@@ -67,7 +69,7 @@ Dependancies not included.
 | [Appleskin](https://modrinth.com/mod/EsAfCjCV) | Client or Server | ✅ |
 | [Jade](https://modrinth.com/mod/nvQzSEkH) | Client or Server | ✅ |
 | [Jade Add-ons](https://modrinth.com/mod/fThnVRli) | Client or Server | |
-| [Starlight](https://modrinth.com/mod/H8CaAYZC) | Client or Server | ✅ |
+| [Starlight](https://modrinth.com/mod/H8CaAYZC) | Client or Server | ✅ (Not requi) |
 | [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) | Client or Server | ✅ |
 | [Debugify](https://modrinth.com/mod/QwxR6Gcd) | Client or Server | ✅ |
 | [Smooth Boot](https://modrinth.com/mod/FWumhS4T) | Client or Server | (not required for 1.20) |
@@ -83,6 +85,7 @@ Dependancies not included.
 | [YUNG's Better Bridges](https://modrinth.com/mod/Ht4BfYp6)  | Server Only |✅ |
 | [YUNG's Extras](https://modrinth.com/mod/ZYgyPyfq) | Server Only |✅ |
 | [Fast Back-Ups](https://modrinth.com/mod/ZHKrK8Rp) | Server Only | ✅ |
+| [Adaptive View](https://modrinth.com/mod/xZvyOrQr) | Server Only | ✅ |
 | [Discord Integration](https://modrinth.com/plugin/rbJ7eS5V) | Server Only | ✅ |
 | [Terralith](https://modrinth.com/mod/8oi3bsk5) | Server Only | ✅ |
 | [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | Server Only | ✅ |
@@ -94,6 +97,7 @@ Dependancies not included.
 | [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) | Client Only |  ✅ |
 | [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) | Client Only | ✅|
 | [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) | Client Only | ✅ |
+| [LambBetterGrass](https://modrinth.com/mod/2Uev7LdA) | Client Only | ✅ |
 | [Continuity](https://modrinth.com/mod/1IjD5062) | Client Only | ✅ |
 | [Indium](https://modrinth.com/mod/Orvt0mRa) | Client Only | ✅ |
 | [Mod Menu](https://modrinth.com/mod/mOgUt4GM) | Client Only | ✅ |
@@ -122,14 +126,13 @@ Dependancies not included.
 | [Item Swapper](https://modrinth.com/plugin/RPOSBQgq) | Client Only | ✅ |
 | [Effective](https://modrinth.com/mod/pcPXJeZi) | Client Only | |
 | [Status Effect Bars](https://modrinth.com/mod/x02cBj9Y) | Client Only | ✅ |
-| [Clear Skies](https://modrinth.com/mod/xNK6XfRv) | Client Only | |
 | [VTDownloader](https://modrinth.com/mod/1E2sq1cp) | Client Only | ✅ |
 | [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C) | Client Only | ✅ |
 | [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR) | Client Only | ✅ |
 | [Stendhal](https://modrinth.com/mod/BWloQ9jK) | Client Only | ✅ |
-| [Adaptive Tooltips](https://modrinth.com/mod/wFv8yCxM) | Client Only |  |
 | [ExtraSounds](https://modrinth.com/mod/uPWCQrVL) | Client Only | |
 | [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) | Client Only | ✅ |
 | [Cull Less Leaves](https://modrinth.com/mod/iG6ZHsUV) | Client Only | ✅ |
 | [Advancement Plaques](https://modrinth.com/mod/9NM0dXub) | Client Only | ✅ |
 | [AmbientSounds](https://modrinth.com/mod/fM515JnW) | Client Only | ✅ |
+| [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) | Client Only | ✅ |

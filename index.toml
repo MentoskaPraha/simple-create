@@ -5,8 +5,56 @@ file = "LICENSE"
 hash = "25758fc95d05c3e93308d08ca6992142050e2321c4ad6f926918aa76d8da4f17"
 
 [[files]]
-file = "mods/adaptive-tooltips.pw.toml"
-hash = "6e631bb9b83136c92f57d67ea681afadd6a2ccbbd12d39adb735dc01f1c50811"
+file = "global_packs/optional_data/Craftable-Nametags.zip"
+hash = "1cf39c32b0f9122cb678f3c0360c462e12bb72fcf86732c37986834a1081f587"
+
+[[files]]
+file = "global_packs/required_data/AFK-Display.zip"
+hash = "fb8778ea88e0a910831cdbff02f16b41cddd65385754156a37c453092b31efb3"
+
+[[files]]
+file = "global_packs/required_data/Armor-Statues.zip"
+hash = "ff890f46bb5b1915039485de031a8a379ee90d72e2d20044a02bdb54eca4cbc3"
+
+[[files]]
+file = "global_packs/required_data/Cauldron-Concrete.zip"
+hash = "c6f2c438d1a53044e3fde005f5adc16393d15a15e75e98176a2f4deeca290997"
+
+[[files]]
+file = "global_packs/required_data/Crafting-Tweaks.zip"
+hash = "06442accf4a42929c8367847110228706e353ba6e86a1e253bde074dea576ada"
+
+[[files]]
+file = "global_packs/required_data/Custom Nether Portals.zip"
+hash = "a3c48341b2ccb5c07ec5d327ae3fef9844a256c0a4f393a8f6f64b064c7ddc57"
+
+[[files]]
+file = "global_packs/required_data/Fast-Leaf-Decay.zip"
+hash = "6b45047234fd5ce98624bfd07d96fea4d2b18704ce02826182c2fe4061dd8d86"
+
+[[files]]
+file = "global_packs/required_data/Multiplayer-Sleep.zip"
+hash = "695793d71ba912ffa115521091cdb82070e3d74ffe1084405c45bdbd7440ea43"
+
+[[files]]
+file = "global_packs/required_data/Nether-Portal-Coords.zip"
+hash = "8e51e06613e21384412f3d6917d7feb3ab60b13eafeccbaea83eb070d58a90e8"
+
+[[files]]
+file = "global_packs/required_data/Silence-Mobs.zip"
+hash = "7de277148dbe9a2631fe9aa756a5f99a0f90cc5b41fab0d719ee4832435b716b"
+
+[[files]]
+file = "global_packs/required_data/Villager-Workstation-Highlights.zip"
+hash = "42dbe1acb2851a2567d59a0779a7e818031e036f29bef39bfb8559e5c4a948d7"
+
+[[files]]
+file = "global_packs/required_data/Wandering-Trades.zip"
+hash = "5c92c292ed118e3b11199698cb4fad5a8762318d10bfddb071394565a4305c08"
+
+[[files]]
+file = "mods/adaptiveview.pw.toml"
+hash = "b5f11bb7dbc0c095268b15e0b01e90062f827da73a32808fd87d24b8e686c1f1"
 metafile = true
 
 [[files]]
@@ -85,8 +133,13 @@ hash = "aa5edd2c0991a3e43e61bc8c20afc354c9101a328c319af6f2a7682f14764b4c"
 metafile = true
 
 [[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "5f3ca16d00949c3630dec43f6bba5aa8751a6f232c75414d1137298accd056e8"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "e2efee228d951bde49b855804024bc98cb103168ca050dbbb1af2773051ad9a3"
+hash = "62c11b66d114f86bf0dbe77ba13a2d6c968828be7da7f9ba8a054b62c6c75f3f"
 metafile = true
 
 [[files]]
@@ -102,11 +155,6 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "eeb7901c2222b131a01990bc5f8e7d2f1d5beaed7786bfecf8f8738d4674df30"
-metafile = true
-
-[[files]]
-file = "mods/clear-skies.pw.toml"
-hash = "26a80d24f1b8805a44745aa4630f3d51b8c0ff493211fea8de7f4d3cc6f6c023"
 metafile = true
 
 [[files]]
@@ -205,6 +253,11 @@ hash = "a2becd97f1aeb612a79c25f426bc678791356f99f86618caf3f618e156b41b0d"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+hash = "1f87846265206279eb38e4ce9b4f69cb3a4401e8074fc69f039100713e525e58"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "68edb9c0371e1105377db6373e7ccf09275f91cc7ca961b2915b0b32955b9558"
 metafile = true
@@ -215,13 +268,18 @@ hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "6f95b9e670d557f852a798489d7b5ec48ed8ddc7e8e1809ff06d4b187d17aac9"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "e7fec92e06e88e8e596a79d1157bd142a89d64524c930023e863e8984b1607df"
 metafile = true
 
 [[files]]
 file = "mods/fastback.pw.toml"
-hash = "83cdaa833826cfdf0cfd0b41637899d534da478ce9545c704f1bb298336a69cb"
+hash = "b257615c6f78313e3ed9d344a1ef0d3a846f68fdd662d171d6117e6d8607112c"
 metafile = true
 
 [[files]]
@@ -237,6 +295,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "0497a92235c08a5ace339102c702d17e529c0770b3a340bdecebe321e3213888"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "2f3d78980ca33ab11a46413f80bcd53f7d14245759006a158b05da6d2ebee63a"
 metafile = true
 
 [[files]]
@@ -272,6 +335,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
 metafile = true
 
 [[files]]
@@ -342,11 +410,6 @@ metafile = true
 [[files]]
 file = "mods/pehkui.pw.toml"
 hash = "1e1e434f917fde38e55d7783569083b327c918a2c567b5d4967e6446b69d9d9f"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
 
 [[files]]
@@ -533,3 +596,11 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "4e304a7e47c58c431d06fd06d2bcdf9e5784629883fe5355ef3701455da18f61"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_r297414.zip"
+hash = "8c517dcf693d34c8ef48d6f6a720769fe78152aa10916e8c65d3643062dced76"
