@@ -34,21 +34,23 @@ We've also included a mod list in this description where you can find all the mo
 We plan on updating to 1.20 as soon as all of the mods in this pack support it. For a full list of mods and whether they support 1.20 see bellow.
 
 ## Conclusion and Credits
-Big thanks once again to Gljue, who was too lazy to create a Modrinth account, and who create the modpack's icon and helped compile all the mods.
+Big thanks once again to Gljue, who was too lazy to create a Modrinth account, and who create the modpack's icon and helped compile all the mods. I'd also like to thank all the modders who wrote all the mods in this modpack you guys are absolute chads.
 
-I'd also like to say once again that this modpack is meant to serve as an inspiration, so that you can fine-tune it in order to play the game you want to play. If you don't like something about this modpack feel free to change it.
+I'd also also like to say once again that this modpack is meant to serve as an inspiration, so that you can fine-tune it in order to play the game you want to play. If you don't like something about this modpack feel free to change it.
 
 Enjoy the modlist!
 
+### Compatibility Notes
+- The modpack is using Kotlin for Fabric instead of Quilt Kotlin Libraries for compatibility reasons. Once on `1.20.1` we should be able to switch back to QKL.
+- A custom version of Farmer's Delight is used as it causes issues with Create: Steam 'n' Rails and this version fixes that.
+
 ### Modlist
 Dependancies not included.
-Also note that the modpack is using Kotlin for Fabric along side Quilt Kotlin Libraries for compatibility reasons. Updating to `1.20.1`` should fix the issue.  
-Also also Better Compatibility Checker will be added once modpack is updated to `1.20.1`
 
 |  Mod Name and Link | Client/Server Info | Ready for 1.20 Upgrade |
 | ---------------------| :-----------------: | :-----------------------: |
 | [Origins](https://modrinth.com/mod/3BeIrqZR) |  Client and Server | ✅ |
-| [Enchancement](https://modrinth.com/mod/6hN1V6wJ) | Client and Server |  |
+| [Enchancement](https://modrinth.com/mod/6hN1V6wJ) | Client and Server | ✅ |
 | [Impaled](https://modrinth.com/mod/AiHAhIP5) | Client and Server | |
 | [Rat's Mischief](https://modrinth.com/mod/Jjc1149h) | Client and Server | |
 | [Requiem](https://modrinth.com/mod/bYmqMxlQ) | Client and Server  | |
@@ -66,15 +68,16 @@ Also also Better Compatibility Checker will be added once modpack is updated to 
 | [Traveller's Backpacks](https://modrinth.com/mod/rlloIFEV) | Client and Server | ✅|
 | [Carry On](https://modrinth.com/mod/joEfVgkn) | Client and Server | ✅ |
 | [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) | Client and Server | ✅ |
+| [Better Compatability Checker](https://modrinth.com/mod/KJhXPbHQ) | Client and Server | ✅ |
 | [Appleskin](https://modrinth.com/mod/EsAfCjCV) | Client or Server | ✅ |
 | [Jade](https://modrinth.com/mod/nvQzSEkH) | Client or Server | ✅ |
-| [Jade Add-ons](https://modrinth.com/mod/fThnVRli) | Client or Server | |
-| [Starlight](https://modrinth.com/mod/H8CaAYZC) | Client or Server | ✅ (Not requi) |
+| [Jade Add-ons](https://modrinth.com/mod/fThnVRli) | Client or Server | ✅ |
+| [Starlight](https://modrinth.com/mod/H8CaAYZC) | Client or Server | ✅ (Not required on Client in 1.20) |
 | [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) | Client or Server | ✅ |
 | [Debugify](https://modrinth.com/mod/QwxR6Gcd) | Client or Server | ✅ |
 | [Smooth Boot](https://modrinth.com/mod/FWumhS4T) | Client or Server | (not required for 1.20) |
 | [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) | Client or Server | ✅ |
-| [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) | Server Only | | ✅ |
+| [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) | Server Only | ✅ |
 | [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5) | Server Only | ✅ |
 | [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr) | Server Only | ✅|
 | [YUNG's Better Strongholds](https://modrinth.com/mod/kidLKymU) | Server Only | ✅|
