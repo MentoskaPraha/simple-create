@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "1f87846265206279eb38e4ce9b4f69cb3a4401e8074fc69f039100713e525e58"
+hash = "183037212cfd0fa8c041a68b90cae821ab05760f5df4b46fb98a9e9d64726382"
 metafile = true
 
 [[files]]
@@ -312,11 +312,6 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "82af26167d201c93024644a5c2f73d61f16dfe9ea6a1957b514f1f32f9e2133e"
-metafile = true
-
-[[files]]
-file = "mods/fastback.pw.toml"
-hash = "b257615c6f78313e3ed9d344a1ef0d3a846f68fdd662d171d6117e6d8607112c"
 metafile = true
 
 [[files]]
@@ -361,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "cdc6994dedc82cf7807f6afbdde9000cf11841c174008b2aad20f62d9b0b08c7"
+hash = "4ee2934e90a2e1a508139ff83e5e21d88debd88223c7c235c057bf26fe7f10f5"
 metafile = true
 
 [[files]]
@@ -551,7 +546,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
+hash = "b6d4b85f76ab7c63f30c6c2f12f3188c34b7e3977c092cc7062b2902319e3ed2"
 metafile = true
 
 [[files]]
