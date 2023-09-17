@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "bd9602e5b9d1513c506900bf87a43c563168c8ae0e8c3e9f767b732c0d71776a"
+hash = "5a4d31825bdd55127b3716eb8eda5bd2e4d06319fa90850db633421a1d922f44"
 metafile = true
 
 [[files]]
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "13900eb4d75010b02eaa6675770e15eaf33794c55658d9b7ae5f4d8299f680c8"
+hash = "3a9f0237e0eb16ab1ffba6dc8de1e7fb9828c4b111c5c5fbee82dfdffcc1dcd7"
 metafile = true
 
 [[files]]
@@ -524,7 +524,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "81770f5e3d96ba41f95695cc4310cf249e919d7cff05d4059f500dd6370a962b"
+hash = "647e9c56b0ea86c65d5acc42d2a78192d4b6c0e7de6b1cc0824ab6be1b929bb6"
 metafile = true
 
 [[files]]
