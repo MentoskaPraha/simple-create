@@ -5,54 +5,6 @@ file = "LICENSE"
 hash = "25758fc95d05c3e93308d08ca6992142050e2321c4ad6f926918aa76d8da4f17"
 
 [[files]]
-file = "global_packs/optional_data/Craftable-Nametags.zip"
-hash = "1cf39c32b0f9122cb678f3c0360c462e12bb72fcf86732c37986834a1081f587"
-
-[[files]]
-file = "global_packs/required_data/AFK-Display.zip"
-hash = "fb8778ea88e0a910831cdbff02f16b41cddd65385754156a37c453092b31efb3"
-
-[[files]]
-file = "global_packs/required_data/Armor-Statues.zip"
-hash = "ff890f46bb5b1915039485de031a8a379ee90d72e2d20044a02bdb54eca4cbc3"
-
-[[files]]
-file = "global_packs/required_data/Cauldron-Concrete.zip"
-hash = "c6f2c438d1a53044e3fde005f5adc16393d15a15e75e98176a2f4deeca290997"
-
-[[files]]
-file = "global_packs/required_data/Crafting-Tweaks.zip"
-hash = "06442accf4a42929c8367847110228706e353ba6e86a1e253bde074dea576ada"
-
-[[files]]
-file = "global_packs/required_data/Custom Nether Portals.zip"
-hash = "a3c48341b2ccb5c07ec5d327ae3fef9844a256c0a4f393a8f6f64b064c7ddc57"
-
-[[files]]
-file = "global_packs/required_data/Fast-Leaf-Decay.zip"
-hash = "6b45047234fd5ce98624bfd07d96fea4d2b18704ce02826182c2fe4061dd8d86"
-
-[[files]]
-file = "global_packs/required_data/Multiplayer-Sleep.zip"
-hash = "695793d71ba912ffa115521091cdb82070e3d74ffe1084405c45bdbd7440ea43"
-
-[[files]]
-file = "global_packs/required_data/Nether-Portal-Coords.zip"
-hash = "8e51e06613e21384412f3d6917d7feb3ab60b13eafeccbaea83eb070d58a90e8"
-
-[[files]]
-file = "global_packs/required_data/Silence-Mobs.zip"
-hash = "7de277148dbe9a2631fe9aa756a5f99a0f90cc5b41fab0d719ee4832435b716b"
-
-[[files]]
-file = "global_packs/required_data/Villager-Workstation-Highlights.zip"
-hash = "42dbe1acb2851a2567d59a0779a7e818031e036f29bef39bfb8559e5c4a948d7"
-
-[[files]]
-file = "global_packs/required_data/Wandering-Trades.zip"
-hash = "5c92c292ed118e3b11199698cb4fad5a8762318d10bfddb071394565a4305c08"
-
-[[files]]
 file = "mods/adaptiveview.pw.toml"
 hash = "b5f11bb7dbc0c095268b15e0b01e90062f827da73a32808fd87d24b8e686c1f1"
 metafile = true
@@ -95,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/better-advancements.pw.toml"
 hash = "f156a51ba3706bbdd6d38a6d5a40364cf62d4911490635d3341ff07d4acb8dc7"
+metafile = true
+
+[[files]]
+file = "mods/better-compatibility-checker.pw.toml"
+hash = "862b44d2518412d15eccc133f2bc8d321f96b605a96c56724a55508dd4180062"
 metafile = true
 
 [[files]]
@@ -274,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
-hash = "e7fec92e06e88e8e596a79d1157bd142a89d64524c930023e863e8984b1607df"
+hash = "82af26167d201c93024644a5c2f73d61f16dfe9ea6a1957b514f1f32f9e2133e"
 metafile = true
 
 [[files]]
@@ -599,8 +556,144 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4e304a7e47c58c431d06fd06d2bcdf9e5784629883fe5355ef3701455da18f61"
+hash = "044bd0c258211d9b4dac11c95dc2fbae423aa23638fb7c21c02b366326acd329"
 
 [[files]]
-file = "resourcepacks/VanillaTweaks_r297414.zip"
+file = "overrides/config/bcc.json"
+hash = "829d779c61e9911e5c367e55333a3cfbe42efeab0b85c7585220fff222ca0b5c"
+
+[[files]]
+file = "overrides/config/betterf3.json"
+hash = "9c5b679e4eb28804ec2e609b55e0deeff5bdf5730e52024f549842e585d5132a"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/Test/villager-trading-config.json"
+hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "overrides/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "299814690b99c9c8917a5e18b62d6191d43ae446d891bb888adc1f77310a375e"
+
+[[files]]
+file = "overrides/config/replaymod.json"
+hash = "da659a1ea97aeeb8f8f7f9fcfc6d3a3a0f4a802407ec0fb7bf9663bb6eae3618"
+
+[[files]]
+file = "overrides/config/voicechat/voicechat-client.properties"
+hash = "b379ed053ff3fb522dd64f0630661a9e8a2db540073b91231f96d36691e0cd49"
+
+[[files]]
+file = "overrides/global_packs/optional_data/Craftable-Nametags.zip"
+hash = "1cf39c32b0f9122cb678f3c0360c462e12bb72fcf86732c37986834a1081f587"
+
+[[files]]
+file = "overrides/global_packs/required_data/AFK-Display.zip"
+hash = "fb8778ea88e0a910831cdbff02f16b41cddd65385754156a37c453092b31efb3"
+
+[[files]]
+file = "overrides/global_packs/required_data/Armor-Statues.zip"
+hash = "ff890f46bb5b1915039485de031a8a379ee90d72e2d20044a02bdb54eca4cbc3"
+
+[[files]]
+file = "overrides/global_packs/required_data/Cauldron-Concrete.zip"
+hash = "c6f2c438d1a53044e3fde005f5adc16393d15a15e75e98176a2f4deeca290997"
+
+[[files]]
+file = "overrides/global_packs/required_data/Crafting-Tweaks.zip"
+hash = "06442accf4a42929c8367847110228706e353ba6e86a1e253bde074dea576ada"
+
+[[files]]
+file = "overrides/global_packs/required_data/Custom Nether Portals.zip"
+hash = "a3c48341b2ccb5c07ec5d327ae3fef9844a256c0a4f393a8f6f64b064c7ddc57"
+
+[[files]]
+file = "overrides/global_packs/required_data/Fast-Leaf-Decay.zip"
+hash = "6b45047234fd5ce98624bfd07d96fea4d2b18704ce02826182c2fe4061dd8d86"
+
+[[files]]
+file = "overrides/global_packs/required_data/Multiplayer-Sleep.zip"
+hash = "695793d71ba912ffa115521091cdb82070e3d74ffe1084405c45bdbd7440ea43"
+
+[[files]]
+file = "overrides/global_packs/required_data/Nether-Portal-Coords.zip"
+hash = "8e51e06613e21384412f3d6917d7feb3ab60b13eafeccbaea83eb070d58a90e8"
+
+[[files]]
+file = "overrides/global_packs/required_data/Silence-Mobs.zip"
+hash = "7de277148dbe9a2631fe9aa756a5f99a0f90cc5b41fab0d719ee4832435b716b"
+
+[[files]]
+file = "overrides/global_packs/required_data/Villager-Workstation-Highlights.zip"
+hash = "42dbe1acb2851a2567d59a0779a7e818031e036f29bef39bfb8559e5c4a948d7"
+
+[[files]]
+file = "overrides/global_packs/required_data/Wandering-Trades.zip"
+hash = "5c92c292ed118e3b11199698cb4fad5a8762318d10bfddb071394565a4305c08"
+
+[[files]]
+file = "overrides/resourcepacks/VanillaTweaks_r297414.zip"
 hash = "8c517dcf693d34c8ef48d6f6a720769fe78152aa10916e8c65d3643062dced76"
+
+[[files]]
+file = "server-overrides/config/bcc.json"
+hash = "829d779c61e9911e5c367e55333a3cfbe42efeab0b85c7585220fff222ca0b5c"
+
+[[files]]
+file = "server-overrides/config/voicechat-server.properties"
+hash = "adee5cac91713f9611e372507dbe64526020d3443e9fd2f48feae17328f70d3f"
+
+[[files]]
+file = "server-overrides/global_packs/optional_data/Craftable-Nametags.zip"
+hash = "1cf39c32b0f9122cb678f3c0360c462e12bb72fcf86732c37986834a1081f587"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/AFK-Display.zip"
+hash = "fb8778ea88e0a910831cdbff02f16b41cddd65385754156a37c453092b31efb3"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/Armor-Statues.zip"
+hash = "ff890f46bb5b1915039485de031a8a379ee90d72e2d20044a02bdb54eca4cbc3"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/Cauldron-Concrete.zip"
+hash = "c6f2c438d1a53044e3fde005f5adc16393d15a15e75e98176a2f4deeca290997"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/Crafting-Tweaks.zip"
+hash = "06442accf4a42929c8367847110228706e353ba6e86a1e253bde074dea576ada"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/Custom Nether Portals.zip"
+hash = "a3c48341b2ccb5c07ec5d327ae3fef9844a256c0a4f393a8f6f64b064c7ddc57"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/Fast-Leaf-Decay.zip"
+hash = "6b45047234fd5ce98624bfd07d96fea4d2b18704ce02826182c2fe4061dd8d86"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/Multiplayer-Sleep.zip"
+hash = "695793d71ba912ffa115521091cdb82070e3d74ffe1084405c45bdbd7440ea43"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/Nether-Portal-Coords.zip"
+hash = "8e51e06613e21384412f3d6917d7feb3ab60b13eafeccbaea83eb070d58a90e8"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/Silence-Mobs.zip"
+hash = "7de277148dbe9a2631fe9aa756a5f99a0f90cc5b41fab0d719ee4832435b716b"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/Villager-Workstation-Highlights.zip"
+hash = "42dbe1acb2851a2567d59a0779a7e818031e036f29bef39bfb8559e5c4a948d7"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/Wandering-Trades.zip"
+hash = "5c92c292ed118e3b11199698cb4fad5a8762318d10bfddb071394565a4305c08"
+
+[[files]]
+file = "server-overrides/server.properties"
+hash = "b57b4fcd4d08fa75f531590c5a805fa56df54d372a319853a2a23b0e486858d9"
