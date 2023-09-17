@@ -13,6 +13,10 @@ file = "config/betterf3.json"
 hash = "9c5b679e4eb28804ec2e609b55e0deeff5bdf5730e52024f549842e585d5132a"
 
 [[files]]
+file = "config/enchancement.json"
+hash = "b2c0dd2020e70662a7f1ff0791ca1598edbaadacdc6adda7c5484fb2d0c0fd54"
+
+[[files]]
 file = "config/inventoryprofilesnext/Test/villager-trading-config.json"
 hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
 
@@ -34,7 +38,7 @@ hash = "b379ed053ff3fb522dd64f0630661a9e8a2db540073b91231f96d36691e0cd49"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "adee5cac91713f9611e372507dbe64526020d3443e9fd2f48feae17328f70d3f"
+hash = "09229adb189344b0fed404157d94320d326835a41cca0fc2ea820773b18855b0"
 
 [[files]]
 file = "global_packs/optional_data/Craftable-Nametags.zip"
@@ -262,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/debugify.pw.toml"
 hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "8d8ba1d500070cac1b9961d78e2fd90d973cee01d373175d64e3250aa1d3b2c7"
 metafile = true
 
 [[files]]

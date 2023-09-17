@@ -69,6 +69,7 @@ Dependancies not included.
 | [Carry On](https://modrinth.com/mod/joEfVgkn) | Client and Server | ✅ |
 | [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) | Client and Server | ✅ |
 | [Better Compatability Checker](https://modrinth.com/mod/KJhXPbHQ) | Client and Server | ✅ |
+| [Do a Barrel Roll](https://modrinth.com/mod/6FtRfnLg) | Client and Server | ✅ |
 | [Appleskin](https://modrinth.com/mod/EsAfCjCV) | Client or Server | ✅ |
 | [Jade](https://modrinth.com/mod/nvQzSEkH) | Client or Server | ✅ |
 | [Jade Add-ons](https://modrinth.com/mod/fThnVRli) | Client or Server | ✅ |
