@@ -6,7 +6,11 @@ hash = "25758fc95d05c3e93308d08ca6992142050e2321c4ad6f926918aa76d8da4f17"
 
 [[files]]
 file = "config/bcc.json"
-hash = "829d779c61e9911e5c367e55333a3cfbe42efeab0b85c7585220fff222ca0b5c"
+hash = "af7a8f9a429bdbb27950c55acee98947769afdd6694a79abecc29abd92d00dd5"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "25c77659150998588c011af422b0da2e3159b2edf80a5b229f076f73bdf8535c"
 
 [[files]]
 file = "config/betterf3.json"
@@ -27,6 +31,10 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "299814690b99c9c8917a5e18b62d6191d43ae446d891bb888adc1f77310a375e"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "b9f5e307a79a7a09819c030e86015b9cb82ae38d5d2eb70144cec8edc153d55d"
 
 [[files]]
 file = "config/replaymod.json"
@@ -640,7 +648,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "044bd0c258211d9b4dac11c95dc2fbae423aa23638fb7c21c02b366326acd329"
+hash = "3477ca8f38251af0204d4dad1ff3afab536a9ee06b38e6e7ed0321d4076e9baa"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks_r297414.zip"
