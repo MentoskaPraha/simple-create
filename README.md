@@ -48,7 +48,7 @@ Enjoy the modlist!
 Dependancies not included.
 
 |  Mod Name and Link | Client/Server Info | Ready for 1.20 Upgrade |
-| ---------------------| :-----------------: | :-----------------------: |
+| :---------------------: | :-----------------: | :-----------------------: |
 | [Origins](https://modrinth.com/mod/3BeIrqZR) |  Client and Server | ✅ |
 | [Enchancement](https://modrinth.com/mod/6hN1V6wJ) | Client and Server | ✅ |
 | [Impaled](https://modrinth.com/mod/AiHAhIP5) | Client and Server | |
