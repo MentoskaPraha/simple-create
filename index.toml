@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "eeb7901c2222b131a01990bc5f8e7d2f1d5beaed7786bfecf8f8738d4674df30"
+hash = "96375b8211f024e64a24e51cf7a57f370ceabd5fe02bc2d02eae5ba639ba9d71"
 metafile = true
 
 [[files]]
@@ -233,12 +233,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
-hash = "c78ed89fd681f68f3f2f733a4270df3e0b2498838b966990b690b54be1f6ac79"
+hash = "54a23283bfdd64822d9cf718018737c1342576fa05091bdeedb5d0e65e0ab78e"
 metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry-fabric.pw.toml"
-hash = "a7af649273525c694e70110db99305bc00070f7a0c7a29c7aa686f626670a331"
+hash = "23356a49d285b0c2844a7586cffd84e5d1af7f866e3602903205a72d580d5f3f"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3a9f0237e0eb16ab1ffba6dc8de1e7fb9828c4b111c5c5fbee82dfdffcc1dcd7"
+hash = "b31179108f658fdc015f1eed9a3614d08b212de2e67b2391678d93e3e561c1f2"
 metafile = true
 
 [[files]]
@@ -428,7 +428,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1dbce89c17f67f7b9111375f55f8ed07c42e0ca19572575890985f367658c075"
+hash = "74187f3fa3238a5c91cc36913975cf9fe4108b793acba1682b86e7ba94f91ec2"
 metafile = true
 
 [[files]]
@@ -483,7 +483,7 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "91038892b40c499a4e4ebf4856246f376089034824bba995b0ec2306014110f8"
+hash = "811dc769718ca23992e7d88f59b260687a798a0865a054711bdc5bee9df7acd8"
 metafile = true
 
 [[files]]
@@ -503,7 +503,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "9a851a4d5deffcbcba19c87a0dfed26b7e8fae3a68fd5bac3caea9d52f30fccb"
+hash = "6bd6cfa80b12a665c7d4e43005bab7857b2047d2f985eacca58e65abb478ce2e"
 metafile = true
 
 [[files]]
@@ -573,7 +573,7 @@ metafile = true
 
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
-hash = "647e9c56b0ea86c65d5acc42d2a78192d4b6c0e7de6b1cc0824ab6be1b929bb6"
+hash = "b9f61361ebbc5ea242a9aabe3d6cacddd30e6c80a2818d00735dd4b3d5bb98e1"
 metafile = true
 
 [[files]]
@@ -618,7 +618,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "b097a8278c0395cca7aa1cbe8dc446973478d1b7729e30e836962a55275ef7b0"
+hash = "a629719b3d78e3141e176b623f73a1745354ab64c08c81c06e9ed7e6d81efac4"
 metafile = true
 
 [[files]]
