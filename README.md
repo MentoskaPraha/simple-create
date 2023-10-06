@@ -8,7 +8,7 @@ The [Enchancement](https://modrinth.com/mod/6hN1V6wJ) mod, while fun, rebalances
 
 Mods that rework how Minecraft generates its terrain may also be something you do not enjoy. However these do provide new and fresh environments for you to explore, so I suggest you give them a chance.
 
-There are also some client side mods that you may find annoying, feel free to remove these if you do.
+There are also some client side mods that you may find annoying, feel free to remove these if you do. The default [Vanilla Tweak](https://vanillatweaks.net/) texturepacks and datapacks may annoy you as well, but these can also be removed.
 
 At the end of the day you need to find what works for you and your friends.
 
@@ -31,10 +31,10 @@ Please do note that [Simple Voice Chat](https://modrinth.com/plugin/9eGKb6K1) re
 We've also included a mod list in this description where you can find all the mods we've used, whether they are needed on the client or server and whether they are ready for 1.20.
 
 ## 1.20
-We plan on updating to 1.20 as soon as all of the mods in this pack support it. For a full list of mods and whether they support 1.20 see bellow.
+We plan on updating to 1.20 as soon as all of the mods in this pack support it. For a full list of mods and whether they support 1.20 see bellow. Also due to the way that modding works it's highly likely that we'll always be one version behind the game.
 
 ## Conclusion and Credits
-Big thanks once again to Gljue, who was too lazy to create a Modrinth account, and who create the modpack's icon and helped compile all the mods. I'd also like to thank all the modders who wrote all the mods in this modpack you guys are absolute chads.
+Big thanks once again to Gljue, who was too lazy to create a Modrinth account, and who create the modpack's icon and helped compile all the mods. I'd also like to thank all the modders who wrote all the mods in this modpack and the folks over at [Vanilla Tweak](https://vanillatweaks.net/) who created the datapacks and texturepacks that are included in this mod.
 
 I'd also also like to say once again that this modpack is meant to serve as an inspiration, so that you can fine-tune it in order to play the game you want to play. If you don't like something about this modpack feel free to change it.
 
