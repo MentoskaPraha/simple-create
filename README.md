@@ -21,15 +21,6 @@ I'd also check out [Create: Aeronautics]( https://discord.gg/createaeronautics) 
 
 Again these are recommendations and this modpack is meant to serve as inspiration or a jumping off point for you and your friends, so that you can play Minecraft in a way you want to.
 
-## Hosting
-This modpack uses [QuiltMC](https://quiltmc.org/en/) as the modloader. Please see their [website](https://quiltmc.org/en/) for details on how to install the client and/or server. If you're using a custom launcher like the [ATLauncher](https://atlauncher.com/), please refer to your launchers instructions on how to install modpacks. Most commonly used launchers support the Modrinth modpack format.
-
-For the server admin's convenience  we have created a separate modpack version which removes all client-side only mods and adds a few useful server utilities, like [Discord Integration](https://modrinth.com/plugin/rbJ7eS5V) and [Fast Backups](https://modrinth.com/mod/ZHKrK8Rp).
-
-Please do note that [Simple Voice Chat](https://modrinth.com/plugin/9eGKb6K1) requires extra configuration.
-
-We've also included a mod list in this description where you can find all the mods we've used, whether they are needed on the client or server and whether they are ready for 1.20.
-
 ## 1.20
 We plan on updating to 1.20 as soon as all of the mods in this pack support it. For a full list of mods and whether they support 1.20 see bellow. Also due to the way that modding works it's highly likely that we'll always be one version behind the game.
 
@@ -140,3 +131,5 @@ Dependancies not included.
 | [Advancement Plaques](https://modrinth.com/mod/9NM0dXub) | Client Only | ✅ |
 | [AmbientSounds](https://modrinth.com/mod/fM515JnW) | Client Only | ✅ |
 | [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) | Client Only | ✅ |
+
+### Texturepack List

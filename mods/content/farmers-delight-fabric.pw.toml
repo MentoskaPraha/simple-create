@@ -1,8 +1,0 @@
-name = "Farmer's Delight [Fabric]"
-filename = "farmers-delight-fabric-mc1.19-1.19.2-1.3.10.1-bytecode-patch.jar"
-side = "both"
-
-[download]
-url = "https://nextcloud.ithundxr.dev/s/QwHeTbQttEGgnLM"
-hash-format = "sha1"
-hash = "592c8e1209106a863e61ae14dde18a659eb94a21"
