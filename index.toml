@@ -61,9 +61,8 @@ hash = "5a4d31825bdd55127b3716eb8eda5bd2e4d06319fa90850db633421a1d922f44"
 metafile = true
 
 [[files]]
-file = "mods/content/farmers-delight.pw.toml"
-hash = "f3268a1d1d87b922f5be48442dbb83ee8afc7fee6f53fe079a120271cc5a3e5f"
-metafile = true
+file = "mods/content/farmers-delight.toml"
+hash = "9c06a06ccd8aff4c6155ee5d2baa4454a0fcaaf76ee929a90ba73f3f05fb5bff"
 
 [[files]]
 file = "mods/content/origins.pw.toml"
@@ -87,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/travelersbackpack.pw.toml"
-hash = "b9f61361ebbc5ea242a9aabe3d6cacddd30e6c80a2818d00735dd4b3d5bb98e1"
+hash = "690df79c7862b60f5c03cd2addcc580aacedca1bf74c7e924a19ce9bce96c519"
 metafile = true
 
 [[files]]
@@ -681,6 +680,10 @@ hash = "42dbe1acb2851a2567d59a0779a7e818031e036f29bef39bfb8559e5c4a948d7"
 [[files]]
 file = "overrides/global_packs/required_data/Wandering-Trades.zip"
 hash = "5c92c292ed118e3b11199698cb4fad5a8762318d10bfddb071394565a4305c08"
+
+[[files]]
+file = "overrides/mods/farmers-delight-fabric-mc1.19-1.19.2-1.3.10.1-bytecode-patch.jar"
+hash = "ee3ef27946d2182b41b3670eeff54020cd6be513683ead4196c5c8ac3c697c4c"
 
 [[files]]
 file = "server-overrides/config/Discord-Integration.toml"
