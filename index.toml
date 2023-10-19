@@ -37,8 +37,13 @@ file = "client-overrides/options.txt"
 hash = "3477ca8f38251af0204d4dad1ff3afab536a9ee06b38e6e7ed0321d4076e9baa"
 
 [[files]]
-file = "client-overrides/resourcepacks/VanillaTweaks_r297414.zip"
-hash = "8c517dcf693d34c8ef48d6f6a720769fe78152aa10916e8c65d3643062dced76"
+file = "client-overrides/resourcepacks/VanillaTweaks.zip"
+hash = "da97c74bedd95a384f47e3850c1f12762e15afe10e0561d1363767c07cae5551"
+
+[[files]]
+file = "mods/content/chalk.pw.toml"
+hash = "3b1ab484e2e6240f704b382d169d98f69ba3a312d89c0027f56e9ed7cd549c7f"
+metafile = true
 
 [[files]]
 file = "mods/content/create-big-cannons.pw.toml"
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/content/create-fabric.pw.toml"
 hash = "85177d5ff0334af62a87ae4ec1b175ecbbd478604f99474cf27e84663a52d551"
+metafile = true
+
+[[files]]
+file = "mods/content/create-origins.pw.toml"
+hash = "073adf5044a66982ac0fb424647967ac5731d798f7b856213d10597231a951f0"
 metafile = true
 
 [[files]]
@@ -145,6 +155,11 @@ hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
+file = "mods/fixes/modelfix.pw.toml"
+hash = "9d903fdb128e98639fca7b110c1d1993bfaddc9025ccbe0d03753c429f895134"
+metafile = true
+
+[[files]]
 file = "mods/fixes/mouse-tweaks.pw.toml"
 hash = "8f554f10f3ca26505c1f51871263a7d75fca1e07a288c60c1a96b18f830beede"
 metafile = true
@@ -152,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/fixes/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
+file = "mods/fixes/no-telemetry.pw.toml"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
@@ -290,6 +310,11 @@ hash = "62c11b66d114f86bf0dbe77ba13a2d6c968828be7da7f9ba8a054b62c6c75f3f"
 metafile = true
 
 [[files]]
+file = "mods/optimasations/clumps.pw.toml"
+hash = "dcde5bfabe35341d1dedeb43ce46c4f9310c02a3ba3aad8402933a4e3bdfc491"
+metafile = true
+
+[[files]]
 file = "mods/optimasations/cull-less-leaves.pw.toml"
 hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
 metafile = true
@@ -370,6 +395,11 @@ hash = "96375b8211f024e64a24e51cf7a57f370ceabd5fe02bc2d02eae5ba639ba9d71"
 metafile = true
 
 [[files]]
+file = "mods/other/cit-resewn.pw.toml"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
+metafile = true
+
+[[files]]
 file = "mods/other/cleardespawn.pw.toml"
 hash = "a1b43ad6bb503bbe88b9047f28a861c2d5425a4eb3c814c32a96e7aa388ea137"
 metafile = true
@@ -377,11 +407,6 @@ metafile = true
 [[files]]
 file = "mods/other/clickthrough.pw.toml"
 hash = "1a4c9d83b0709fd2f91814eb67f81e19bb1493315c42cb65efe911d0f34c5a13"
-metafile = true
-
-[[files]]
-file = "mods/other/comforts.pw.toml"
-hash = "e6ad077b2b20ca9bb5a6b371cd5e5c4c77bd8e6613d9a498b23c48bf16ea60c3"
 metafile = true
 
 [[files]]
@@ -405,6 +430,16 @@ hash = "192d5837406f350de1551233735b6de7deb374669585d8759b554edfb4f72c05"
 metafile = true
 
 [[files]]
+file = "mods/other/entity-model-features.pw.toml"
+hash = "f1f4cef85b4ea61d483c1051e967d109e7ebcd059171bf868e832a0326d22450"
+metafile = true
+
+[[files]]
+file = "mods/other/entitytexturefeatures.pw.toml"
+hash = "dbe6edf00ea93269b25449b1898711b0716aaaa828d8f62a9fb10e9fc4e12675"
+metafile = true
+
+[[files]]
 file = "mods/other/extrasounds.pw.toml"
 hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
@@ -412,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/other/globalpacks.pw.toml"
 hash = "2f3d78980ca33ab11a46413f80bcd53f7d14245759006a158b05da6d2ebee63a"
+metafile = true
+
+[[files]]
+file = "mods/other/iris.pw.toml"
+hash = "dfbdb89a9b842c190339d6d60a6a2e812e3d3bdcd986610e3b740ec478e4dcb0"
 metafile = true
 
 [[files]]
@@ -635,11 +675,11 @@ hash = "09229adb189344b0fed404157d94320d326835a41cca0fc2ea820773b18855b0"
 
 [[files]]
 file = "overrides/global_packs/optional_data/Craftable-Nametags.zip"
-hash = "1cf39c32b0f9122cb678f3c0360c462e12bb72fcf86732c37986834a1081f587"
+hash = "487e7fa4cc1cfd4dd280857397df2b0b4a0ccf28d90a7bd5127f48bbfa619bee"
 
 [[files]]
-file = "overrides/global_packs/required_data/AFK-Display.zip"
-hash = "fb8778ea88e0a910831cdbff02f16b41cddd65385754156a37c453092b31efb3"
+file = "overrides/global_packs/optional_data/Thunder-Shrine.zip"
+hash = "a04e0115b9a18ff4181d82ed1c3987dd0eebee73b3f3853899ccc64f6716bd86"
 
 [[files]]
 file = "overrides/global_packs/required_data/Armor-Statues.zip"
@@ -651,19 +691,15 @@ hash = "c6f2c438d1a53044e3fde005f5adc16393d15a15e75e98176a2f4deeca290997"
 
 [[files]]
 file = "overrides/global_packs/required_data/Crafting-Tweaks.zip"
-hash = "06442accf4a42929c8367847110228706e353ba6e86a1e253bde074dea576ada"
+hash = "5b5360e435b6801e0286b97e8a06e581b6686ec3f710261bd4808abcfa3cf69c"
 
 [[files]]
-file = "overrides/global_packs/required_data/Custom Nether Portals.zip"
+file = "overrides/global_packs/required_data/Custom-Nether-Portals.zip"
 hash = "a3c48341b2ccb5c07ec5d327ae3fef9844a256c0a4f393a8f6f64b064c7ddc57"
 
 [[files]]
 file = "overrides/global_packs/required_data/Fast-Leaf-Decay.zip"
 hash = "6b45047234fd5ce98624bfd07d96fea4d2b18704ce02826182c2fe4061dd8d86"
-
-[[files]]
-file = "overrides/global_packs/required_data/Multiplayer-Sleep.zip"
-hash = "695793d71ba912ffa115521091cdb82070e3d74ffe1084405c45bdbd7440ea43"
 
 [[files]]
 file = "overrides/global_packs/required_data/Nether-Portal-Coords.zip"
@@ -672,6 +708,10 @@ hash = "8e51e06613e21384412f3d6917d7feb3ab60b13eafeccbaea83eb070d58a90e8"
 [[files]]
 file = "overrides/global_packs/required_data/Silence-Mobs.zip"
 hash = "7de277148dbe9a2631fe9aa756a5f99a0f90cc5b41fab0d719ee4832435b716b"
+
+[[files]]
+file = "overrides/global_packs/required_data/Unlock-All-Recipes.zip"
+hash = "9408b2e9bd13978de51fa568d3c335c4e3a1a78bdacbe85cdfee0141b460639b"
 
 [[files]]
 file = "overrides/global_packs/required_data/Villager-Workstation-Highlights.zip"
@@ -686,6 +726,21 @@ file = "overrides/mods/farmers-delight-fabric-mc1.19-1.19.2-1.3.10.1-bytecode-pa
 hash = "ee3ef27946d2182b41b3670eeff54020cd6be513683ead4196c5c8ac3c697c4c"
 
 [[files]]
+file = "resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "8d538adda14dbd0c7235bbc2b27c9633d88f420a69a9e2fc02c56dfe0243169c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "81e456094c4decb60cd5af5e7eaf53d9b3ba775aa05ea319c99d2325e60ca6a0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-potion.pw.toml"
+hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
+metafile = true
+
+[[files]]
 file = "server-overrides/config/Discord-Integration.toml"
 hash = "d91758d556a165e676270d7f8494b6f05e7eca61812beb0892de8dff690f0d02"
 
@@ -696,3 +751,20 @@ hash = "b82091ec8f42cf36d350d41b50306cb3ffe18582c925c1ab1612464beb6cef9f"
 [[files]]
 file = "server-overrides/config/do_a_barrel_roll-server.json"
 hash = "216918751aad525f6b3508bec64fb5c3d0183019cd75565735f2ff5e8f7cf8d7"
+
+[[files]]
+file = "server-overrides/global_packs/optional_data/Tag.zip"
+hash = "7e70d3facaf08d82c134bde3101e59a0c974d2f40833e2dbf17ff08cb1558d78"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/AFK-Display.zip"
+hash = "fb8778ea88e0a910831cdbff02f16b41cddd65385754156a37c453092b31efb3"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/Multiplayer-Sleep.zip"
+hash = "695793d71ba912ffa115521091cdb82070e3d74ffe1084405c45bdbd7440ea43"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "fe25dd4c082ac2195ec1f473f0390e2befa36a9a3743d27005701adf53f7aeea"
+metafile = true
