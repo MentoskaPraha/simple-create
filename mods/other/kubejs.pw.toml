@@ -1,13 +1,13 @@
 name = "KubeJS"
-filename = "kubejs-fabric-1902.6.2-build.15.jar"
+filename = "kubejs-fabric-1902.6.2-build.27.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/umyGl7zF/versions/UiUUWj3r/kubejs-fabric-1902.6.2-build.15.jar"
+url = "https://cdn.modrinth.com/data/umyGl7zF/versions/HyhAUPCb/kubejs-fabric-1902.6.2-build.27.jar"
 hash-format = "sha1"
-hash = "fa71252e2ff70986b7afb3ebd41efb7eac74d367"
+hash = "e27eb0d5f2122228f5049e9bf90312a5fa2c9651"
 
 [update]
 [update.modrinth]
 mod-id = "umyGl7zF"
-version = "UiUUWj3r"
+version = "HyhAUPCb"
