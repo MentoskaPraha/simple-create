@@ -38,7 +38,12 @@ hash = "3477ca8f38251af0204d4dad1ff3afab536a9ee06b38e6e7ed0321d4076e9baa"
 
 [[files]]
 file = "client-overrides/resourcepacks/VanillaTweaks.zip"
-hash = "c0a3dc68c658706d566f593d99f636bdec855f1322f5d935bd4e7813c7d0bbf5"
+hash = "da97c74bedd95a384f47e3850c1f12762e15afe10e0561d1363767c07cae5551"
+
+[[files]]
+file = "mods/content/chalk.pw.toml"
+hash = "3b1ab484e2e6240f704b382d169d98f69ba3a312d89c0027f56e9ed7cd549c7f"
+metafile = true
 
 [[files]]
 file = "mods/content/chipped.pw.toml"
@@ -405,11 +410,6 @@ hash = "96375b8211f024e64a24e51cf7a57f370ceabd5fe02bc2d02eae5ba639ba9d71"
 metafile = true
 
 [[files]]
-file = "mods/other/cit-resewn.pw.toml"
-hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
-metafile = true
-
-[[files]]
 file = "mods/other/cleardespawn.pw.toml"
 hash = "a1b43ad6bb503bbe88b9047f28a861c2d5425a4eb3c814c32a96e7aa388ea137"
 metafile = true
@@ -420,33 +420,8 @@ hash = "1a4c9d83b0709fd2f91814eb67f81e19bb1493315c42cb65efe911d0f34c5a13"
 metafile = true
 
 [[files]]
-file = "mods/other/continuity.pw.toml"
-hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
-metafile = true
-
-[[files]]
 file = "mods/other/dcintegration.pw.toml"
 hash = "5da34b344a9a6631a2a7218c64508f583fc74617f8afa5b343f1fcd1409c5d71"
-metafile = true
-
-[[files]]
-file = "mods/other/eating-animation.pw.toml"
-hash = "4c272f8e64788341090015050f2a4062d0944958f3479dcbbfa7639676f1053e"
-metafile = true
-
-[[files]]
-file = "mods/other/effective.pw.toml"
-hash = "192d5837406f350de1551233735b6de7deb374669585d8759b554edfb4f72c05"
-metafile = true
-
-[[files]]
-file = "mods/other/entity-model-features.pw.toml"
-hash = "f1f4cef85b4ea61d483c1051e967d109e7ebcd059171bf868e832a0326d22450"
-metafile = true
-
-[[files]]
-file = "mods/other/entitytexturefeatures.pw.toml"
-hash = "dbe6edf00ea93269b25449b1898711b0716aaaa828d8f62a9fb10e9fc4e12675"
 metafile = true
 
 [[files]]
@@ -466,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/other/kubejs.pw.toml"
-hash = "899734afc5e3a8972191fbed7b8355510e9ceb7924881c5159c44e60bf41e263"
+hash = "f408f4e8c2975816c45e43146d871db86e6b6467e34184c015704fa2dc93e839"
 metafile = true
 
 [[files]]
@@ -597,6 +572,46 @@ metafile = true
 [[files]]
 file = "mods/terrain/yungs-extras.pw.toml"
 hash = "4b502ea7f185b192b42c890e30b181246b341b1fcf4bd626b68c07de3cb46b19"
+metafile = true
+
+[[files]]
+file = "mods/textures/blahaj-of-undying.pw.toml"
+hash = "9995ebc17bc91f1ce0355ca6edff3fcd65477f394f8d5875e29843d9ac3c2243"
+metafile = true
+
+[[files]]
+file = "mods/textures/cit-resewn.pw.toml"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
+metafile = true
+
+[[files]]
+file = "mods/textures/continuity.pw.toml"
+hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
+metafile = true
+
+[[files]]
+file = "mods/textures/eating-animation.pw.toml"
+hash = "4c272f8e64788341090015050f2a4062d0944958f3479dcbbfa7639676f1053e"
+metafile = true
+
+[[files]]
+file = "mods/textures/effective.pw.toml"
+hash = "192d5837406f350de1551233735b6de7deb374669585d8759b554edfb4f72c05"
+metafile = true
+
+[[files]]
+file = "mods/textures/entity-model-features.pw.toml"
+hash = "f1f4cef85b4ea61d483c1051e967d109e7ebcd059171bf868e832a0326d22450"
+metafile = true
+
+[[files]]
+file = "mods/textures/entitytexturefeatures.pw.toml"
+hash = "dbe6edf00ea93269b25449b1898711b0716aaaa828d8f62a9fb10e9fc4e12675"
+metafile = true
+
+[[files]]
+file = "mods/textures/iris.pw.toml"
+hash = "a16799bfb18ad3723165408cc7ca841091497ffd2a4ea31da365017f67846bbf"
 metafile = true
 
 [[files]]
@@ -736,8 +751,33 @@ file = "overrides/global_packs/required_data/Wandering-Trades.zip"
 hash = "5c92c292ed118e3b11199698cb4fad5a8762318d10bfddb071394565a4305c08"
 
 [[files]]
-file = "overrides/mods/farmers-delight-fabric-mc1.19-1.19.2-1.3.10.1-bytecode-patch.jar"
+file = "overrides/mods/content/farmers-delight-fabric-mc1.19-1.19.2-1.3.10.1-bytecode-patch.jar"
 hash = "ee3ef27946d2182b41b3670eeff54020cd6be513683ead4196c5c8ac3c697c4c"
+
+[[files]]
+file = "resourcepacks/basket.pw.toml"
+hash = "7668115387adcf65bdeaf1ac52b7d5a1c2ffbfb490eb418ecd602b0bedb90664"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enhanced-boss-bars.pw.toml"
+hash = "8d538adda14dbd0c7235bbc2b27c9633d88f420a69a9e2fc02c56dfe0243169c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "81e456094c4decb60cd5af5e7eaf53d9b3ba775aa05ea319c99d2325e60ca6a0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enhanced-jungle-wood.pw.toml"
+hash = "60d3d7bfda1200d93ffc8cef6a16ef21c224537c946b5ca25d7a94ae77d416ca"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-potion.pw.toml"
+hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
+metafile = true
 
 [[files]]
 file = "server-overrides/config/Discord-Integration.toml"
@@ -748,5 +788,22 @@ file = "server-overrides/config/DiscordIntegration-Data/Messages.toml"
 hash = "b82091ec8f42cf36d350d41b50306cb3ffe18582c925c1ab1612464beb6cef9f"
 
 [[files]]
-file = "server-overrides/config/do_a_barrel_roll-server.json"
-hash = "216918751aad525f6b3508bec64fb5c3d0183019cd75565735f2ff5e8f7cf8d7"
+file = "server-overrides/global_packs/optional_data/Tag.zip"
+hash = "7e70d3facaf08d82c134bde3101e59a0c974d2f40833e2dbf17ff08cb1558d78"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/AFK-Display.zip"
+hash = "fb8778ea88e0a910831cdbff02f16b41cddd65385754156a37c453092b31efb3"
+
+[[files]]
+file = "server-overrides/global_packs/required_data/Multiplayer-Sleep.zip"
+hash = "695793d71ba912ffa115521091cdb82070e3d74ffe1084405c45bdbd7440ea43"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "fe25dd4c082ac2195ec1f473f0390e2befa36a9a3743d27005701adf53f7aeea"
+metafile = true
+
+[[files]]
+file = "simple-create-logo.jpeg"
+hash = "fbcd6e27f71d25251dbfd481b4b6992a7bf3a47a72679dec20c41df98decbea1"
