@@ -66,6 +66,11 @@ hash = "85177d5ff0334af62a87ae4ec1b175ecbbd478604f99474cf27e84663a52d551"
 metafile = true
 
 [[files]]
+file = "mods/content/create-ore-excavation.pw.toml"
+hash = "3797350f2eda3aebd2aca1d065c47bb9052e8b34a5f183088c20f2acb255febe"
+metafile = true
+
+[[files]]
 file = "mods/content/create-origins.pw.toml"
 hash = "073adf5044a66982ac0fb424647967ac5731d798f7b856213d10597231a951f0"
 metafile = true
@@ -73,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/content/create-steam-n-rails.pw.toml"
 hash = "5a4d31825bdd55127b3716eb8eda5bd2e4d06319fa90850db633421a1d922f44"
+metafile = true
+
+[[files]]
+file = "mods/content/extended-cogwheels.pw.toml"
+hash = "2e9fb6794be0508c5afe707536ad16360f821980f0287e33f79ce39beea41ba2"
 metafile = true
 
 [[files]]
