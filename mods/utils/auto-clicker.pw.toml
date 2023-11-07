@@ -1,0 +1,13 @@
+name = "Auto Clicker"
+filename = "auto-clicker-fabric-1.19.2-1.4.2-build.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/r8axuw4u/versions/Nb2XQAVE/auto-clicker-fabric-1.19.2-1.4.2-build.19.jar"
+hash-format = "sha1"
+hash = "0c460143ab4ac26643f6837e719e7d9e56587a1b"
+
+[update]
+[update.modrinth]
+mod-id = "r8axuw4u"
+version = "Nb2XQAVE"
