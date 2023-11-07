@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/supplementaries.pw.toml"
-hash = "f2d38012ec89ce150cd56e1c19f19615844bf2c173e38a6483afa4c0fd8297b5"
+hash = "a95ee3ef8acf9d1f1e050f8c96f9d6a177d56b28632592a3846c5c7944e01a11"
 metafile = true
 
 [[files]]
@@ -315,11 +315,6 @@ hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
 metafile = true
 
 [[files]]
-file = "mods/libs/terralith.pw.toml"
-hash = "64228ac782b244019e700da682e0006e9959f472035252c5a5354e0dc395d1e0"
-metafile = true
-
-[[files]]
 file = "mods/libs/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
@@ -361,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/clickthrough.pw.toml"
-hash = "1a4c9d83b0709fd2f91814eb67f81e19bb1493315c42cb65efe911d0f34c5a13"
+hash = "0b307a8cfdc3f214c384fc9f8e34e786373efbf3874715947ef8a6bedcb5806c"
 metafile = true
 
 [[files]]
@@ -456,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/optimasations/dynamic-fps.pw.toml"
-hash = "b9d0b3582c17bc4196358ae9690e6cff66001bef6dd7f0db4e3934bddc84f873"
+hash = "b31179108f658fdc015f1eed9a3614d08b212de2e67b2391678d93e3e561c1f2"
 metafile = true
 
 [[files]]
@@ -552,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/terrain/regions-unexplored.pw.toml"
 hash = "3c366b447c196754b2fcf7d841f55f4393e76fee9593806e58b4d26e6014cba3"
+metafile = true
+
+[[files]]
+file = "mods/terrain/terralith.pw.toml"
+hash = "64228ac782b244019e700da682e0006e9959f472035252c5a5354e0dc395d1e0"
 metafile = true
 
 [[files]]

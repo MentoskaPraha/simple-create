@@ -84,6 +84,7 @@ These mods rework terrain generation, allowing for interesting structures and ex
 | [BetterNether](https://modrinth.com/mod/MpzVLzy5) | Client and Server | Used | ✅ |
 | [Oh The Biomes You'll Go](https://modrinth.com/mod/uE1WpIAk) | Client and Server | Used |  |
 | [Regions Unexplored](https://modrinth.com/mod/Tkikq67H) | Client and Server | Used | ✅ |
+| [Terralith](https://modrinth.com/mod/8oi3bsk5) | Client and Server | Used | ✅ |
 | [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) | Client and Server | Used | ✅ |
 | [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5) | Client and Server | Used | ✅ |
 | [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr) | Client and Server | Used | ✅ |
@@ -184,4 +185,27 @@ These mods allow all the other mods to work.
 
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.1 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
-| [](https://modrinth.com/mod/) | Client and Server | Used | ✅ |
+| [Architectury API](https://modrinth.com/mod/lhGA9TYQ) | Client and Server | Used | ✅ |
+| [BCLib](https://modrinth.com/mod/BgNRHReB) | Client and Server | Used | ✅ |
+| [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) | Client and Server | Used | ✅ |
+| [Cardinal Components API](https://modrinth.com/mod/K01OU20C) | Client and Server | Used | ✅ |
+| [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client and Server | Used | ✅ |
+| [CorgiLib](https://modrinth.com/mod/ziOp6EO8) | Client and Server | Used | ✅ |
+| [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client and Server | Used | ✅ |
+| [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) | Client and Server | Used, will be removed once updated to 1.20.1 | N/A |
+| [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client and Server | Planned, once updating to 1.20.1 | ✅ |
+| [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client and Server | Used | ✅ |
+| [Geckolib](https://modrinth.com/mod/) | Client and Server | Used | ✅ |
+| [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client and Server | Used | ✅ |
+| [Indium](https://modrinth.com/mod/Orvt0mRa) | Client | Used | ✅ |
+| [libIPN](https://modrinth.com/mod/onSQdWhM) | Client | Used | ✅ |
+| [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) | Client and Server | Used | ✅ |
+| [Pehkui](https://modrinth.com/mod/t5W7Jfwy) | Client and Server | Used | ✅ |
+| [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qvIfYCYJ) | Client and Server | Used | ✅ |
+| [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) | Client and Server | Used | ✅ |
+| [Rhino](https://modrinth.com/mod/sk9knFPE) | Client and Server | Used | ✅ |
+| [Stendhal](https://modrinth.com/mod/BWloQ9jK) | Client | Used | ✅ |
+| [TerraBlender](https://modrinth.com/mod/kkmrDlKT) | Client and Server | Used | ✅ |
+| [Trinkets](https://modrinth.com/mod/5aaWibi9) | Client and Server | Used | ✅ |
+| [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) | Client and Server | Used | ✅ |
+| [YUNG's API](https://modrinth.com/mod/Ua7DFN59) | Client and Server | Used | ✅ |
