@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/supplementaries.pw.toml"
-hash = "a95ee3ef8acf9d1f1e050f8c96f9d6a177d56b28632592a3846c5c7944e01a11"
+hash = "d3963ede86bc89a24511bbb04eab32556dd5c17122f83c913e148fa525827b2a"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/chat-heads.pw.toml"
-hash = "96375b8211f024e64a24e51cf7a57f370ceabd5fe02bc2d02eae5ba639ba9d71"
+hash = "7da67e9f319cecaf57ce012eb9a0774aa3c927f6c047b905cfb86ec5f19d9bd5"
 metafile = true
 
 [[files]]
@@ -396,7 +396,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/not-enough-animations.pw.toml"
-hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
+hash = "62ef2bfdb19d1e8940639928b4d11beba6bf5e1a4244692e53feb49a428afe8b"
 metafile = true
 
 [[files]]
@@ -651,7 +651,7 @@ metafile = true
 
 [[files]]
 file = "mods/utils/betterf3.pw.toml"
-hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
+hash = "7a09d8f7570772fb01a2d8bfc21b058b7b26fb395ddb9184e84ef847279dba4b"
 metafile = true
 
 [[files]]
@@ -786,7 +786,7 @@ hash = "ee3ef27946d2182b41b3670eeff54020cd6be513683ead4196c5c8ac3c697c4c"
 
 [[files]]
 file = "resourcepacks/basket.pw.toml"
-hash = "7668115387adcf65bdeaf1ac52b7d5a1c2ffbfb490eb418ecd602b0bedb90664"
+hash = "3bbb52e67140d804aee2419a0a3f6b65040651dd04d2dacccaa6102424fc876c"
 metafile = true
 
 [[files]]

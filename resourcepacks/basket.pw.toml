@@ -3,11 +3,11 @@ filename = "Basket.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/4PZmiFmi/versions/MhBepVXs/Basket.zip"
+url = "https://cdn.modrinth.com/data/4PZmiFmi/versions/9d8LEZhH/Basket.zip"
 hash-format = "sha1"
-hash = "f4c4008352b5dcbef31c307e3bef919e9d51fae3"
+hash = "7ac2aa1569e1d96156ca073cc27967fe1be152c8"
 
 [update]
 [update.modrinth]
 mod-id = "4PZmiFmi"
-version = "MhBepVXs"
+version = "9d8LEZhH"
