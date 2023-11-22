@@ -205,16 +205,6 @@ hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
 metafile = true
 
 [[files]]
-file = "mods/fixes/no-telemetry.pw.toml"
-hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
-metafile = true
-
-[[files]]
-file = "mods/fixes/tooltipfix.pw.toml"
-hash = "b6d4b85f76ab7c63f30c6c2f12f3188c34b7e3977c092cc7062b2902319e3ed2"
-metafile = true
-
-[[files]]
 file = "mods/libs/architectury-api.pw.toml"
 hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
@@ -312,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/libs/terrablender.pw.toml"
 hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
+metafile = true
+
+[[files]]
+file = "mods/libs/tooltipfix.pw.toml"
+hash = "b6d4b85f76ab7c63f30c6c2f12f3188c34b7e3977c092cc7062b2902319e3ed2"
 metafile = true
 
 [[files]]

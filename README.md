@@ -11,6 +11,8 @@ As soon as all mods that are currently in use work for this version of Minecraft
 ## Other Repositories
 [Packwiz Modded](https://github.com/MentoskaPraha/packwiz-modded) - modified version of packwiz used to create and maintain this modpack.
 
+## Credits
+
 
 ## Content List
 Here are lists of all the things that are in this pack.
@@ -34,7 +36,7 @@ This list has all the mods that add content to the game.
 | [Create: Slice and Dice](https://modrinth.com/mod/GmjmRQ0A) | Client and Server | Used | ✅ |
 | [Create: Origins](https://modrinth.com/mod/PnhmwLM0) | Client and Server | Used | ✅ |
 | [Origins](https://modrinth.com/mod/3BeIrqZR) | Client and Server | Used | ✅ |
-| [Farmer's Delight](https://modrinth.com/mod/4EakbH8e) | Client and Server | Custom Version Used, for compatibility with [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) | ✅ |
+| [Farmer's Delight](https://modrinth.com/mod/4EakbH8e) | Client and Server | Custom Version Used (see details bellow) | ✅ |
 | [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) | Client and Server | Used | ✅ |
 | [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) | Client and Server | Used | ✅ |
 | [Chipped](https://modrinth.com/mod/BAscRYKm) | Client and Server | Used | ✅ |
@@ -128,7 +130,7 @@ These mods fix certain aspects of the game.
 | [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) | Client | Used | ✅ |
 | [Better Command Block UI](https://modrinth.com/mod/8iQcgjQ2) | Client | Used | ✅ |
 | [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) | Client | Used | ✅ |
-| [Debugify](https://modrinth.com/mod/QwxR6Gcd) | Client | Used | ✅ |
+| [Debugify](https://modrinth.com/mod/QwxR6Gcd) | Client and server | Used | ✅ |
 | [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) | Client | Used | ✅ |
 | [Food Effect Tooltips](https://modrinth.com/mod/GGfyJWnG) | Client | Used | ✅ |
 | [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA) | Client | Used | ✅ |
@@ -138,8 +140,6 @@ These mods fix certain aspects of the game.
 | [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) | Client | Used | ✅ |
 | [NBT Autocomplete](https://modrinth.com/mod/UR0ocuEt) | Client | Used | ✅ |
 | [No Chat Reports](https://modrinth.com/mod/qQyHxfxd) | Client and Server | Used | ✅ |
-| [No Telemetry](https://modrinth.com/mod/hg77g4Pw) | Client | Used | ✅ |
-| [ToolTipFix](https://modrinth.com/mod/2RKFTmiB) | Client | Used | ✅ |
 
 ### Texture Mods
 These mods allow texturepacks to work and rework some textures sometimes.
@@ -206,6 +206,7 @@ These mods allow all the other mods to work.
 | [Rhino](https://modrinth.com/mod/sk9knFPE) | Client and Server | Used | ✅ |
 | [Stendhal](https://modrinth.com/mod/BWloQ9jK) | Client | Used | ✅ |
 | [TerraBlender](https://modrinth.com/mod/kkmrDlKT) | Client and Server | Used | ✅ |
+| [ToolTipFix](https://modrinth.com/mod/2RKFTmiB) | Client | Used (This is a dependancy for Enchancement and nothing else.) | ✅ |
 | [Trinkets](https://modrinth.com/mod/5aaWibi9) | Client and Server | Used | ✅ |
 | [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) | Client and Server | Used | ✅ |
 | [YUNG's API](https://modrinth.com/mod/Ua7DFN59) | Client and Server | Used | ✅ |
