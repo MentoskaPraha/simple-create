@@ -12,7 +12,14 @@ As soon as all mods that are currently in use work for this version of Minecraft
 [Packwiz Modded](https://github.com/MentoskaPraha/packwiz-modded) - modified version of packwiz used to create and maintain this modpack.
 
 ## Credits
-
+- MentoskaPraha 
+    - Owner, Maintainer, Developer
+- Gljue 
+    - Maintainer, Developer
+- [Vanilla Tweaks](https://vanillatweaks.net/) 
+    - Made some of the epic textures y'all see in game, like the 3D ladders.
+- All the other amazing modders and community people.
+    - You can find links to their stuff in the Content List bellow.
 
 ## Content List
 Here are lists of all the things that are in this pack.
