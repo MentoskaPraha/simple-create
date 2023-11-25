@@ -175,7 +175,7 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [ClearDespawn](https://modrinth.com/mod/yoJJjRRE) | Client | Used | ✅ |
 | [ClickThrough](https://modrinth.com/mod/Z5b0cAlD) | Client | Used | ✅ |
 | [Discord Integration](https://modrinth.com/mod/rbJ7eS5V) | Server | Used | ✅ |
-| [ExtraSounds](https://modrinth.com/mod/uPWCQrVL) | Client | Used | ✅ |
+| [ExtraSounds](https://modrinth.com/mod/uPWCQrVL) | Client | Used |  |
 | [Global Packs](https://modrinth.com/mod/NRLPy2mk) | Client and Server | Used | ✅ |
 | [KubeJS Create](https://modrinth.com/mod/T38eAZQC) | Client and Server | Used | ✅ |
 | [KubeJS](https://modrinth.com/mod/umyGl7zF) | Client and Server | Used | ✅ |
