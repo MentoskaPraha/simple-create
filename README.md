@@ -229,6 +229,46 @@ These are the resourcepacks we use.
 | [xali's Enhanced Jungle Wood](https://modrinth.com/resourcepack/GW65qp0z) | Used | ✅ |
 | [xali's Potion](https://modrinth.com/resourcepack/yFn9hTiq) | Used | ✅ |
 
+### Datapacks
+All datapacks are source from [VanillaTweaks](https://vanillatweaks.net/).
+|  Datapack Name | Client/Server Info  | Use Status | Ready for 1.20.1 Upgrade |
+| :---------------------| :-----------------: | :-------------------: | :---------------: |
+| Armor Statues | Client or Server | Used | ✅ |
+| Cauldron Concrete | Client or Server | Used | ✅ |
+| Custom Nether Portals | Client or Server  | Used | ✅ |
+| Fast Leaf Decay | Client or Server |  Used | ✅ |
+| Nether Portal Coords | Client or Server |  Used | ✅ |
+| Silence Mobs | Client or Server |  Used | ✅ |
+| Unlock all Recipes | Client or Server |  Used | ✅ |
+| Villager Workstation Highlights | Client or Server | Used | ✅ |
+| Wandering Trades | Client or Server | Used | ✅ |
+| Thunder Shrine | Client or Server | Used, but is optional | ✅ |
+| Tag | Server | Used, but is optional | ✅ |
+| AFK Display | Server  | Used, but is optional | ✅ |
+| Multiplayer Sleep | Server | Used, but is optional | ✅ |
+
+### Crafting Tweaks
+All crafting tweaks are source from [VanillaTweaks](https://vanillatweaks.net/).
+|  Crafting Tweaks Name | Client/Server Info  | Use Status | Ready for 1.20.1 Upgrade |
+| :---------------------| :-----------------: | :-------------------: | :---------------: |
+| Craftable Nametags | Client or Server | Used, but is optional | ✅ |
+| Back to Blocks | Client or Server | Used | ✅ |
+| Dropper to Dispenser | Client or Server | Used | ✅ |
+| Rotten Flesh to Leather | Client or Server | Used | ✅ |
+| Charcaol to Black Dye | Client or Server | Used | ✅ |
+| Coal to Black Dye | Client or Server | Used | ✅ |
+| Sandstone Dyeing | Client or Server | Used | ✅ |
+| Universal Dyeing | Client or Server | Used | ✅ |
+| Straight to Shapeless | Client or Server | Used | ✅ |
+| Blackstone Cobblestone | Client or Server | Used | ✅ |
+| Powder to Glass | Client or Server | Used | ✅ |
+| More Bark | Client or Server | Used | ✅ |
+| More Bricks | Client or Server | Used | ✅ |
+| Craftable Gravel | Client or Server | Used | ✅ |
+| Craftable Coral Blocks 2x2 | Client or Server | Used | ✅ |
+| Craftable Coral Blocks 3x3 | Client or Server | Used | ✅ |
+| Craftable Blackstone | Client or Server | Used | ✅ |
+
 ### Custome Mod Versions
 Some mods needed to have their source code modified in order to function properly, here's a list of all the modifications.
 | Mod name and Link | Change | Reason for change |
