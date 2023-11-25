@@ -158,7 +158,7 @@ These mods allow texturepacks to work and rework some textures sometimes.
 | [CIT Resewn](https://modrinth.com/mod/otVJckYQ) | Client | Used | ✅ |
 | [Continuity](https://modrinth.com/mod/1IjD5062) | Client | Used | ✅ |
 | [Eating Animation](https://modrinth.com/mod/rUgZvGzi) | Client | Used | ✅ |
-| [Effective](https://modrinth.com/mod/pcPXJeZi) | Client | Used | ✅ |
+| [Effective](https://modrinth.com/mod/pcPXJeZi) | Client | Used | (`1.20.1 build is availible`) |
 | [[EMF] Entity Model Features](https://modrinth.com/mod/4I1XuqiY) | Client | Used | ✅ |
 | [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) | Client | Used | ✅ |
 | [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) | Client | Used | ✅ |
@@ -268,6 +268,9 @@ All crafting tweaks are source from [VanillaTweaks](https://vanillatweaks.net/).
 | Craftable Coral Blocks 2x2 | Client or Server | Used | ✅ |
 | Craftable Coral Blocks 3x3 | Client or Server | Used | ✅ |
 | Craftable Blackstone | Client or Server | Used | ✅ |
+| Unpackable Ice | Client or Server | Used | ✅ |
+| Unpackable Nether Wart | Client or Server | Used | ✅ |
+| Unpackable Wool | Client or Server | Used | ✅ |
 
 ### Custome Mod Versions
 Some mods needed to have their source code modified in order to function properly, here's a list of all the modifications.
