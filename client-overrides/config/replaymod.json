@@ -17,8 +17,8 @@
     ]
   },
   "recording": {
-    "recordSingleplayer": true,
-    "recordServer": true,
+    "recordSingleplayer": false,
+    "recordServer": false,
     "indicator": false,
     "autoStartRecording": false,
     "autoPostProcess": true,

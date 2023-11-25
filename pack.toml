@@ -1,12 +1,12 @@
 name = "simple_create"
 author = "Mentoska44"
 version = "0.1.1"
-pack-format = "packwiz:1.1.0"
+pack-format = "packwiz-modded:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0cf1ce1f9f53f6f16a56f0d70af3119864c4be767443a73d304e7b651310eb27"
+hash = "137e164abacbe28731ce603a21f4cdf653f2939305da96e9b11d01b5461eff4f"
 
 [versions]
 minecraft = "1.19.2"

@@ -4,6 +4,7 @@ Simple Create is a modpack based around [Create mod](https://modrinth.com/mod/Xb
 ## State of Project
 This modpack is relatively complete, but it's still in beta, because several mods cannot be added to the modpack due to stability reasons or the mods just being unfinished. This includes [Create Simulated](https://discord.gg/createaeronautics) and it's addons, [Distant Horizons](https://modrinth.com/mod/uCdwusMi) and [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q).  
 Do note that we do currently use [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q), however only on the server side.
+Please also note that shaders cause rendering issues.
 
 ### 1.20.1
 As soon as all mods that are currently in use work for this version of Minecraft, we'll update.
@@ -15,7 +16,7 @@ As soon as all mods that are currently in use work for this version of Minecraft
 - MentoskaPraha 
     - Owner, Maintainer, Developer
 - Gljue 
-    - Maintainer, Developer
+    - Maintainer, Texture Maker
 - [Vanilla Tweaks](https://vanillatweaks.net/) 
     - Made some of the epic textures y'all see in game, like the 3D ladders.
 - All the other amazing modders and community people.
@@ -37,13 +38,14 @@ This list has all the mods that add content to the game.
 | [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) | Client and Server | Used | ✅ |
 | [Create: Enchantement Industry](https://modrinth.com/mod/AEZO385x) | Client and Server | Used |  |
 | [Create: Big Cannons](https://modrinth.com/mod/GWp4jCJj) | Client and Server | Used | ✅ |
-| [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Client and Server | Used | ✅ |
+| [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Client and Server | Custom Version Used (see details bellow)0 | ✅ |
 | [Create: Extended Bogeys](https://github.com/Rabbitminers/Extended-Bogeys) | Client and Server | Planned, once mod is complete. | N/A |
 | [Create: Ore Excavation](https://modrinth.com/mod/ResbpANg) | Client and Server | Used | ✅ |
 | [Create: Slice and Dice](https://modrinth.com/mod/GmjmRQ0A) | Client and Server | Used | ✅ |
 | [Create: Origins](https://modrinth.com/mod/PnhmwLM0) | Client and Server | Used | ✅ |
 | [Origins](https://modrinth.com/mod/3BeIrqZR) | Client and Server | Used | ✅ |
 | [Farmer's Delight](https://modrinth.com/mod/4EakbH8e) | Client and Server | Custom Version Used (see details bellow) | ✅ |
+| [Lovely Snails](https://modrinth.com/mod/hBVVhStr) | Client and Server | Planned, once mod rewrite is complete. | N/A |
 | [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) | Client and Server | Used | ✅ |
 | [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) | Client and Server | Used | ✅ |
 | [Chipped](https://modrinth.com/mod/BAscRYKm) | Client and Server | Used | ✅ |
@@ -52,7 +54,6 @@ This list has all the mods that add content to the game.
 | [Blast](https://modrinth.com/mod/hrVBD9fd) | Client and Server | Planned, once we update to 1.20.1 | ✅ |
 | [RAT's Mischief](https://modrinth.com/mod/Jjc1149h) | Client and Server | Used |  |
 | [Charter](https://modrinth.com/mod/hGMwZahr) | Client and Server | Planned, once mod rewrite is complete. | N/A |
-
 
 ### Rework Mods
 These mods rework certain aspects of the game, usually changing them completely.
@@ -71,7 +72,6 @@ These mods add certain useful utilities to the game.
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.1 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | Client and Server | Used | ✅ |
-| [Auto Clicker](https://modrinth.com/mod/r8axuw4u) | Client | Used | ✅ |
 | [BetterF3](https://modrinth.com/mod/8shC1gFX) | Client | Used | ✅ |
 | [Boat Item View](https://modrinth.com/mod/BdKIyOLe) | Client | Used | ✅ |
 | [Chunky](https://modrinth.com/mod/fALzjamp) | Server | Used | ✅ |
@@ -120,6 +120,7 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Client and Server | Used | ✅ |
 | [LazyDFU](https://modrinth.com/mod/hvFnDODi) | Client and Server | Used | ✅ |
 | [Lithium](https://modrinth.com/mod/gvQqBUqZ) | Client and Server | Used | ✅ |
+| [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | Server | Used | ✅ |
 | [Smooth Boot](https://modrinth.com/mod/FWumhS4T) | Client and Server | Used | ✅ |
 | [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) | Client | Used | ✅ |
 | [Sodium](https://modrinth.com/mod/AANobbMI) | Client | Used | ✅ |
@@ -160,7 +161,7 @@ These mods allow texturepacks to work and rework some textures sometimes.
 | [Effective](https://modrinth.com/mod/pcPXJeZi) | Client | Used | ✅ |
 | [[EMF] Entity Model Features](https://modrinth.com/mod/4I1XuqiY) | Client | Used | ✅ |
 | [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) | Client | Used | ✅ |
-| [Iris Shaders](https://modrinth.com/mod/YL57xq9U) | Client | Used | ✅ |
+| [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) | Client | Used | ✅ |
 
 ### Misc Mods
 These mods didn't fit into any of the other categories so, they're just dumbed in this one.
@@ -211,9 +212,26 @@ These mods allow all the other mods to work.
 | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qvIfYCYJ) | Client and Server | Used | ✅ |
 | [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) | Client and Server | Used | ✅ |
 | [Rhino](https://modrinth.com/mod/sk9knFPE) | Client and Server | Used | ✅ |
-| [Stendhal](https://modrinth.com/mod/BWloQ9jK) | Client | Used | ✅ |
 | [TerraBlender](https://modrinth.com/mod/kkmrDlKT) | Client and Server | Used | ✅ |
 | [ToolTipFix](https://modrinth.com/mod/2RKFTmiB) | Client | Used (This is a dependancy for Enchancement and nothing else.) | ✅ |
 | [Trinkets](https://modrinth.com/mod/5aaWibi9) | Client and Server | Used | ✅ |
 | [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) | Client and Server | Used | ✅ |
 | [YUNG's API](https://modrinth.com/mod/Ua7DFN59) | Client and Server | Used | ✅ |
+
+### Resourcepacks
+These are the resourcepacks we use.
+|  Texturepack Name and Link | Use Status | Ready for 1.20.1 Upgrade |
+| :---------------------| :-----------------: | :-------------------: |
+| [VanillaTweaks Textures](https://vanillatweaks.net/) | Used | ✅ |
+| Custom Textures | Work in progress | |
+| [Basket](https://modrinth.com/resourcepack/4PZmiFmi) | Used | ✅ |
+| [Enhanced Boss Bars](https://modrinth.com/resourcepack/U5SedJ9S) | Used | ✅ |
+| [xali's Enhanced Jungle Wood](https://modrinth.com/resourcepack/GW65qp0z) | Used | ✅ |
+| [xali's Potion](https://modrinth.com/resourcepack/yFn9hTiq) | Used | ✅ |
+
+### Custome Mod Versions
+Some mods needed to have their source code modified in order to function properly, here's a list of all the modifications.
+| Mod name and Link | Change | Reason for change |
+| :---------------------| :-----------------: | :------------------- |
+| [Farmer's Delight](https://modrinth.com/mod/4EakbH8e) | [Updated MigrationBlockRegistryMixin.java](https://github.com/newhoryzon/farmers-delight-fabric/pull/214) | The game will crash otherwise when the bogey menu from Steam 'n' Rails is opened. |
+| [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Lowered Fabric API version from `0.76.1` to `0.76.0`. | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qvIfYCYJ) for Minecraft `1.19.2` only supports up to Fabric API `0.76.0`. |

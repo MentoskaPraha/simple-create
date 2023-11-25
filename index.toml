@@ -9,10 +9,6 @@ file = "client-overrides/config/NoChatReports/NCR-Common.json"
 hash = "77129d09033bb64a26b01b9824774ffb722b31d01829b94a6553c9c234f4b4dc"
 
 [[files]]
-file = "client-overrides/config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
-
-[[files]]
 file = "client-overrides/config/betterf3.json"
 hash = "9c5b679e4eb28804ec2e609b55e0deeff5bdf5730e52024f549842e585d5132a"
 
@@ -25,20 +21,40 @@ file = "client-overrides/config/inventoryprofilesnext/integrationHints/exampleIn
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
+file = "client-overrides/config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "f116d0b23d2f28d5d808dc7a51c3f09733272a121a47a3e68f21f83c831a8af6"
+
+[[files]]
 file = "client-overrides/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "299814690b99c9c8917a5e18b62d6191d43ae446d891bb888adc1f77310a375e"
+hash = "d848cf65a5bef0313b7b9f3c36147b50c3cf84689f347dd8c81941a10bd8523e"
 
 [[files]]
 file = "client-overrides/config/replaymod.json"
-hash = "da659a1ea97aeeb8f8f7f9fcfc6d3a3a0f4a802407ec0fb7bf9663bb6eae3618"
+hash = "4ca34de394633850f90155962e97cf4cf9c8455fd7ede972d268870d14855c34"
+
+[[files]]
+file = "client-overrides/config/roughlyenoughitems/config.json5"
+hash = "ddf21fa64e08d1b553cd9a6e8612d6df32929b624243e41bb1d01137b76f2664"
+
+[[files]]
+file = "client-overrides/config/sodium-extra-options.json"
+hash = "e484f155f274389eb17cf9364b867d8a886bcb591f660707ffc8be2d911c8030"
+
+[[files]]
+file = "client-overrides/mods/textures/quilted_clear_skies-1.0.0+1.19_until_1.19.2.jar"
+hash = "fe7c86fad0c294457e131fc2de059273de5e8c2686e7beff3cb1e44614a0cbd5"
 
 [[files]]
 file = "client-overrides/options.txt"
-hash = "3477ca8f38251af0204d4dad1ff3afab536a9ee06b38e6e7ed0321d4076e9baa"
+hash = "ad05dca25f75e37dcbed3b651aab071810d5aaa5f9a74d06132edd5d02d23c36"
 
 [[files]]
 file = "client-overrides/resourcepacks/VanillaTweaks.zip"
 hash = "da97c74bedd95a384f47e3850c1f12762e15afe10e0561d1363767c07cae5551"
+
+[[files]]
+file = "credits.txt"
+hash = "21e61cd6fa70234327906f4f252f82f336992146d9e5aee228815d285c1c64b9"
 
 [[files]]
 file = "mods/content/chalk.pw.toml"
@@ -81,13 +97,17 @@ hash = "5a4d31825bdd55127b3716eb8eda5bd2e4d06319fa90850db633421a1d922f44"
 metafile = true
 
 [[files]]
-file = "mods/content/extended-cogwheels.pw.toml"
-hash = "2e9fb6794be0508c5afe707536ad16360f821980f0287e33f79ce39beea41ba2"
-metafile = true
+file = "mods/content/extended-cogwheels.toml"
+hash = "8d930e8c747d9153e2e967db43b38d30c3b5b784d83f5cccbe26030f3e2b801c"
 
 [[files]]
 file = "mods/content/farmers-delight.toml"
-hash = "9c06a06ccd8aff4c6155ee5d2baa4454a0fcaaf76ee929a90ba73f3f05fb5bff"
+hash = "fec14c9c05f5b5188be69f142afc987e6c79afbbdad05682db217abec9a990f5"
+
+[[files]]
+file = "mods/content/lovely_snails.pw.toml"
+hash = "afdc2fafab3adf523bd090b86a2216828e1d0171b69d8bd835ec050fd9853ce4"
+metafile = true
 
 [[files]]
 file = "mods/content/origins.pw.toml"
@@ -241,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/fabric-language-kotlin.pw.toml"
-hash = "b77d49d5c1b11ffbd9d3f34b407d8065117e804b4776ac5754e066fac9fe7526"
+hash = "d2c2ff7235ed661ed8fb82e20a6de85b147e69c4b1cf1cc9102ebf8fe102636f"
 metafile = true
 
 [[files]]
@@ -630,18 +650,8 @@ hash = "cc63bbe9baff32acc9b74cef66179d78e9187afe625ef25e8faa05f160714257"
 metafile = true
 
 [[files]]
-file = "mods/textures/iris.pw.toml"
-hash = "dfbdb89a9b842c190339d6d60a6a2e812e3d3bdcd986610e3b740ec478e4dcb0"
-metafile = true
-
-[[files]]
 file = "mods/utils/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
-metafile = true
-
-[[files]]
-file = "mods/utils/auto-clicker.pw.toml"
-hash = "3e2a7ddb8478c06652c55eb7efe3edb12e9c03fadede388767e613c846b36170"
 metafile = true
 
 [[files]]
@@ -713,7 +723,7 @@ hash = "216918751aad525f6b3508bec64fb5c3d0183019cd75565735f2ff5e8f7cf8d7"
 
 [[files]]
 file = "overrides/config/enchancement.json"
-hash = "c6e49e294e668f28ff4b67fc9b1ebb3f01a89b097e8d1bd79f281d160cf4657c"
+hash = "aaf9ecf8d7564cc8b0741058883f68a6f2a1469abd55e83e1990b5d704a9b65b"
 
 [[files]]
 file = "overrides/config/lithium.properties"
@@ -721,7 +731,7 @@ hash = "b9f5e307a79a7a09819c030e86015b9cb82ae38d5d2eb70144cec8edc153d55d"
 
 [[files]]
 file = "overrides/config/voicechat/voicechat-client.properties"
-hash = "b379ed053ff3fb522dd64f0630661a9e8a2db540073b91231f96d36691e0cd49"
+hash = "9b9b8af687261a814b6cb219775f6286f690273b2411d4d199017e75d1d189e9"
 
 [[files]]
 file = "overrides/config/voicechat/voicechat-server.properties"
@@ -776,8 +786,12 @@ file = "overrides/global_packs/required_data/Wandering-Trades.zip"
 hash = "5c92c292ed118e3b11199698cb4fad5a8762318d10bfddb071394565a4305c08"
 
 [[files]]
-file = "overrides/mods/content/farmers-delight-fabric-mc1.19-1.19.2-1.3.10.1-bytecode-patch.jar"
-hash = "ee3ef27946d2182b41b3670eeff54020cd6be513683ead4196c5c8ac3c697c4c"
+file = "overrides/mods/content/extendedgears-2.1.0-1.19.2-0.5.1.c-fabric+custom-build.jar"
+hash = "951431fa7c4f7aca2205b6276759d4b9b9da332ffd338dab67a4f7ed3dd2cbfb"
+
+[[files]]
+file = "overrides/mods/content/farmers-delight-fabric-1.3.10.2+build-214_PULL.jar"
+hash = "37f6d97a5758849084fe1f7f1f76ecb9027a6b278729a7e90623f07bc818760a"
 
 [[files]]
 file = "resourcepacks/basket.pw.toml"

@@ -1,3 +1,3 @@
-# Exclude exported Modrinth modpacks
+# Exclude exported Modrinth modpacks and macOS metafiles
 *.mrpack
 .DS_Store

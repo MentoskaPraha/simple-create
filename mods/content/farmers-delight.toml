@@ -1,12 +1,8 @@
 name = "Farmer's Delight"
-filename = "/overrides/mods/farmers-delight-fabric-mc1.19-1.19.2-1.3.10.1-bytecode-patch.jar"
+filename = "/overrides/mods/content/farmers-delight-fabric-1.3.10.2+build-214_PULL.jar"
 version = "1.3.10.1"
 side = "both"
-
-[download]
-url = "https://nextcloud.ithundxr.dev/s/QwHeTbQttEGgnLM"
 
 [update]
 [update.modrinth]
 mod-id = "4EakbH8e"
-version = "YFvijG6F"
