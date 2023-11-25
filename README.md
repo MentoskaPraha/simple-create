@@ -118,13 +118,13 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 | [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) | Client | Used | ✅ |
 | [Entity Culling](https://modrinth.com/mod/NNAgCjsB) | Client | Used | ✅ |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Client and Server | Used | ✅ |
-| [LazyDFU](https://modrinth.com/mod/hvFnDODi) | Client and Server | Used | ✅ |
+| [LazyDFU](https://modrinth.com/mod/hvFnDODi) | Server | Used, mod will be removed on update to `1.20.1`. | N/A |
 | [Lithium](https://modrinth.com/mod/gvQqBUqZ) | Client and Server | Used | ✅ |
 | [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | Server | Used | ✅ |
-| [Smooth Boot](https://modrinth.com/mod/FWumhS4T) | Client and Server | Used | ✅ |
+| [Smooth Boot](https://modrinth.com/mod/FWumhS4T) | Client and Server | Used,mod will be removed on update to `1.20.1`. |  |
 | [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) | Client | Used | ✅ |
 | [Sodium](https://modrinth.com/mod/AANobbMI) | Client | Used | ✅ |
-| [Starlight](https://modrinth.com/mod/H8CaAYZC) | Client and Server | Used | ✅ |
+| [Starlight](https://modrinth.com/mod/H8CaAYZC) | Client and Server | Used, mod will be removed on the server side on update to `1.20.1` | ✅ |
 
 ### Fixes Mods
 These mods fix certain aspects of the game.
