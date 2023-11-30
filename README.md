@@ -36,23 +36,22 @@ This list has all the mods that add content to the game.
 | [Create: Off Road](https://createsimulated.com/) | Client and Server | Planned, once mod is complete. | N/A |
 | [Create: Liftoff](https://createsimulated.com/) | Client and Server | Planned, once mod is complete. | N/A |
 | [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) | Client and Server | Used | ✅ |
-| [Create: Enchantement Industry](https://modrinth.com/mod/AEZO385x) | Client and Server | Used |  |
+| [Create: Enchantement Industry](https://modrinth.com/mod/AEZO385x) | Client and Server | Used | ✅ |
 | [Create: Big Cannons](https://modrinth.com/mod/GWp4jCJj) | Client and Server | Used | ✅ |
-| [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Client and Server | Custom Version Used (see details bellow)0 | ✅ |
+| [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Client and Server | Custom Version Used (see details bellow) | ✅ |
 | [Create: Extended Bogeys](https://github.com/Rabbitminers/Extended-Bogeys) | Client and Server | Planned, once mod is complete. | N/A |
 | [Create: Ore Excavation](https://modrinth.com/mod/ResbpANg) | Client and Server | Used | ✅ |
 | [Create: Slice and Dice](https://modrinth.com/mod/GmjmRQ0A) | Client and Server | Used | ✅ |
 | [Create: Origins](https://modrinth.com/mod/PnhmwLM0) | Client and Server | Used | ✅ |
 | [Origins](https://modrinth.com/mod/3BeIrqZR) | Client and Server | Used | ✅ |
 | [Farmer's Delight](https://modrinth.com/mod/4EakbH8e) | Client and Server | Custom Version Used (see details bellow) | ✅ |
-| [Lovely Snails](https://modrinth.com/mod/hBVVhStr) | Client and Server | Planned, once mod rewrite is complete. | N/A |
+| [Lovely Snails](https://modrinth.com/mod/hBVVhStr) | Client and Server | Used | ✅ |
 | [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) | Client and Server | Used | ✅ |
 | [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) | Client and Server | Used | ✅ |
 | [Chipped](https://modrinth.com/mod/BAscRYKm) | Client and Server | Used | ✅ |
 | [Chalk](https://modrinth.com/mod/OrtjXTCH) | Client and Server | Used | ✅ |
 | [Pick Your Poison](https://modrinth.com/mod/EHjFQKek) | Client and Server | Used |  |
 | [Blast](https://modrinth.com/mod/hrVBD9fd) | Client and Server | Planned, once we update to 1.20.1 | ✅ |
-| [RAT's Mischief](https://modrinth.com/mod/Jjc1149h) | Client and Server | Used |  |
 | [Charter](https://modrinth.com/mod/hGMwZahr) | Client and Server | Planned, once mod rewrite is complete. | N/A |
 
 ### Rework Mods
@@ -158,7 +157,12 @@ These mods allow texturepacks to work and rework some textures sometimes.
 | [CIT Resewn](https://modrinth.com/mod/otVJckYQ) | Client | Used | ✅ |
 | [Continuity](https://modrinth.com/mod/1IjD5062) | Client | Used | ✅ |
 | [Eating Animation](https://modrinth.com/mod/rUgZvGzi) | Client | Used | ✅ |
-| [Effective](https://modrinth.com/mod/pcPXJeZi) | Client | Used | (`1.20.1 build is availible`) |
+| [Effective](https://modrinth.com/mod/pcPXJeZi) | Client | Used | (`1.20.1` build is availible) |
+| [Cave Dust](https://modrinth.com/mod/jawg7zT1) | Client | Used | ✅ |
+| [Particle Rain](https://modrinth.com/mod/nrikgvxm) | Client | Used | ✅ |
+| [Make Bubbles Pop](https://modrinth.com/mod/gPCdW0Wr) | Client | Used | ✅ |
+| [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) | Client | Used | ✅ |
+| [Nyf's Spiders](https://modrinth.com/mod/dOGM7ccu) | Client | Used | ✅ |
 | [[EMF] Entity Model Features](https://modrinth.com/mod/4I1XuqiY) | Client | Used | ✅ |
 | [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) | Client | Used | ✅ |
 | [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) | Client | Used | ✅ |
@@ -214,7 +218,6 @@ These mods allow all the other mods to work.
 | [Rhino](https://modrinth.com/mod/sk9knFPE) | Client and Server | Used | ✅ |
 | [TerraBlender](https://modrinth.com/mod/kkmrDlKT) | Client and Server | Used | ✅ |
 | [ToolTipFix](https://modrinth.com/mod/2RKFTmiB) | Client | Used (This is a dependancy for Enchancement and nothing else.) | ✅ |
-| [Trinkets](https://modrinth.com/mod/5aaWibi9) | Client and Server | Used | ✅ |
 | [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) | Client and Server | Used | ✅ |
 | [YUNG's API](https://modrinth.com/mod/Ua7DFN59) | Client and Server | Used | ✅ |
 

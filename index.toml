@@ -13,6 +13,10 @@ file = "client-overrides/config/betterf3.json"
 hash = "9c5b679e4eb28804ec2e609b55e0deeff5bdf5730e52024f549842e585d5132a"
 
 [[files]]
+file = "client-overrides/config/effective.json"
+hash = "69ddad2cb637deba48766fa9a8946764a7cd8e7e8c07588560b426cf8a587c62"
+
+[[files]]
 file = "client-overrides/config/inventoryprofilesnext/Test/villager-trading-config.json"
 hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
 
@@ -41,6 +45,10 @@ file = "client-overrides/config/sodium-extra-options.json"
 hash = "e484f155f274389eb17cf9364b867d8a886bcb591f660707ffc8be2d911c8030"
 
 [[files]]
+file = "client-overrides/mods/textures/particle-rain-2.0.1.jar"
+hash = "d09e25efc879e8e20ec0a9a7758f27648238516223a592102623a36804781e9c"
+
+[[files]]
 file = "client-overrides/mods/textures/quilted_clear_skies-1.0.0+1.19_until_1.19.2.jar"
 hash = "fe7c86fad0c294457e131fc2de059273de5e8c2686e7beff3cb1e44614a0cbd5"
 
@@ -50,7 +58,7 @@ hash = "ad05dca25f75e37dcbed3b651aab071810d5aaa5f9a74d06132edd5d02d23c36"
 
 [[files]]
 file = "client-overrides/resourcepacks/VanillaTweaks.zip"
-hash = "da97c74bedd95a384f47e3850c1f12762e15afe10e0561d1363767c07cae5551"
+hash = "9ad3635a0c207c9b278f04e8f4175fee7b227fbccc2ebc2fbfc94bbc17ca6497"
 
 [[files]]
 file = "credits.txt"
@@ -131,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/supplementaries.pw.toml"
-hash = "7b9f797ca6af3ac6fa55de54dc6298e549c75d83cae68f039a30ccedf3bf682f"
+hash = "b854ce19de580347e2835af5d0538d9481d1678921c2caa4791205b2571f776c"
 metafile = true
 
 [[files]]
@@ -315,11 +323,6 @@ hash = "46b000fae41f783ed64f017a7b92dd353f944ed29d6f27ac59f45677057148be"
 metafile = true
 
 [[files]]
-file = "mods/libs/stendhal.pw.toml"
-hash = "b4bff2848944097fff7cff99a65c0164e29c616ce83b7fc8261f0aef2db85f08"
-metafile = true
-
-[[files]]
 file = "mods/libs/terrablender.pw.toml"
 hash = "cefcb862b31d0f186874b21dd31fba61e44c932f7b26b0c4511faac6fc0a3457"
 metafile = true
@@ -431,7 +434,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/simple-voice-chat.pw.toml"
-hash = "5948fb3df75a8f770bdd99d7517083879af90c234f03a228d70b66e3717216b3"
+hash = "b389e52fbd85c6c53d0bd9064977242af8db02448e2886ca23a0a73d44664936"
 metafile = true
 
 [[files]]
@@ -620,6 +623,11 @@ hash = "9995ebc17bc91f1ce0355ca6edff3fcd65477f394f8d5875e29843d9ac3c2243"
 metafile = true
 
 [[files]]
+file = "mods/textures/cave-dust.pw.toml"
+hash = "4c73f1af05cf34a30401806f28cc9bda4f6cdf64e8f0b76744380c1fb6f9bd41"
+metafile = true
+
+[[files]]
 file = "mods/textures/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
@@ -647,6 +655,21 @@ metafile = true
 [[files]]
 file = "mods/textures/entitytexturefeatures.pw.toml"
 hash = "cc63bbe9baff32acc9b74cef66179d78e9187afe625ef25e8faa05f160714257"
+metafile = true
+
+[[files]]
+file = "mods/textures/make_bubbles_pop.pw.toml"
+hash = "6f04f2ea4d1325c80f94ea0add96a6a480dfe7eee9e1770c61a1a48c0ee54f3c"
+metafile = true
+
+[[files]]
+file = "mods/textures/nyfs-spiders.pw.toml"
+hash = "d02faadb0665db5f148eb7a5bcb817221a139b42d1437231e1def2f06a452bce"
+metafile = true
+
+[[files]]
+file = "mods/textures/presence-footsteps.pw.toml"
+hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
 metafile = true
 
 [[files]]
@@ -837,11 +860,6 @@ hash = "fb8778ea88e0a910831cdbff02f16b41cddd65385754156a37c453092b31efb3"
 [[files]]
 file = "server-overrides/global_packs/required_data/Multiplayer-Sleep.zip"
 hash = "695793d71ba912ffa115521091cdb82070e3d74ffe1084405c45bdbd7440ea43"
-
-[[files]]
-file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "fe25dd4c082ac2195ec1f473f0390e2befa36a9a3743d27005701adf53f7aeea"
-metafile = true
 
 [[files]]
 file = "simple-create-logo.jpeg"
