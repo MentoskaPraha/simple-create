@@ -10,7 +10,9 @@ Please also note that shaders cause rendering issues.
 As soon as all mods that are currently in use work for this version of Minecraft, we'll update.
 
 ## Other Repositories
-[Packwiz Modded](https://github.com/MentoskaPraha/packwiz-modded) - modified version of packwiz used to create and maintain this modpack.
+[Packwiz](https://github.com/MentoskaPraha/packwiz) - modified version of packwiz used to create and maintain this modpack.
+[Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) - the version of quilted clear skies used.
+[Simple Create Resourcepack](https://github.com/MentoskaPraha/simple-create-resourcepack) - the custom textures we use in our modpack.
 
 ## Credits
 - MentoskaPraha 
@@ -44,13 +46,13 @@ This list has all the mods that add content to the game.
 | [Create: Slice and Dice](https://modrinth.com/mod/GmjmRQ0A) | Client and Server | Used | ✅ |
 | [Create: Origins](https://modrinth.com/mod/PnhmwLM0) | Client and Server | Used | ✅ |
 | [Origins](https://modrinth.com/mod/3BeIrqZR) | Client and Server | Used | ✅ |
-| [Farmer's Delight](https://modrinth.com/mod/4EakbH8e) | Client and Server | Custom Version Used (see details bellow) | ✅ |
+| [Farmer's Delight](https://modrinth.com/mod/4EakbH8e) | Client and Server | Used | ✅ |
 | [Lovely Snails](https://modrinth.com/mod/hBVVhStr) | Client and Server | Used | ✅ |
 | [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) | Client and Server | Used | ✅ |
 | [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) | Client and Server | Used | ✅ |
 | [Chipped](https://modrinth.com/mod/BAscRYKm) | Client and Server | Used | ✅ |
 | [Chalk](https://modrinth.com/mod/OrtjXTCH) | Client and Server | Used | ✅ |
-| [Pick Your Poison](https://modrinth.com/mod/EHjFQKek) | Client and Server | Used |  |
+| [Pick Your Poison](https://modrinth.com/mod/EHjFQKek) | Client and Server | Used | ✅ |
 | [Blast](https://modrinth.com/mod/hrVBD9fd) | Client and Server | Planned, once we update to 1.20.1 | ✅ |
 | [Charter](https://modrinth.com/mod/hGMwZahr) | Client and Server | Planned, once mod rewrite is complete. | N/A |
 
@@ -120,7 +122,7 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 | [LazyDFU](https://modrinth.com/mod/hvFnDODi) | Server | Used, mod will be removed on update to `1.20.1`. | N/A |
 | [Lithium](https://modrinth.com/mod/gvQqBUqZ) | Client and Server | Used | ✅ |
 | [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | Server | Used | ✅ |
-| [Smooth Boot](https://modrinth.com/mod/FWumhS4T) | Client and Server | Used,mod will be removed on update to `1.20.1`. |  |
+| [Smooth Boot](https://modrinth.com/mod/FWumhS4T) | Client and Server | Used, mod will be removed on update to `1.20.1`. | N/A |
 | [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) | Client | Used | ✅ |
 | [Sodium](https://modrinth.com/mod/AANobbMI) | Client | Used | ✅ |
 | [Starlight](https://modrinth.com/mod/H8CaAYZC) | Client and Server | Used, mod will be removed on the server side on update to `1.20.1` | ✅ |
@@ -157,9 +159,9 @@ These mods allow texturepacks to work and rework some textures sometimes.
 | [CIT Resewn](https://modrinth.com/mod/otVJckYQ) | Client | Used | ✅ |
 | [Continuity](https://modrinth.com/mod/1IjD5062) | Client | Used | ✅ |
 | [Eating Animation](https://modrinth.com/mod/rUgZvGzi) | Client | Used | ✅ |
-| [Effective](https://modrinth.com/mod/pcPXJeZi) | Client | Used | (`1.20.1` build is availible) |
+| [Effective](https://modrinth.com/mod/pcPXJeZi) | Client | Used | ✅ |
 | [Cave Dust](https://modrinth.com/mod/jawg7zT1) | Client | Used | ✅ |
-| [Particle Rain](https://modrinth.com/mod/nrikgvxm) | Client | Used | ✅ |
+| [Particle Rain](https://modrinth.com/mod/nrikgvxm) | Client, needs to be updated manually | Used | ✅ |
 | [Make Bubbles Pop](https://modrinth.com/mod/gPCdW0Wr) | Client | Used | ✅ |
 | [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) | Client | Used | ✅ |
 | [Nyf's Spiders](https://modrinth.com/mod/dOGM7ccu) | Client | Used | ✅ |
@@ -179,7 +181,9 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [ClearDespawn](https://modrinth.com/mod/yoJJjRRE) | Client | Used | ✅ |
 | [ClickThrough](https://modrinth.com/mod/Z5b0cAlD) | Client | Used | ✅ |
 | [Discord Integration](https://modrinth.com/mod/rbJ7eS5V) | Server | Used | ✅ |
-| [ExtraSounds](https://modrinth.com/mod/uPWCQrVL) | Client | Used |  |
+| [EnchantedShulkers](https://modrinth.com/mod/vUi6HFie) | Client and Server | Used | ✅ |
+| [ExtraSounds](https://modrinth.com/mod/uPWCQrVL) | Client | Used, mod will be removed on update to `1.20.1`. | N/A |
+| [Sounds](https://modrinth.com/mod/ZouiUX7t) | Client | Planned, once we update to 1.20.1 | N/A |
 | [Global Packs](https://modrinth.com/mod/NRLPy2mk) | Client and Server | Used | ✅ |
 | [KubeJS Create](https://modrinth.com/mod/T38eAZQC) | Client and Server | Used | ✅ |
 | [KubeJS](https://modrinth.com/mod/umyGl7zF) | Client and Server | Used | ✅ |
@@ -188,8 +192,8 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C) | Client | Used | ✅ |
 | [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) | Client | Used | ✅ |
 | [Replay Voice Chat](https://modrinth.com/mod/yI6ANuOK) | Client | Used | ✅ |
-| [ReplayMod](https://modrinth.com/mod/Nv2fQJo5) | Client | Used | ✅ |
-| [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) | Client and Server | Used | ✅ |
+| [ReplayMod](https://modrinth.com/mod/Nv2fQJo5) | Client | Used and outdated as an update to Replay Voice Chat is needed | ✅ |
+| [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) | Client and Server | Used and outdated as an update to Replay Voice Chat is needed | ✅ |
 | [Traveler's Titles](https://modrinth.com/mod/JtifUr64) | Client | Used | ✅ |
 
 ### Library Mods
@@ -226,9 +230,7 @@ These are the resourcepacks we use.
 |  Texturepack Name and Link | Use Status | Ready for 1.20.1 Upgrade |
 | :---------------------| :-----------------: | :-------------------: |
 | [VanillaTweaks Textures](https://vanillatweaks.net/) | Used | ✅ |
-| Custom Textures | Work in progress | |
-| [Basket](https://modrinth.com/resourcepack/4PZmiFmi) | Used | ✅ |
-| [Enhanced Boss Bars](https://modrinth.com/resourcepack/U5SedJ9S) | Used | ✅ |
+| [Custom Textures](https://github.com/MentoskaPraha/simple-create-resourcepack) | Work in progress | |
 | [xali's Enhanced Jungle Wood](https://modrinth.com/resourcepack/GW65qp0z) | Used | ✅ |
 | [xali's Potion](https://modrinth.com/resourcepack/yFn9hTiq) | Used | ✅ |
 
@@ -279,5 +281,4 @@ All crafting tweaks are source from [VanillaTweaks](https://vanillatweaks.net/).
 Some mods needed to have their source code modified in order to function properly, here's a list of all the modifications.
 | Mod name and Link | Change | Reason for change |
 | :---------------------| :-----------------: | :------------------- |
-| [Farmer's Delight](https://modrinth.com/mod/4EakbH8e) | [Updated MigrationBlockRegistryMixin.java](https://github.com/newhoryzon/farmers-delight-fabric/pull/214) | The game will crash otherwise when the bogey menu from Steam 'n' Rails is opened. |
 | [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Lowered Fabric API version from `0.76.1` to `0.76.0`. | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qvIfYCYJ) for Minecraft `1.19.2` only supports up to Fabric API `0.76.0`. |
