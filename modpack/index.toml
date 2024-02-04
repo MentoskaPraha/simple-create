@@ -1,68 +1,140 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "25758fc95d05c3e93308d08ca6992142050e2321c4ad6f926918aa76d8da4f17"
+file = "config/Discord-Integration.toml"
+hash = "d91758d556a165e676270d7f8494b6f05e7eca61812beb0892de8dff690f0d02"
 
 [[files]]
-file = "client-overrides/config/NoChatReports/NCR-Common.json"
+file = "config/DiscordIntegration-Data/Messages.toml"
+hash = "b82091ec8f42cf36d350d41b50306cb3ffe18582c925c1ab1612464beb6cef9f"
+
+[[files]]
+file = "config/NoChatReports/NCR-Common.json"
 hash = "77129d09033bb64a26b01b9824774ffb722b31d01829b94a6553c9c234f4b4dc"
 
 [[files]]
-file = "client-overrides/config/betterf3.json"
+file = "config/bcc.json"
+hash = "af7a8f9a429bdbb27950c55acee98947769afdd6694a79abecc29abd92d00dd5"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "25c77659150998588c011af422b0da2e3159b2edf80a5b229f076f73bdf8535c"
+
+[[files]]
+file = "config/betterf3.json"
 hash = "9c5b679e4eb28804ec2e609b55e0deeff5bdf5730e52024f549842e585d5132a"
 
 [[files]]
-file = "client-overrides/config/effective.json"
+file = "config/do_a_barrel_roll-server.json"
+hash = "216918751aad525f6b3508bec64fb5c3d0183019cd75565735f2ff5e8f7cf8d7"
+
+[[files]]
+file = "config/effective.json"
 hash = "69ddad2cb637deba48766fa9a8946764a7cd8e7e8c07588560b426cf8a587c62"
 
 [[files]]
-file = "client-overrides/config/inventoryprofilesnext/Test/villager-trading-config.json"
+file = "config/enchancement.json"
+hash = "aaf9ecf8d7564cc8b0741058883f68a6f2a1469abd55e83e1990b5d704a9b65b"
+
+[[files]]
+file = "config/inventoryprofilesnext/Test/villager-trading-config.json"
 hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
 
 [[files]]
-file = "client-overrides/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
-file = "client-overrides/config/inventoryprofilesnext/integrationHints/player-defined.json"
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
 hash = "f116d0b23d2f28d5d808dc7a51c3f09733272a121a47a3e68f21f83c831a8af6"
 
 [[files]]
-file = "client-overrides/config/inventoryprofilesnext/inventoryprofiles.json"
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "d848cf65a5bef0313b7b9f3c36147b50c3cf84689f347dd8c81941a10bd8523e"
 
 [[files]]
-file = "client-overrides/config/replaymod.json"
+file = "config/lithium.properties"
+hash = "b9f5e307a79a7a09819c030e86015b9cb82ae38d5d2eb70144cec8edc153d55d"
+
+[[files]]
+file = "config/replaymod.json"
 hash = "4ca34de394633850f90155962e97cf4cf9c8455fd7ede972d268870d14855c34"
 
 [[files]]
-file = "client-overrides/config/roughlyenoughitems/config.json5"
+file = "config/roughlyenoughitems/config.json5"
 hash = "ddf21fa64e08d1b553cd9a6e8612d6df32929b624243e41bb1d01137b76f2664"
 
 [[files]]
-file = "client-overrides/config/sodium-extra-options.json"
+file = "config/sodium-extra-options.json"
 hash = "e484f155f274389eb17cf9364b867d8a886bcb591f660707ffc8be2d911c8030"
 
 [[files]]
-file = "client-overrides/mods/textures/particle-rain-2.0.1.jar"
-hash = "d09e25efc879e8e20ec0a9a7758f27648238516223a592102623a36804781e9c"
+file = "config/voicechat/voicechat-client.properties"
+hash = "9b9b8af687261a814b6cb219775f6286f690273b2411d4d199017e75d1d189e9"
 
 [[files]]
-file = "client-overrides/mods/textures/quilted_clear_skies-1.0.0+1.19_until_1.19.2.jar"
-hash = "fe7c86fad0c294457e131fc2de059273de5e8c2686e7beff3cb1e44614a0cbd5"
+file = "config/voicechat/voicechat-server.properties"
+hash = "09229adb189344b0fed404157d94320d326835a41cca0fc2ea820773b18855b0"
 
 [[files]]
-file = "client-overrides/options.txt"
-hash = "ad05dca25f75e37dcbed3b651aab071810d5aaa5f9a74d06132edd5d02d23c36"
+file = "global_packs/optional_data/Craftable-Nametags.zip"
+hash = "487e7fa4cc1cfd4dd280857397df2b0b4a0ccf28d90a7bd5127f48bbfa619bee"
 
 [[files]]
-file = "client-overrides/resourcepacks/VanillaTweaks.zip"
-hash = "9ad3635a0c207c9b278f04e8f4175fee7b227fbccc2ebc2fbfc94bbc17ca6497"
+file = "global_packs/optional_data/Tag.zip"
+hash = "7e70d3facaf08d82c134bde3101e59a0c974d2f40833e2dbf17ff08cb1558d78"
 
 [[files]]
-file = "credits.txt"
-hash = "21e61cd6fa70234327906f4f252f82f336992146d9e5aee228815d285c1c64b9"
+file = "global_packs/optional_data/Thunder-Shrine.zip"
+hash = "a04e0115b9a18ff4181d82ed1c3987dd0eebee73b3f3853899ccc64f6716bd86"
+
+[[files]]
+file = "global_packs/required_data/AFK-Display.zip"
+hash = "fb8778ea88e0a910831cdbff02f16b41cddd65385754156a37c453092b31efb3"
+
+[[files]]
+file = "global_packs/required_data/Armor-Statues.zip"
+hash = "ff890f46bb5b1915039485de031a8a379ee90d72e2d20044a02bdb54eca4cbc3"
+
+[[files]]
+file = "global_packs/required_data/Cauldron-Concrete.zip"
+hash = "c6f2c438d1a53044e3fde005f5adc16393d15a15e75e98176a2f4deeca290997"
+
+[[files]]
+file = "global_packs/required_data/Crafting-Tweaks.zip"
+hash = "5b5360e435b6801e0286b97e8a06e581b6686ec3f710261bd4808abcfa3cf69c"
+
+[[files]]
+file = "global_packs/required_data/Custom-Nether-Portals.zip"
+hash = "a3c48341b2ccb5c07ec5d327ae3fef9844a256c0a4f393a8f6f64b064c7ddc57"
+
+[[files]]
+file = "global_packs/required_data/Fast-Leaf-Decay.zip"
+hash = "6b45047234fd5ce98624bfd07d96fea4d2b18704ce02826182c2fe4061dd8d86"
+
+[[files]]
+file = "global_packs/required_data/Multiplayer-Sleep.zip"
+hash = "695793d71ba912ffa115521091cdb82070e3d74ffe1084405c45bdbd7440ea43"
+
+[[files]]
+file = "global_packs/required_data/Nether-Portal-Coords.zip"
+hash = "8e51e06613e21384412f3d6917d7feb3ab60b13eafeccbaea83eb070d58a90e8"
+
+[[files]]
+file = "global_packs/required_data/Silence-Mobs.zip"
+hash = "7de277148dbe9a2631fe9aa756a5f99a0f90cc5b41fab0d719ee4832435b716b"
+
+[[files]]
+file = "global_packs/required_data/Unlock-All-Recipes.zip"
+hash = "9408b2e9bd13978de51fa568d3c335c4e3a1a78bdacbe85cdfee0141b460639b"
+
+[[files]]
+file = "global_packs/required_data/Villager-Workstation-Highlights.zip"
+hash = "42dbe1acb2851a2567d59a0779a7e818031e036f29bef39bfb8559e5c4a948d7"
+
+[[files]]
+file = "global_packs/required_data/Wandering-Trades.zip"
+hash = "5c92c292ed118e3b11199698cb4fad5a8762318d10bfddb071394565a4305c08"
 
 [[files]]
 file = "mods/content/chalk.pw.toml"
@@ -107,6 +179,10 @@ metafile = true
 [[files]]
 file = "mods/content/extended-cogwheels.toml"
 hash = "8d930e8c747d9153e2e967db43b38d30c3b5b784d83f5cccbe26030f3e2b801c"
+
+[[files]]
+file = "mods/content/extendedgears-2.1.0-1.19.2-0.5.1.c-fabric+custom-build.jar"
+hash = "951431fa7c4f7aca2205b6276759d4b9b9da332ffd338dab67a4f7ed3dd2cbfb"
 
 [[files]]
 file = "mods/content/farmers-delight-fabric.pw.toml"
@@ -249,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/cardinal-components-api.pw.toml"
-hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+hash = "353218b78fe0b51422052c923f8ca19076495e5767c043a829527258a8db93b8"
 metafile = true
 
 [[files]]
@@ -668,9 +744,17 @@ hash = "d02faadb0665db5f148eb7a5bcb817221a139b42d1437231e1def2f06a452bce"
 metafile = true
 
 [[files]]
+file = "mods/textures/particle-rain-2.0.1.jar"
+hash = "d09e25efc879e8e20ec0a9a7758f27648238516223a592102623a36804781e9c"
+
+[[files]]
 file = "mods/textures/presence-footsteps.pw.toml"
 hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
 metafile = true
+
+[[files]]
+file = "mods/textures/quilted_clear_skies-1.0.0+1.19_until_1.19.2.jar"
+hash = "fe7c86fad0c294457e131fc2de059273de5e8c2686e7beff3cb1e44614a0cbd5"
 
 [[files]]
 file = "mods/utils/appleskin.pw.toml"
@@ -733,84 +817,12 @@ hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true
 
 [[files]]
-file = "overrides/config/bcc.json"
-hash = "af7a8f9a429bdbb27950c55acee98947769afdd6694a79abecc29abd92d00dd5"
+file = "options.txt"
+hash = "ad05dca25f75e37dcbed3b651aab071810d5aaa5f9a74d06132edd5d02d23c36"
 
 [[files]]
-file = "overrides/config/bclib/server.json"
-hash = "25c77659150998588c011af422b0da2e3159b2edf80a5b229f076f73bdf8535c"
-
-[[files]]
-file = "overrides/config/do_a_barrel_roll-server.json"
-hash = "216918751aad525f6b3508bec64fb5c3d0183019cd75565735f2ff5e8f7cf8d7"
-
-[[files]]
-file = "overrides/config/enchancement.json"
-hash = "aaf9ecf8d7564cc8b0741058883f68a6f2a1469abd55e83e1990b5d704a9b65b"
-
-[[files]]
-file = "overrides/config/lithium.properties"
-hash = "b9f5e307a79a7a09819c030e86015b9cb82ae38d5d2eb70144cec8edc153d55d"
-
-[[files]]
-file = "overrides/config/voicechat/voicechat-client.properties"
-hash = "9b9b8af687261a814b6cb219775f6286f690273b2411d4d199017e75d1d189e9"
-
-[[files]]
-file = "overrides/config/voicechat/voicechat-server.properties"
-hash = "09229adb189344b0fed404157d94320d326835a41cca0fc2ea820773b18855b0"
-
-[[files]]
-file = "overrides/global_packs/optional_data/Craftable-Nametags.zip"
-hash = "487e7fa4cc1cfd4dd280857397df2b0b4a0ccf28d90a7bd5127f48bbfa619bee"
-
-[[files]]
-file = "overrides/global_packs/optional_data/Thunder-Shrine.zip"
-hash = "a04e0115b9a18ff4181d82ed1c3987dd0eebee73b3f3853899ccc64f6716bd86"
-
-[[files]]
-file = "overrides/global_packs/required_data/Armor-Statues.zip"
-hash = "ff890f46bb5b1915039485de031a8a379ee90d72e2d20044a02bdb54eca4cbc3"
-
-[[files]]
-file = "overrides/global_packs/required_data/Cauldron-Concrete.zip"
-hash = "c6f2c438d1a53044e3fde005f5adc16393d15a15e75e98176a2f4deeca290997"
-
-[[files]]
-file = "overrides/global_packs/required_data/Crafting-Tweaks.zip"
-hash = "5b5360e435b6801e0286b97e8a06e581b6686ec3f710261bd4808abcfa3cf69c"
-
-[[files]]
-file = "overrides/global_packs/required_data/Custom-Nether-Portals.zip"
-hash = "a3c48341b2ccb5c07ec5d327ae3fef9844a256c0a4f393a8f6f64b064c7ddc57"
-
-[[files]]
-file = "overrides/global_packs/required_data/Fast-Leaf-Decay.zip"
-hash = "6b45047234fd5ce98624bfd07d96fea4d2b18704ce02826182c2fe4061dd8d86"
-
-[[files]]
-file = "overrides/global_packs/required_data/Nether-Portal-Coords.zip"
-hash = "8e51e06613e21384412f3d6917d7feb3ab60b13eafeccbaea83eb070d58a90e8"
-
-[[files]]
-file = "overrides/global_packs/required_data/Silence-Mobs.zip"
-hash = "7de277148dbe9a2631fe9aa756a5f99a0f90cc5b41fab0d719ee4832435b716b"
-
-[[files]]
-file = "overrides/global_packs/required_data/Unlock-All-Recipes.zip"
-hash = "9408b2e9bd13978de51fa568d3c335c4e3a1a78bdacbe85cdfee0141b460639b"
-
-[[files]]
-file = "overrides/global_packs/required_data/Villager-Workstation-Highlights.zip"
-hash = "42dbe1acb2851a2567d59a0779a7e818031e036f29bef39bfb8559e5c4a948d7"
-
-[[files]]
-file = "overrides/global_packs/required_data/Wandering-Trades.zip"
-hash = "5c92c292ed118e3b11199698cb4fad5a8762318d10bfddb071394565a4305c08"
-
-[[files]]
-file = "overrides/mods/content/extendedgears-2.1.0-1.19.2-0.5.1.c-fabric+custom-build.jar"
-hash = "951431fa7c4f7aca2205b6276759d4b9b9da332ffd338dab67a4f7ed3dd2cbfb"
+file = "resourcepacks/VanillaTweaks.zip"
+hash = "9ad3635a0c207c9b278f04e8f4175fee7b227fbccc2ebc2fbfc94bbc17ca6497"
 
 [[files]]
 file = "resourcepacks/xalis-enhanced-jungle-wood.pw.toml"
@@ -821,27 +833,3 @@ metafile = true
 file = "resourcepacks/xalis-potion.pw.toml"
 hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
 metafile = true
-
-[[files]]
-file = "server-overrides/config/Discord-Integration.toml"
-hash = "d91758d556a165e676270d7f8494b6f05e7eca61812beb0892de8dff690f0d02"
-
-[[files]]
-file = "server-overrides/config/DiscordIntegration-Data/Messages.toml"
-hash = "b82091ec8f42cf36d350d41b50306cb3ffe18582c925c1ab1612464beb6cef9f"
-
-[[files]]
-file = "server-overrides/global_packs/optional_data/Tag.zip"
-hash = "7e70d3facaf08d82c134bde3101e59a0c974d2f40833e2dbf17ff08cb1558d78"
-
-[[files]]
-file = "server-overrides/global_packs/required_data/AFK-Display.zip"
-hash = "fb8778ea88e0a910831cdbff02f16b41cddd65385754156a37c453092b31efb3"
-
-[[files]]
-file = "server-overrides/global_packs/required_data/Multiplayer-Sleep.zip"
-hash = "695793d71ba912ffa115521091cdb82070e3d74ffe1084405c45bdbd7440ea43"
-
-[[files]]
-file = "simple-create-logo.jpeg"
-hash = "fbcd6e27f71d25251dbfd481b4b6992a7bf3a47a72679dec20c41df98decbea1"

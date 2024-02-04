@@ -10,7 +10,6 @@ Please also note that shaders cause rendering issues.
 As soon as all mods that are currently in use work for this version of Minecraft, we'll update.
 
 ## Other Repositories
-[Packwiz](https://github.com/MentoskaPraha/packwiz) - modified version of packwiz used to create and maintain this modpack.
 [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) - the version of quilted clear skies used.
 [Simple Create Resourcepack](https://github.com/MentoskaPraha/simple-create-resourcepack) - the custom textures we use in our modpack.
 
@@ -119,7 +118,7 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 | [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) | Client | Used | ✅ |
 | [Entity Culling](https://modrinth.com/mod/NNAgCjsB) | Client | Used | ✅ |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Client and Server | Used | ✅ |
-| [LazyDFU](https://modrinth.com/mod/hvFnDODi) | Server | Used, mod will be removed on update to `1.20.1`. | N/A |
+| [LazyDFU](https://modrinth.com/mod/hvFnDODi) | Client and Server | Used, mod will be removed on update to `1.20.1`. | N/A |
 | [Lithium](https://modrinth.com/mod/gvQqBUqZ) | Client and Server | Used | ✅ |
 | [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | Server | Used | ✅ |
 | [Smooth Boot](https://modrinth.com/mod/FWumhS4T) | Client and Server | Used, mod will be removed on update to `1.20.1`. | N/A |
@@ -204,15 +203,15 @@ These mods allow all the other mods to work.
 | [Architectury API](https://modrinth.com/mod/lhGA9TYQ) | Client and Server | Used | ✅ |
 | [BCLib](https://modrinth.com/mod/BgNRHReB) | Client and Server | Used | ✅ |
 | [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) | Client and Server | Used | ✅ |
-| [Cardinal Components API](https://modrinth.com/mod/K01OU20C) | Client and Server | Used | ✅ |
-| [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client and Server | Used | ✅ |
+| [Cardinal Components API](https://modrinth.com/mod/K01OU20C) | Client | Used | ✅ |
+| [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client | Used | ✅ |
 | [CorgiLib](https://modrinth.com/mod/ziOp6EO8) | Client and Server | Used | ✅ |
-| [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client and Server | Used | ✅ |
-| [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) | Client and Server | Used, will be removed once updated to 1.20.1 | N/A |
+| [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client | Used | ✅ |
+| [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) | Client | Used, will be removed once updated to 1.20.1 | N/A |
 | [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client and Server | Planned, once updating to 1.20.1 | ✅ |
-| [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client and Server | Used | ✅ |
+| [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client | Used | ✅ |
 | [Geckolib](https://modrinth.com/mod/) | Client and Server | Used | ✅ |
-| [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client and Server | Used | ✅ |
+| [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client | Used | ✅ |
 | [Indium](https://modrinth.com/mod/Orvt0mRa) | Client | Used | ✅ |
 | [libIPN](https://modrinth.com/mod/onSQdWhM) | Client | Used | ✅ |
 | [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) | Client and Server | Used | ✅ |
@@ -222,7 +221,7 @@ These mods allow all the other mods to work.
 | [Rhino](https://modrinth.com/mod/sk9knFPE) | Client and Server | Used | ✅ |
 | [TerraBlender](https://modrinth.com/mod/kkmrDlKT) | Client and Server | Used | ✅ |
 | [ToolTipFix](https://modrinth.com/mod/2RKFTmiB) | Client | Used (This is a dependancy for Enchancement and nothing else.) | ✅ |
-| [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) | Client and Server | Used | ✅ |
+| [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) | Client | Used | ✅ |
 | [YUNG's API](https://modrinth.com/mod/Ua7DFN59) | Client and Server | Used | ✅ |
 
 ### Resourcepacks
