@@ -75,10 +75,10 @@ These mods add certain useful utilities to the game.
 | [BetterF3](https://modrinth.com/mod/8shC1gFX) | Client | Used | ✅ |
 | [Boat Item View](https://modrinth.com/mod/BdKIyOLe) | Client | Used | ✅ |
 | [Chunky](https://modrinth.com/mod/fALzjamp) | Server | Used | ✅ |
-| [Inventory Profiles Next](https://modrinth.com/mod/O7RBXm3n) | Client | Used | ✅ |
 | [ItemSwapper](https://modrinth.com/mod/RPOSBQgq) | Client | Used | ✅ |
 | [Jade Addons](https://modrinth.com/mod/fThnVRli) | Client and Server | Used | ✅ |
 | [Jade](https://modrinth.com/mod/nvQzSEkH) | Client and Server | Used | ✅ |
+| [NBT Tooltip](https://modrinth.com/mod/G0GDoyVf) | Client | Used | ✅ |
 | [Roughly Enough Items](https://modrinth.com/mod/nfn13YXA) | Client and Server | Used | ✅ |
 | [Status Effect Bars](https://modrinth.com/mod/x02cBj9Y) | Client | Used | ✅ |
 | [VTDownloader](https://modrinth.com/mod/1E2sq1cp) | Client | Used | ✅ |
@@ -96,6 +96,8 @@ These mods rework terrain generation, allowing for interesting structures and ex
 | [Terralith](https://modrinth.com/mod/8oi3bsk5) | Client and Server | Used | ✅ |
 | [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) | Client and Server | Used | ✅ |
 | [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5) | Client and Server | Used | ✅ |
+| [YUNG's Better End Island](https://modrinth.com/mod/2BwBOmBQ) | Client and Server | Used | ✅ |
+| [YUNG's Better Jungle Temples](https://modrinth.com/mod/z9Ve58Ih) | Client and Server | Used | ✅ |
 | [YUNG's Better Mineshafts](https://modrinth.com/mod/HjmxVlSr) | Client and Server | Used | ✅ |
 | [YUNG's Better Nether Fortresses](https://modrinth.com/mod/Z2mXHnxP) | Client and Server | Used | ✅ |
 | [YUNG's Better Ocean Monuments](https://modrinth.com/mod/3dT9sgt4) | Client and Server | Used | ✅ |
@@ -193,6 +195,7 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [Replay Voice Chat](https://modrinth.com/mod/yI6ANuOK) | Client | Used | ✅ |
 | [ReplayMod](https://modrinth.com/mod/Nv2fQJo5) | Client | Used and outdated as an update to Replay Voice Chat is needed | ✅ |
 | [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) | Client and Server | Used and outdated as an update to Replay Voice Chat is needed | ✅ |
+| [Spirit Walker](https://modrinth.com/mod/zbX4s3vj) | Client and Server | Used | ✅ |
 | [Traveler's Titles](https://modrinth.com/mod/JtifUr64) | Client | Used | ✅ |
 
 ### Library Mods
@@ -207,14 +210,13 @@ These mods allow all the other mods to work.
 | [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client | Used | ✅ |
 | [CorgiLib](https://modrinth.com/mod/ziOp6EO8) | Client and Server | Used | ✅ |
 | [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client | Used | ✅ |
-| [Fabric Language Kotlin](https://modrinth.com/mod/Ha28R6CL) | Client | Used, will be removed once updated to 1.20.1 | N/A |
-| [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client and Server | Planned, once updating to 1.20.1 | ✅ |
+| [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client and Server | Used | ✅ |
 | [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client | Used | ✅ |
 | [Geckolib](https://modrinth.com/mod/) | Client and Server | Used | ✅ |
 | [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client | Used | ✅ |
 | [Indium](https://modrinth.com/mod/Orvt0mRa) | Client | Used | ✅ |
-| [libIPN](https://modrinth.com/mod/onSQdWhM) | Client | Used | ✅ |
 | [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) | Client and Server | Used | ✅ |
+| [oωo (owo-lib)](https://modrinth.com/mod/ccKDOlHs) | Client and Server | Used | ✅ |
 | [Pehkui](https://modrinth.com/mod/t5W7Jfwy) | Client and Server | Used | ✅ |
 | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qvIfYCYJ) | Client and Server | Used | ✅ |
 | [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) | Client and Server | Used | ✅ |
@@ -230,8 +232,6 @@ These are the resourcepacks we use.
 | :---------------------| :-----------------: | :-------------------: |
 | [VanillaTweaks Textures](https://vanillatweaks.net/) | Used | ✅ |
 | [Custom Textures](https://github.com/MentoskaPraha/simple-create-resourcepack) | Work in progress | |
-| [xali's Enhanced Jungle Wood](https://modrinth.com/resourcepack/GW65qp0z) | Used | ✅ |
-| [xali's Potion](https://modrinth.com/resourcepack/yFn9hTiq) | Used | ✅ |
 
 ### Datapacks
 All datapacks are source from [VanillaTweaks](https://vanillatweaks.net/).

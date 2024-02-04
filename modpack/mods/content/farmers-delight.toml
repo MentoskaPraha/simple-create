@@ -1,8 +1,0 @@
-name = "Farmer's Delight"
-filename = "/overrides/mods/content/farmers-delight-fabric-1.3.10.2+build-214_PULL.jar"
-version = "1.3.10.1"
-side = "both"
-
-[update]
-[update.modrinth]
-mod-id = "4EakbH8e"

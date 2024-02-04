@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/Discord-Integration.toml"
-hash = "d91758d556a165e676270d7f8494b6f05e7eca61812beb0892de8dff690f0d02"
+hash = "7d527687c87b20968900e9b2e3d1088630e037b8f7d41d5d4e3271950da08c3a"
 
 [[files]]
 file = "config/DiscordIntegration-Data/Messages.toml"
@@ -37,24 +37,12 @@ file = "config/enchancement.json"
 hash = "aaf9ecf8d7564cc8b0741058883f68a6f2a1469abd55e83e1990b5d704a9b65b"
 
 [[files]]
-file = "config/inventoryprofilesnext/Test/villager-trading-config.json"
-hash = "900a5d6592eaefcc3812b240e2efc8a48eb4edb5684a0435feebeaa18992aaf3"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
-hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
-
-[[files]]
-file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "f116d0b23d2f28d5d808dc7a51c3f09733272a121a47a3e68f21f83c831a8af6"
-
-[[files]]
-file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "d848cf65a5bef0313b7b9f3c36147b50c3cf84689f347dd8c81941a10bd8523e"
-
-[[files]]
 file = "config/lithium.properties"
 hash = "b9f5e307a79a7a09819c030e86015b9cb82ae38d5d2eb70144cec8edc153d55d"
+
+[[files]]
+file = "config/nbttooltip.json"
+hash = "3bb707cbf49aeef223b39bba0970117e08bb2b6baf6f7b0cb949cb5a5b3334ef"
 
 [[files]]
 file = "config/replaymod.json"
@@ -177,10 +165,6 @@ hash = "5a4d31825bdd55127b3716eb8eda5bd2e4d06319fa90850db633421a1d922f44"
 metafile = true
 
 [[files]]
-file = "mods/content/extended-cogwheels.toml"
-hash = "8d930e8c747d9153e2e967db43b38d30c3b5b784d83f5cccbe26030f3e2b801c"
-
-[[files]]
 file = "mods/content/extendedgears-2.1.0-1.19.2-0.5.1.c-fabric+custom-build.jar"
 hash = "951431fa7c4f7aca2205b6276759d4b9b9da332ffd338dab67a4f7ed3dd2cbfb"
 
@@ -188,10 +172,6 @@ hash = "951431fa7c4f7aca2205b6276759d4b9b9da332ffd338dab67a4f7ed3dd2cbfb"
 file = "mods/content/farmers-delight-fabric.pw.toml"
 hash = "b1203401ca4f0f1a45f411eb7e070451a1a336bffc79f3a1ec6224e535e04780"
 metafile = true
-
-[[files]]
-file = "mods/content/farmers-delight.toml"
-hash = "fec14c9c05f5b5188be69f142afc987e6c79afbbdad05682db217abec9a990f5"
 
 [[files]]
 file = "mods/content/lovely_snails.pw.toml"
@@ -344,11 +324,6 @@ hash = "f56a9c6bd8794310c23f32b9d57b34a892a432d1e62546599e523dd5106c1480"
 metafile = true
 
 [[files]]
-file = "mods/libs/fabric-language-kotlin.pw.toml"
-hash = "bd278a821fa158a7ffedb511c84e5bc0887192ceae21f9038b30357edd64a9e9"
-metafile = true
-
-[[files]]
 file = "mods/libs/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
@@ -369,18 +344,23 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
-file = "mods/libs/libipn.pw.toml"
-hash = "ada5048e8652bd49599449c08c048b8e9e8d0d01e1bc043040740352c3c8352f"
-metafile = true
-
-[[files]]
 file = "mods/libs/moonlight.pw.toml"
 hash = "f6124a6b079e5b8885634c9ba9253ceaa7da1828caf139581f474faedd4197e5"
 metafile = true
 
 [[files]]
+file = "mods/libs/owo-lib.pw.toml"
+hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
 file = "mods/libs/pehkui.pw.toml"
 hash = "f44c2e138b41270813fc1a1f1516ef44018f6ccfe83828deab77a196f746f5ae"
+metafile = true
+
+[[files]]
+file = "mods/libs/qkl.pw.toml"
+hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
 
 [[files]]
@@ -511,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/misc/simple-voice-chat.pw.toml"
 hash = "b389e52fbd85c6c53d0bd9064977242af8db02448e2886ca23a0a73d44664936"
+metafile = true
+
+[[files]]
+file = "mods/misc/spirit-walker.pw.toml"
+hash = "63d3eb4e21e33db00d3ac42eba1aacebf3bfc7cbdf9a28c5ffdf14d8652260ff"
 metafile = true
 
 [[files]]
@@ -659,6 +644,16 @@ hash = "50c2ce35a2678f4666e700b43da4c48d2a47fbd04ac35cc735ca20a846686aed"
 metafile = true
 
 [[files]]
+file = "mods/terrain/yungs-better-end-island.pw.toml"
+hash = "1ad3befce08553279317a2d24c45e0f1f7c53643ce3044e0bb7b716dc4aa7b08"
+metafile = true
+
+[[files]]
+file = "mods/terrain/yungs-better-jungle-temples.pw.toml"
+hash = "cea92801d142019fab01963d329fbdde6655f7950f7982696a98907bc340549f"
+metafile = true
+
+[[files]]
 file = "mods/terrain/yungs-better-mineshafts.pw.toml"
 hash = "c8fc3410099c46c0ee8ad617e2d648223e492ccd1e5bc7302e26faaed059f78d"
 metafile = true
@@ -777,11 +772,6 @@ hash = "7ed22be52dd112450b1770ef41d05768a4c44fa04442ffe244dd94fe2de35038"
 metafile = true
 
 [[files]]
-file = "mods/utils/inventory-profiles-next.pw.toml"
-hash = "51cc57a60256bdb283346f76a8900cdec921828a2fe0b3d136a0dcf2668086dc"
-metafile = true
-
-[[files]]
 file = "mods/utils/itemswapper.pw.toml"
 hash = "4ee2934e90a2e1a508139ff83e5e21d88debd88223c7c235c057bf26fe7f10f5"
 metafile = true
@@ -794,6 +784,11 @@ metafile = true
 [[files]]
 file = "mods/utils/jade.pw.toml"
 hash = "33022430ccfc723fa386c77650f70b2ad987e1e68fa8986e1de0d9778fafebd7"
+metafile = true
+
+[[files]]
+file = "mods/utils/nbttooltip.pw.toml"
+hash = "c91774e06dd72c1e54a749be3a60080f210266bbbaf5e3c1488929ae48f01767"
 metafile = true
 
 [[files]]
@@ -818,18 +813,8 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ad05dca25f75e37dcbed3b651aab071810d5aaa5f9a74d06132edd5d02d23c36"
+hash = "00b5126469ff04834f2c46545cc054340a162bcf8ad25f8fdd0feabe4d2b5799"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"
 hash = "9ad3635a0c207c9b278f04e8f4175fee7b227fbccc2ebc2fbfc94bbc17ca6497"
-
-[[files]]
-file = "resourcepacks/xalis-enhanced-jungle-wood.pw.toml"
-hash = "60d3d7bfda1200d93ffc8cef6a16ef21c224537c946b5ca25d7a94ae77d416ca"
-metafile = true
-
-[[files]]
-file = "resourcepacks/xalis-potion.pw.toml"
-hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
-metafile = true

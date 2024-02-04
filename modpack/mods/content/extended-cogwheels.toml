@@ -1,7 +1,0 @@
-name = "Create: Extended Cogwheels"
-filename = "overrides/mods/content/extendedgears-2.1.0-1.19.2-0.5.1.c-fabric+custom-build.jar"
-side = "both"
-
-[update]
-[update.modrinth]
-mod-id = "qO4lsa4Y"
