@@ -210,7 +210,6 @@ These mods allow all the other mods to work.
 | [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client | Used | ✅ |
 | [CorgiLib](https://modrinth.com/mod/ziOp6EO8) | Client and Server | Used | ✅ |
 | [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client | Used | ✅ |
-| [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client and Server | Used | ✅ |
 | [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client | Used | ✅ |
 | [Geckolib](https://modrinth.com/mod/) | Client and Server | Used | ✅ |
 | [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client | Used | ✅ |
@@ -218,6 +217,7 @@ These mods allow all the other mods to work.
 | [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) | Client and Server | Used | ✅ |
 | [oωo (owo-lib)](https://modrinth.com/mod/ccKDOlHs) | Client and Server | Used | ✅ |
 | [Pehkui](https://modrinth.com/mod/t5W7Jfwy) | Client and Server | Used | ✅ |
+| [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client and Server | Used | ✅ |
 | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qvIfYCYJ) | Client and Server | Used | ✅ |
 | [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) | Client and Server | Used | ✅ |
 | [Rhino](https://modrinth.com/mod/sk9knFPE) | Client and Server | Used | ✅ |
