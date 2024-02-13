@@ -248,8 +248,8 @@ All datapacks are source from [VanillaTweaks](https://vanillatweaks.net/).
 | Wandering Trades | Client or Server | Used | ✅ |
 | Thunder Shrine | Client or Server | Used, but is optional | ✅ |
 | Tag | Server | Used, but is optional | ✅ |
-| AFK Display | Server  | Used, but is optional | ✅ |
-| Multiplayer Sleep | Server | Used, but is optional | ✅ |
+| AFK Display | Server  | Used | ✅ |
+| Multiplayer Sleep | Server | Used | ✅ |
 
 ### Crafting Tweaks
 All crafting tweaks are source from [VanillaTweaks](https://vanillatweaks.net/).
