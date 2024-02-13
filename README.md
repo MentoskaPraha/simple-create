@@ -10,8 +10,7 @@ Please also note that shaders cause rendering issues.
 As soon as all mods that are currently in use work for this version of Minecraft, we'll update.
 
 ## Other Repositories
-[Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) - the version of quilted clear skies used.
-[Simple Create Resourcepack](https://github.com/MentoskaPraha/simple-create-resourcepack) - the custom textures we use in our modpack.
+[Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) - a mod that removes the banding at the horizon of Vanilla Minecraft.
 
 ## Credits
 - MentoskaPraha 
@@ -231,50 +230,49 @@ These are the resourcepacks we use.
 |  Texturepack Name and Link | Use Status | Ready for 1.20.1 Upgrade |
 | :---------------------| :-----------------: | :-------------------: |
 | [VanillaTweaks Textures](https://vanillatweaks.net/) | Used | ✅ |
-| [Custom Textures](https://github.com/MentoskaPraha/simple-create-resourcepack) | Work in progress | |
+| [Custom Textures](./modpack/kubejs/assets/) | Work in progress | |
 
 ### Datapacks
 All datapacks are source from [VanillaTweaks](https://vanillatweaks.net/).
 |  Datapack Name | Client/Server Info  | Use Status | Ready for 1.20.1 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
-| Armor Statues | Client or Server | Used | ✅ |
-| Cauldron Concrete | Client or Server | Used | ✅ |
-| Custom Nether Portals | Client or Server  | Used | ✅ |
-| Fast Leaf Decay | Client or Server |  Used | ✅ |
-| Nether Portal Coords | Client or Server |  Used | ✅ |
-| Silence Mobs | Client or Server |  Used | ✅ |
-| Unlock all Recipes | Client or Server |  Used | ✅ |
-| Villager Workstation Highlights | Client or Server | Used | ✅ |
-| Wandering Trades | Client or Server | Used | ✅ |
-| Thunder Shrine | Client or Server | Used, but is optional | ✅ |
-| Tag | Server | Used, but is optional | ✅ |
-| AFK Display | Server  | Used | ✅ |
-| Multiplayer Sleep | Server | Used | ✅ |
+| Armor Statues | Client or Server | Forced | ✅ |
+| Custom Nether Portals | Client or Server  | Forced | ✅ |
+| Fast Leaf Decay | Client or Server |  Forced | ✅ |
+| Nether Portal Coords | Client or Server |  Optional | ✅ |
+| Silence Mobs | Client or Server |  Forced | ✅ |
+| Unlock all Recipes | Client or Server |  Forced | ✅ |
+| Villager Workstation Highlights | Client or Server | Optional | ✅ |
+| Wandering Trades | Client or Server | Forced | ✅ |
+| Thunder Shrine | Client or Server | Optional | ✅ |
+| Tag | Server | Optional | ✅ |
+| AFK Display | Server  | Optional | ✅ |
+| Multiplayer Sleep | Server | Optional | ✅ |
 
 ### Crafting Tweaks
 All crafting tweaks are source from [VanillaTweaks](https://vanillatweaks.net/).
 |  Crafting Tweaks Name | Client/Server Info  | Use Status | Ready for 1.20.1 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
-| Craftable Nametags | Client or Server | Used, but is optional | ✅ |
-| Back to Blocks | Client or Server | Used | ✅ |
-| Dropper to Dispenser | Client or Server | Used | ✅ |
-| Rotten Flesh to Leather | Client or Server | Used | ✅ |
-| Charcaol to Black Dye | Client or Server | Used | ✅ |
-| Coal to Black Dye | Client or Server | Used | ✅ |
-| Sandstone Dyeing | Client or Server | Used | ✅ |
-| Universal Dyeing | Client or Server | Used | ✅ |
-| Straight to Shapeless | Client or Server | Used | ✅ |
-| Blackstone Cobblestone | Client or Server | Used | ✅ |
-| Powder to Glass | Client or Server | Used | ✅ |
-| More Bark | Client or Server | Used | ✅ |
-| More Bricks | Client or Server | Used | ✅ |
-| Craftable Gravel | Client or Server | Used | ✅ |
-| Craftable Coral Blocks 2x2 | Client or Server | Used | ✅ |
-| Craftable Coral Blocks 3x3 | Client or Server | Used | ✅ |
-| Craftable Blackstone | Client or Server | Used | ✅ |
-| Unpackable Ice | Client or Server | Used | ✅ |
-| Unpackable Nether Wart | Client or Server | Used | ✅ |
-| Unpackable Wool | Client or Server | Used | ✅ |
+| Craftable Nametags | Client or Server | Optional | ✅ |
+| Back to Blocks | Client or Server | Forced | ✅ |
+| Dropper to Dispenser | Client or Server | Forced | ✅ |
+| Rotten Flesh to Leather | Client or Server | Forced | ✅ |
+| Charcaol to Black Dye | Client or Server | Forced | ✅ |
+| Coal to Black Dye | Client or Server | Forced | ✅ |
+| Sandstone Dyeing | Client or Server | Forced | ✅ |
+| Universal Dyeing | Client or Server | Forced | ✅ |
+| Straight to Shapeless | Client or Server | Forced | ✅ |
+| Blackstone Cobblestone | Client or Server | Forced | ✅ |
+| Powder to Glass | Client or Server | Forced | ✅ |
+| More Bark | Client or Server | Forced | ✅ |
+| More Bricks | Client or Server | Forced | ✅ |
+| Craftable Gravel | Client or Server | Forced | ✅ |
+| Craftable Coral Blocks 2x2 | Client or Server | Forced | ✅ |
+| Craftable Coral Blocks 3x3 | Client or Server | Forced | ✅ |
+| Craftable Blackstone | Client or Server | Forced | ✅ |
+| Unpackable Ice | Client or Server | Forced | ✅ |
+| Unpackable Nether Wart | Client or Server | Forced | ✅ |
+| Unpackable Wool | Client or Server | Forced | ✅ |
 
 ### Custome Mod Versions
 Some mods needed to have their source code modified in order to function properly, here's a list of all the modifications.

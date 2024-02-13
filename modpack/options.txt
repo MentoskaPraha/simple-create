@@ -40,7 +40,6 @@ biomeBlendRadius:2
 renderClouds:"true"
 resourcePacks:["vanilla","file/VanillaTweaks.zip","Supplementaries Generated Pack","lambdabettergrass/default","minecraft/supporteatinganimation","railways/green_signals","continuity/default","continuity/glass_pane_culling_fix","itemswapper/default","white_icons"]
 incompatibleResourcePacks:["file/VanillaTweaks.zip"]
-lastServer:192.168.1.17:4444
 lang:en_us
 soundDevice:""
 chatVisibility:0
