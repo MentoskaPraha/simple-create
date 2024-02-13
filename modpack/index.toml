@@ -2189,6 +2189,11 @@ file = "kubejs/server_scripts/farmers_delight-origins-compatibility.js"
 hash = "77220933aa5e92ecbd67afaa886e76a4a2becf18bfe48b72ceeb708fe1c3b0a4"
 
 [[files]]
+file = "mods/blast.pw.toml"
+hash = "7016546ea4659805a33ca84412eb67366a49cb6f1d66785dfc59d60b00e69d8e"
+metafile = true
+
+[[files]]
 file = "mods/content/chalk.pw.toml"
 hash = "3b1ab484e2e6240f704b382d169d98f69ba3a312d89c0027f56e9ed7cd549c7f"
 metafile = true

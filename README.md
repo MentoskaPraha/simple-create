@@ -51,7 +51,7 @@ This list has all the mods that add content to the game.
 | [Chipped](https://modrinth.com/mod/BAscRYKm) | Client and Server | Used | ✅ |
 | [Chalk](https://modrinth.com/mod/OrtjXTCH) | Client and Server | Used | ✅ |
 | [Pick Your Poison](https://modrinth.com/mod/EHjFQKek) | Client and Server | Used | ✅ |
-| [Blast](https://modrinth.com/mod/hrVBD9fd) | Client and Server | Planned, once we update to 1.20.1 | ✅ |
+| [Blast](https://modrinth.com/mod/hrVBD9fd) | Client and Server | Used | ✅ |
 | [Charter](https://modrinth.com/mod/hGMwZahr) | Client and Server | Planned, once mod rewrite is complete. | N/A |
 
 ### Rework Mods
