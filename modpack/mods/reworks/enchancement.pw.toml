@@ -1,13 +1,13 @@
 name = "Enchancement"
-filename = "enchancement-1.19-14.jar"
+filename = "enchancement-1.19-19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6hN1V6wJ/versions/XgxAbBT8/enchancement-1.19-14.jar"
+url = "https://cdn.modrinth.com/data/6hN1V6wJ/versions/OC5PAcny/enchancement-1.19-19.jar"
 hash-format = "sha1"
-hash = "aa1f6263f2bee60af25a212598c29a9cb06a74c1"
+hash = "93f238bb143faef7ae22473310275358ba7a5759"
 
 [update]
 [update.modrinth]
 mod-id = "6hN1V6wJ"
-version = "XgxAbBT8"
+version = "OC5PAcny"

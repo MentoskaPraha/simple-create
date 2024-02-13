@@ -38,4 +38,7 @@ ServerEvents.tags("item", event => {
 	event.add("origins:ignore_diet", "farmersdelight:bone_broth");
 	event.add("origins:ignore_diet", "farmersdelight:noodle_soup");
 	event.add("origins:ignore_diet", "farmersdelight:stuffed_pumpkin");
+	event.add("origins:ignore_diet", "betternether:agave_medicine");
+	event.add("origins:ignore_diet", "betternether:herbal_medicine");
+	event.add("origins:ignore_diet", "betternether:stalagnate_bowl_wart");
 });
