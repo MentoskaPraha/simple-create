@@ -93,6 +93,18 @@ file = "global_packs/optional_data/Villager-Workstation-Highlights.zip"
 hash = "42dbe1acb2851a2567d59a0779a7e818031e036f29bef39bfb8559e5c4a948d7"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/coin.png"
+hash = "5002b270ef79cb6508f6c8033617bfe41cef577906d5ffaefa802a4ae611e492"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/meth.png"
+hash = "d93de3c79b0d32e541b02c6de92daaf7ac1321aea88fdc300ba5899d4d523ad5"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/super_meth.png"
+hash = "6810d7100201ee7bc281604a3d7a63988e5de0e492decbbc979620671a94b809"
+
+[[files]]
 file = "kubejs/assets/minecraft/models/item/awkward/l.json"
 hash = "9ec1b532ef71daafe04f5132ac2c580362f796e305010246280b19bb8f531864"
 
@@ -2150,11 +2162,11 @@ hash = "e7bfa1ae7dceaca98a36d08c36a59aa809097ae41298fcc3e52760e5580c69ce"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "1f44cb7bd4732e1b4866bff86e42e8894b15b0a9e26ca13320fc54925460d7c3"
+hash = "387123f6003c4afc7db0bfb98bd28e251dca0b5127039ea29164afdf79b85905"
 
 [[files]]
 file = "kubejs/config/packicon.png"
-hash = "2ed1ee9c4ce1a2450d3a3f0c19d8e2aa23ec1896bf2310ebc80808a3f8a313c5"
+hash = "3636d0f1cc7886675397bb6b5c75b806007280f7108e7a582dce67ea41132cbf"
 
 [[files]]
 file = "kubejs/data/Armor-Statues.zip"
@@ -2185,11 +2197,23 @@ file = "kubejs/data/Wandering-Trades.zip"
 hash = "5c92c292ed118e3b11199698cb4fad5a8762318d10bfddb071394565a4305c08"
 
 [[files]]
-file = "kubejs/server_scripts/farmers_delight-origins-compatibility.js"
-hash = "77220933aa5e92ecbd67afaa886e76a4a2becf18bfe48b72ceeb708fe1c3b0a4"
+file = "kubejs/server_scripts/coin-recipes.js"
+hash = "8d3757204ded25ff571c8840036734291646983754f58ffff560834f695182a8"
 
 [[files]]
-file = "mods/blast.pw.toml"
+file = "kubejs/server_scripts/custom-recipes.js"
+hash = "e39cdbce2c0f37eb236a461cf719536ab4f621c808af6be2c42a2186fe766771"
+
+[[files]]
+file = "kubejs/server_scripts/origins-foods-compatibility.js"
+hash = "426db7e776f68eac677f02630867e1c1b258ee6ee480253749e6e7645e831fe7"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-items.js"
+hash = "d8ebfa224b166761f03fd8d16461995e40d564f67d65ffb18e22d53d435678a1"
+
+[[files]]
+file = "mods/content/blast.pw.toml"
 hash = "7016546ea4659805a33ca84412eb67366a49cb6f1d66785dfc59d60b00e69d8e"
 metafile = true
 
@@ -2554,12 +2578,12 @@ metafile = true
 
 [[files]]
 file = "mods/misc/replaymod.pw.toml"
-hash = "93ea8f70011c63f6f41502d2205666f011496f9886a254d5104810ba610f054f"
+hash = "e5d0f64167691407fc06494f18d00246d072be0081a56cc6a34abbf9bb8c3324"
 metafile = true
 
 [[files]]
 file = "mods/misc/simple-voice-chat.pw.toml"
-hash = "7e56f11df4be74721fadad5a11c96c58886af593f4b0e808a42184fa29597a69"
+hash = "b389e52fbd85c6c53d0bd9064977242af8db02448e2886ca23a0a73d44664936"
 metafile = true
 
 [[files]]
