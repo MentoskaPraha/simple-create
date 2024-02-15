@@ -1,7 +1,30 @@
 {
     "parent":"item/generated",
     "textures": {
-        "layer0": "item/o",
-        "layer1": "eatinganimationid:item/harming/ps"
-    }
+        "layer0":"eatinganimationid:item/o",
+        "layer1":"eatinganimationid:item/harming/ps"
+    },
+    "overrides": [
+        {
+        "predicate": {
+                "drinking": 1,
+                "drink": 0.35
+            },
+            "model": "eatinganimationid:item/harming/ps/0"
+        },
+        {
+            "predicate": {
+                "drinking": 1,
+                "drink": 0.70
+            },
+            "model": "eatinganimationid:item/harming/ps/1"
+        },
+        {
+            "predicate": {
+                "drinking": 1,
+                "drink": 0.90
+            },
+            "model": "eatinganimationid:item/harming/ps/2"
+        }
+    ]
 }
