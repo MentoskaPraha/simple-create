@@ -6,25 +6,32 @@
     },
     "overrides": [
         {
-        "predicate": {
+            "predicate": {
                 "drinking": 1,
-                "drink": 0.35
+                "drink": 0.1
             },
             "model": "eatinganimationid:item/end_veil/p/0"
         },
         {
-            "predicate": {
+        "predicate": {
                 "drinking": 1,
-                "drink": 0.70
+                "drink": 0.35
             },
             "model": "eatinganimationid:item/end_veil/p/1"
         },
         {
             "predicate": {
                 "drinking": 1,
-                "drink": 0.90
+                "drink": 0.70
             },
             "model": "eatinganimationid:item/end_veil/p/2"
+        },
+        {
+            "predicate": {
+                "drinking": 1,
+                "drink": 0.90
+            },
+            "model": "eatinganimationid:item/end_veil/p/3"
         }
     ]
 }
