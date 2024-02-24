@@ -44,7 +44,7 @@ playerLeave = "%player% left."
 # PLACEHOLDERS:
 # %player% - The player's name
 # %msg% - The death message
-playerDeath = "%player% %msg%."
+playerDeath = "%player% %msg%"
 # Message sent instead of playerLeave, when the player times out
 # 
 # PLACEHOLDERS:
@@ -57,7 +57,7 @@ playerTimeout = "%player% timed out!"
 # %player% - The player's name
 # %name% - The advancement name
 # %desc% - The advancement description
-advancementMessage = "%player% just made the advancement **%name%**.\n_%desc%_."
+advancementMessage = "%player% just made the advancement **%name%**!\n_%desc%_"
 # The chat message in discord, sent from an player in-game
 # 
 # PLACEHOLDERS:
@@ -70,7 +70,7 @@ discordChatMessage = "%player%: %msg%"
 # %name2% - Name of the user who reacted with discord discriminator (format: 'SomeName#0123')
 # %msg% - Content of the message which got the reaction
 # %emote% - The reacted emote
-reactionMessage = "§6[§5DISCORD§6]§r§7 %name% reacted to your message \"§9%msg%§7\" with '%emote%'"
+reactionMessage = "§6[§5DISCORD§6]§r§7 %name% reacted to your message \"§9%msg%§7\" with '%emote%'."
 # Message shown for attachments
 attachment = "Attachment"
 # Message shown for stickers

@@ -4,7 +4,7 @@ Simple Create is a modpack based around [Create mod](https://modrinth.com/mod/Xb
 ## State of Project
 This modpack is relatively complete, but it's still in beta, because several mods cannot be added to the modpack due to stability reasons or the mods just being unfinished. This includes [Create Simulated](https://discord.gg/createaeronautics) and it's addons, [Distant Horizons](https://modrinth.com/mod/uCdwusMi) and [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q).  
 Do note that we do currently use [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q), however only on the server side.
-Please also note that shaders cause rendering issues.
+Please also note that shaders may cause rendering issues.
 
 ### 1.20.1
 As soon as all mods that are currently in use work for this version of Minecraft, we'll update.
@@ -38,7 +38,7 @@ This list has all the mods that add content to the game.
 | [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) | Client and Server | Used | ✅ |
 | [Create: Enchantement Industry](https://modrinth.com/mod/AEZO385x) | Client and Server | Used | ✅ |
 | [Create: Big Cannons](https://modrinth.com/mod/GWp4jCJj) | Client and Server | Used | ✅ |
-| [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Client and Server | Custom Version Used (see details bellow) | ✅ |
+| [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Client and Server | Used | ✅ |
 | [Create: Extended Bogeys](https://github.com/Rabbitminers/Extended-Bogeys) | Client and Server | Planned, once mod is complete. | N/A |
 | [Create: Ore Excavation](https://modrinth.com/mod/ResbpANg) | Client and Server | Used | ✅ |
 | [Create: Slice and Dice](https://modrinth.com/mod/GmjmRQ0A) | Client and Server | Used | ✅ |
@@ -191,7 +191,6 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [MoreChatHistory](https://modrinth.com/mod/8qkXwOnk) | Client | Used | ✅ |
 | [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C) | Client | Used | ✅ |
 | [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) | Client | Used | ✅ |
-| [Replay Voice Chat](https://modrinth.com/mod/yI6ANuOK) | Client | Used | ✅ |
 | [ReplayMod](https://modrinth.com/mod/Nv2fQJo5) | Client | Used and outdated as an update to Replay Voice Chat is needed | ✅ |
 | [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) | Client and Server | Used and outdated as an update to Replay Voice Chat is needed | ✅ |
 | [Spirit Walker](https://modrinth.com/mod/zbX4s3vj) | Client and Server | Used | ✅ |
@@ -273,9 +272,3 @@ All crafting tweaks are source from [VanillaTweaks](https://vanillatweaks.net/).
 | Unpackable Ice | Client or Server | Forced | ✅ |
 | Unpackable Nether Wart | Client or Server | Forced | ✅ |
 | Unpackable Wool | Client or Server | Forced | ✅ |
-
-### Custome Mod Versions
-Some mods needed to have their source code modified in order to function properly, here's a list of all the modifications.
-| Mod name and Link | Change | Reason for change |
-| :---------------------| :-----------------: | :------------------- |
-| [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Lowered Fabric API version from `0.76.1` to `0.76.0`. | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qvIfYCYJ) for Minecraft `1.19.2` only supports up to Fabric API `0.76.0`. |

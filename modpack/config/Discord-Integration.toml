@@ -29,13 +29,13 @@
   streamingURL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
   # Enable checking for updates?
   # Notification will be shown after every server start in log when update is available
-  enableUpdateChecker = true
+  enableUpdateChecker = false
   # The minimum release type for the update checker to notify
   # Allowed values: release, beta, alpha
   updateCheckerMinimumReleaseType = "beta"
   # Set to false to disable config migration from other mods/plugins to this one
   # This does not prevent updating of this config after mod updates
-  allowConfigMigration = true
+  allowConfigMigration = false
   # Attempt to parse id-based mentions to names in in-game chat
   parseMentionsIngame = true
   # Set to true to supress warning of unsafe mod download location
@@ -163,7 +163,7 @@ args = [    ]
   # Useful for hiding system messages by prepending it with this
   sayCommandIgnoredPrefix = "§4§6§k§r"
   # Should Discord users have their role color ingame?
-  discordRoleColorIngame = true
+  discordRoleColorIngame = false
   # Should you be able to hover and click on the discord username ingame?
   enableHoverMessage = true
 # Settings for embed mode
