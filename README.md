@@ -1,12 +1,7 @@
 # Simple Create
 Simple Create is a modpack based around [Create mod](https://modrinth.com/mod/Xbc0uyRg). It's designed to be a fun experience with the Boys, but can be played alone if you so wish.
 
-## State of Project
-This modpack is relatively complete, but it's still in beta, because several mods cannot be added to the modpack due to stability reasons or the mods just being unfinished. This includes [Create Simulated](https://discord.gg/createaeronautics) and it's addons, [Distant Horizons](https://modrinth.com/mod/uCdwusMi) and [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q).  
-Do note that we do currently use [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q), however only on the server side.
-Please also note that shaders may cause rendering issues.
-
-### 1.20.1
+## 1.20.1
 As soon as all mods that are currently in use work for this version of Minecraft, we'll update.
 
 ## Other Repositories
@@ -110,9 +105,7 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.1 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
-| [AdaptiveView](https://modrinth.com/mod/xZvyOrQr) | Server | Used | ✅ |
 | [Alternate Current](https://modrinth.com/mod/r0v8vy1s) | Server | Used | ✅ |
-| [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) | Server | Used | ✅ |
 | [Clumps](https://modrinth.com/mod/Wnxd13zP) | Client and Server | Used | ✅ |
 | [Cull Less Leaves](https://modrinth.com/mod/iG6ZHsUV) | Client | Used | ✅ |
 | [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) | Client | Used | ✅ |
@@ -125,7 +118,7 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 | [Smooth Boot](https://modrinth.com/mod/FWumhS4T) | Client and Server | Used, mod will be removed on update to `1.20.1`. | N/A |
 | [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) | Client | Used | ✅ |
 | [Sodium](https://modrinth.com/mod/AANobbMI) | Client | Used | ✅ |
-| [Starlight](https://modrinth.com/mod/H8CaAYZC) | Client and Server | Used, mod will be removed on the server side on update to `1.20.1` | ✅ |
+| [Starlight](https://modrinth.com/mod/H8CaAYZC) | Client and Server | Used, mod will be removed on the client side on update to `1.20.1` | ✅ |
 
 ### Fixes Mods
 These mods fix certain aspects of the game.
@@ -144,7 +137,7 @@ These mods fix certain aspects of the game.
 | [Food Effect Tooltips](https://modrinth.com/mod/GGfyJWnG) | Client | Used | ✅ |
 | [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA) | Client | Used | ✅ |
 | [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) | Client | Used | ✅ |
-| [Memory Leak Fix](https://modrinth.com/mod/NRjRiSSD) | Client and Server | Used | ✅ |
+
 | [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | Client | Used | ✅ |
 | [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) | Client | Used | ✅ |
 | [NBT Autocomplete](https://modrinth.com/mod/UR0ocuEt) | Client | Used | ✅ |
@@ -167,6 +160,7 @@ These mods allow texturepacks to work and rework some textures sometimes.
 | [Nyf's Spiders](https://modrinth.com/mod/dOGM7ccu) | Client | Used | ✅ |
 | [[EMF] Entity Model Features](https://modrinth.com/mod/4I1XuqiY) | Client | Used | ✅ |
 | [[ETF] Entity Texture Features](https://modrinth.com/mod/BVzZfTc1) | Client | Used | ✅ |
+| [Iris Shaders](https://modrinth.com/mod/YL57xq9U) | Client | Used | ✅ |
 | [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) | Client | Used | ✅ |
 
 ### Misc Mods
@@ -230,6 +224,12 @@ These are the resourcepacks we use.
 | :---------------------| :-----------------: | :-------------------: |
 | [VanillaTweaks Textures](https://vanillatweaks.net/) | Used | ✅ |
 | [Custom Textures](./modpack/kubejs/assets/) | Work in progress | |
+
+### Shaderpacks
+These are the shaderpacks we use.
+|  Shaderpack Name and Link | Use Status | Ready for 1.20.1 Upgrade |
+| :---------------------| :-----------------: | :-------------------: |
+| [Complementary Shaders - Reimagined](https://modrinth.com/shader/HVnmMxH1) | Used | ✅ |
 
 ### Datapacks
 All datapacks are source from [VanillaTweaks](https://vanillatweaks.net/).
