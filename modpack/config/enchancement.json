@@ -1,5 +1,5 @@
 {
-	"allowedEnchantments": [
+	"disallowedEnchantments": [
 		"minecraft:aqua_affinity",
 		"minecraft:bane_of_arthropods",
 		"minecraft:binding_curse",
@@ -30,7 +30,7 @@
 		"minecraft:swift_sneak",
 		"minecraft:thorns"
 	],
-	"invertedList": true,
+	"invertedList": false,
 	"overhaulEnchantingTable": true,
 	"allowTreasureEnchantmentsInEnchantingTable": false,
 	"experienceLevelCost": 5,

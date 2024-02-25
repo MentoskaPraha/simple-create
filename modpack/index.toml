@@ -14,7 +14,7 @@ hash = "77129d09033bb64a26b01b9824774ffb722b31d01829b94a6553c9c234f4b4dc"
 
 [[files]]
 file = "config/bcc.json"
-hash = "edb9042526c64bfc8fa4f23cdc8570539625883b7bfb6b8346e1953d404e2f42"
+hash = "0da651d5eedad594d227cf283fcb694ddda0e3ad3b221193cd454ffb4805f263"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -34,7 +34,7 @@ hash = "69ddad2cb637deba48766fa9a8946764a7cd8e7e8c07588560b426cf8a587c62"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "aaf9ecf8d7564cc8b0741058883f68a6f2a1469abd55e83e1990b5d704a9b65b"
+hash = "10908398e46b011ae00c9926901f1df360107a5c4f252e5c0c1ca9bdd308c041"
 
 [[files]]
 file = "config/lithium.properties"
@@ -569,6 +569,14 @@ file = "kubejs/assets/eatinganimationid/optifine/cit/luck/p.properties"
 hash = "d8db82b55575ac6a80c8833bf287504a2ab1c16c775552f7daad25f8944bc24b"
 
 [[files]]
+file = "kubejs/assets/eatinganimationid/optifine/cit/luck/pl.properties"
+hash = "b44af896cbc318b477e5eee7ee5355ea61923ec33f9eb7dd1215d7681a9b1346"
+
+[[files]]
+file = "kubejs/assets/eatinganimationid/optifine/cit/luck/ps.properties"
+hash = "8a1f15b10e0605b3ae0ee2c50e755b4618eae3cc74d81fbe3ba49f13952ed22d"
+
+[[files]]
 file = "kubejs/assets/eatinganimationid/optifine/cit/mundane/p.properties"
 hash = "ac1ae644c823b8a75bd1d05b12dec168d5108c1ab8e4bb1f79c112607adf63a6"
 
@@ -579,6 +587,10 @@ hash = "3d74873a039470e0db3a793038015d2eb9e8a14dc69312029a0207f9b9be0a14"
 [[files]]
 file = "kubejs/assets/eatinganimationid/optifine/cit/night_vision/pl.properties"
 hash = "50fbb42d0328aa7bfd3a56c2b77000bb03c7e6e03d37aa134da86e818cae796b"
+
+[[files]]
+file = "kubejs/assets/eatinganimationid/optifine/cit/night_vision/ps.properties"
+hash = "28fd5298d3bc8967de1ba8749bf07e6db5ea8b28210514019ef7f8a9017886f0"
 
 [[files]]
 file = "kubejs/assets/eatinganimationid/optifine/cit/poison/p.properties"
@@ -611,6 +623,10 @@ hash = "aa9910300420811f906b902784501206fea218f4c14a87ce3838e2f03bf14169"
 [[files]]
 file = "kubejs/assets/eatinganimationid/optifine/cit/slow_falling/pl.properties"
 hash = "7d868b8f7382a1de3e27a37a1041a1e3513c907301aea5bc0ae11b81d2b96ad5"
+
+[[files]]
+file = "kubejs/assets/eatinganimationid/optifine/cit/slow_falling/ps.properties"
+hash = "f8c487f48742a0a489b98f8e1e9454fcc46d2408a4829c98f3e38d21f8e3e95e"
 
 [[files]]
 file = "kubejs/assets/eatinganimationid/optifine/cit/slowness/p.properties"
@@ -677,12 +693,20 @@ file = "kubejs/assets/eatinganimationid/optifine/cit/water_breathing/pl.properti
 hash = "0cc16646fe418dcac1fd99287c4d6ac179c65b164db4edf5bd198f61c7169330"
 
 [[files]]
+file = "kubejs/assets/eatinganimationid/optifine/cit/water_breathing/ps.properties"
+hash = "3cbfe0a1b50ead7bbb4e474a345b15851626949aeaf3f7f794510775e4c70736"
+
+[[files]]
 file = "kubejs/assets/eatinganimationid/optifine/cit/weakness/p.properties"
 hash = "f918e7c772bcdc68667d1a537b6b3717286cfaf5c904facff42570d1f125d885"
 
 [[files]]
 file = "kubejs/assets/eatinganimationid/optifine/cit/weakness/pl.properties"
 hash = "d3a8f549bd49bc00091ad07244832a15f30455a452ccc03ce22081fb199b7eda"
+
+[[files]]
+file = "kubejs/assets/eatinganimationid/optifine/cit/weakness/ps.properties"
+hash = "6365c1b0dbe2bdcaeb2073c6a872eefef00e1ae615d2b3c5130e86adc1dfcec4"
 
 [[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/awkward/p.png"
@@ -913,140 +937,28 @@ file = "kubejs/assets/eatinganimationid/textures/item/leaping/p.png"
 hash = "d7afd37a1f77f424f0bf68c3aa908461cd672167b8ec321c40d60069d25a4af1"
 
 [[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/leaping/p/0.png"
-hash = "a038a45131e0c29f6eeb05cbb0578283d531570b446335f67a5a88cc63189e3f"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/leaping/p/1.png"
-hash = "90c22e60954e85365996ef919fad5d8daa403d7c452d9c15aa5454ff4c16e875"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/leaping/p/2.png"
-hash = "16605ed3549f0f4d5e87e19d8020596f3dee8c8c456c130e2f8eb09b9dd1b750"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/leaping/p/3.png"
-hash = "8ded20a9f358b54b0c78ca71e5517fdce2eea900eeac389f07815d634ffa718c"
-
-[[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/leaping/pl.png"
 hash = "842216f1430156a20dd3acf2cb06cf88efdb2375db06c4af1acd6613927f61d1"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/leaping/pl/0.png"
-hash = "2a0bd80f275f7adcc0c6b8642a3c911a0989d1076a519b0b31da7951893c1996"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/leaping/pl/1.png"
-hash = "0883db609c45be40f20dc4618643163e40f6d02c0c62bfe04328c19dcc8638aa"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/leaping/pl/2.png"
-hash = "e4acbb7105e7c4e6087d7f8b7399a3d37d72de685a0c638c4bde2ebd4bc651f1"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/leaping/pl/3.png"
-hash = "cefe83c06ce2f60de98edc26adfe396d111d3fcaf037eca13ad0541ee40cc34a"
 
 [[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/leaping/ps.png"
 hash = "1e66f3f14871f4e023f1e65ced9b862784d28671c7c77181cc0dcc8de1736fd8"
 
 [[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/leaping/ps/0.png"
-hash = "fc53b6c1cc6f2b2e04051b22a2f9e388007e0fbac00fde7aeaad5ebac056d6a4"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/leaping/ps/1.png"
-hash = "0b8c000252e558050d71b3e23019dc9036384bac8ea8423dfb4a224622dd97df"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/leaping/ps/2.png"
-hash = "56725bbe2ac3ac912fdf93f64e59ddaa6daa45c81edfc320fb27926ecbac8c7b"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/leaping/ps/3.png"
-hash = "a95af69401f86d03baccef9496edd0ca8513e91efdc94c3585b3effa8598fa3b"
-
-[[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/luck/p.png"
 hash = "9d35302bed08b090762578fc22e60516ddec6cfbd2ae09411958e3a771996add"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/luck/p/0.png"
-hash = "03e2616d7218173df5fc41296df9022d748144a9ac96d097ec12a18c2bd1b9e1"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/luck/p/1.png"
-hash = "634bac673060c44354fd8b51578fc6519927b807016414cdd51135f5b12c65f3"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/luck/p/2.png"
-hash = "e89eb739f0881fbb6b103561fbf04036f644d41e5f17daaf99058c8567970633"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/luck/p/3.png"
-hash = "f21542d8eec86fc7a20efafcac7670064359860ab104faa62883fbf765acd21d"
 
 [[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/mundane/p.png"
 hash = "5aecc676f2d6605065a7063ed706ac8d447a861192648995cb20e2f8ce11a5bd"
 
 [[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/mundane/p/0.png"
-hash = "093a0f5fe32731eab0faf29b109bcc7f9ff51bd29187804bc095a670119a7bc2"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/mundane/p/1.png"
-hash = "11123ad0a598c89836dbd70e0e34b9f3390bd163f48a3e4c9e5cad0de9ad9af2"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/mundane/p/2.png"
-hash = "946a93effed4244f998a74b91164e8b5f44888a4113e2f3a35740b58010ab391"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/mundane/p/3.png"
-hash = "1b00a4725f0f35377d3e13f3933ec1c340783011bd002a0c89a1c30f41f4e898"
-
-[[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/night_vision/p.png"
 hash = "e6f5a575c2b95c36cbd3a1cd2f502fa617fd9fa53b2913ee62db65526db78150"
 
 [[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/night_vision/p/0.png"
-hash = "98936082907b965535f03539223d971731ded1ded303bbeea47eb96b3b74e75f"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/night_vision/p/1.png"
-hash = "d622e3ce9b1634f8dee88d68165a7308c02b435e7e477c49609a92f4bf00055e"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/night_vision/p/2.png"
-hash = "04b74077ee841f11478ab0df7bd01e9fdbbd541e6c893bfc6a10780ce37d84de"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/night_vision/p/3.png"
-hash = "87b301c3034452bca77a541272e37688608fe4b6addd4b5df380d0930a3e0a19"
-
-[[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/night_vision/pl.png"
 hash = "195852afff880cfb5b9911f5ef3929218a2e79d075c2d7925619a94cdd705041"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/night_vision/pl/0.png"
-hash = "5e4c58d02c8c36073c04aa2870fe217cfa2884de375e00e4b98a7c9fb4ba4dbc"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/night_vision/pl/1.png"
-hash = "729766d636630f22f5a5746909d1016cd32dc25fb808e8dde3f5f6de3361ddf3"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/night_vision/pl/2.png"
-hash = "b87ad16508f8603569ef0ac52052266602b0f61acf7fbbd7b3e6c938d3a6438e"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/night_vision/pl/3.png"
-hash = "b123dfcc6392764e8330a3a306b3f924f9adaa38fc33091ca4e33539f59eb1aa"
 
 [[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/o.png"
@@ -1057,160 +969,32 @@ file = "kubejs/assets/eatinganimationid/textures/item/poison/p.png"
 hash = "c1e20a75afbed9fc3988494fa06c2fcfd50fb1c14fce48b014a36ab10b6a70d2"
 
 [[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/poison/p/0.png"
-hash = "de1936fc5a204523f324b29f28f7b348d6a8ecf3c84c1ce8b82ae2702a39f922"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/poison/p/1.png"
-hash = "9d9fa3ce50739784eb2357b4dcaf8e790929918554f460016e146e5dccc4a9dd"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/poison/p/2.png"
-hash = "f10b9d0cf294d450dec12dae6868f21500781fc2cdbc0faa847375890b81fb07"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/poison/p/3.png"
-hash = "9526100abe10569cbd45ec29196f559279366f244d6118def7881637ac143668"
-
-[[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/poison/pl.png"
 hash = "083635a33b2df6b06b32bada24860638bc58ccda967e6d606ff75ec18aa33858"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/poison/pl/0.png"
-hash = "898eecafb3ccc9a92442de7a6567c3b13b39f7fc38244539a6cf9af7a70bf5d1"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/poison/pl/1.png"
-hash = "eb6c4cbce62e2335223822b3befd2e893c004a1d7d0a1fff0274d1c09ffd2719"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/poison/pl/2.png"
-hash = "8c9c232fb4a621d45c2bda0aed039b38a616e9ef661213f8f4c75e768f74304f"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/poison/pl/3.png"
-hash = "d9ed7a0c0bb293fa094c68139ee368d90b98e1f5c83ff5b7d123a48d3bc9602f"
 
 [[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/poison/ps.png"
 hash = "a0f63f26c430d4b4ae8339c504f12ee48301a8c25e3757ed1186302cd4918065"
 
 [[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/poison/ps/0.png"
-hash = "aa0478c6afbd09554bdd9c4b7b34a82812697d1dc8e4a4df478dc0841d1f3167"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/poison/ps/1.png"
-hash = "1d8d2a6e62760c7f7fd973896ee9e343fe6e02cdc62fd9e48bcfc55b7983454a"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/poison/ps/2.png"
-hash = "d5db246453d4138089c4f7f47c7286edf080da8421757bb75ce4c269aeeda385"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/poison/ps/3.png"
-hash = "4b7f206ab8d036e5f7922872bd189da122d62c2483a74826cb7b1ca7283d35f0"
-
-[[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/regeneration/p.png"
 hash = "a6a5b3f3b19d8912164753b9b9159cc27866d2b8bfe90b02583f20a92e25086e"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/regeneration/p/0.png"
-hash = "097a38cb9621c868fdfa6b94907f80b535d7543ae89e1b9e77acf9275754bed3"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/regeneration/p/1.png"
-hash = "f38450a4f1aa010a67932deec41b4251977a0f509db4788128cea44791481286"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/regeneration/p/2.png"
-hash = "665f72f19701d15a191ffa742d401cfd08589740b85dfd86418923aeea46952a"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/regeneration/p/3.png"
-hash = "01d222b878c0ec932abe4474d602acc0ecca1c7c84197695f4b358954963d895"
 
 [[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/regeneration/pl.png"
 hash = "6ab83aec4bac6862cb0eec7b83069e3255431bfb18dda4ea19c2f027acba2d00"
 
 [[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/regeneration/pl/0.png"
-hash = "e76ef19a229959d5ae4e521f839bfe06a3dffb3d895b1660bdfda3fe58263d39"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/regeneration/pl/1.png"
-hash = "0f843c7b9f2dbc7277277517a0560a1d711e41e9da8436272c03aa88d3cf627a"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/regeneration/pl/2.png"
-hash = "2597292b739ffec8bdcd7ef5054c9f421b6c250db82a4c2e7f017879d1e68488"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/regeneration/pl/3.png"
-hash = "95bc5bbbb9637a2de9e3be927519438c0bd1ccf11cb168f77f61ba09187b34de"
-
-[[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/regeneration/ps.png"
 hash = "fc796434a80e24aba82b622717fcb7fc08515ff701038b884b5820db40b8f5b8"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/regeneration/ps/0.png"
-hash = "f480e9168bfa33fb5cbc760562b673df6d1947aa6b0af9608bcb64a9bf298e98"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/regeneration/ps/1.png"
-hash = "cc68e1aa7d600db678fd2545a5ef07c74c39a6f4c08c7e0a5218825b22dde8e1"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/regeneration/ps/2.png"
-hash = "cf94e3b9aae7e4fa853b387221cfac897257d734a23f5d498e3b1cfe9dff7254"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/regeneration/ps/3.png"
-hash = "dd01e46053ed8df7336f21d4d2b09df0d61517f7491f97def76dcdfe60f940e6"
 
 [[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/slow_falling/p.png"
 hash = "f3b5826d08a7144d98cc574afaba68440d993e97fbf52747d8bea2d9097a227d"
 
 [[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/slow_falling/p/0.png"
-hash = "51ebc425d720fd80a3dc6b6f8244535fb77cad3f2c4554bd8bc08bfd7890d368"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/slow_falling/p/1.png"
-hash = "71a939b907290a2d03d4a832c372eb2d361f7641e8e6e9fce9bbec97e031c9ee"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/slow_falling/p/2.png"
-hash = "90634556dea2fb1e17a0e45459dcb3d72893f8e906fdaa2d6b6c64c48b398703"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/slow_falling/p/3.png"
-hash = "317f0173e6e3a02829ac07171bcd2a7562940485f95fb9683a9670327c688a7a"
-
-[[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/slow_falling/pl.png"
 hash = "ead59e78af9e9d7b1569331880291747ad831dad4694f7204536f029c55fbf97"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/slow_falling/pl/0.png"
-hash = "9157374ac0d319c9f863428fe84c948fb0b82ec11c2efffcafc2cddd3cbab43d"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/slow_falling/pl/1.png"
-hash = "68d6fcd2e8015d55de12514dac253499fc81eeb689b553c37699f128e81f599f"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/slow_falling/pl/2.png"
-hash = "d43f330e7654a4ce3701dd4a052a6b51097df89c1ce046dbed9f3c8227548096"
-
-[[files]]
-file = "kubejs/assets/eatinganimationid/textures/item/slow_falling/pl/3.png"
-hash = "292df478a44b1920b3b3353a0772955ba904fbb1107f915d3a8046daa42d70f0"
 
 [[files]]
 file = "kubejs/assets/eatinganimationid/textures/item/slowness/p.png"
@@ -1393,12 +1177,20 @@ file = "kubejs/assets/minecraft/models/item/invisibility/ll.json"
 hash = "2c78e4e57c8d869c04621c7f9ca38ddadea93cf7d5a2303e8db1a334df9cc62a"
 
 [[files]]
+file = "kubejs/assets/minecraft/models/item/invisibility/ls.json"
+hash = "514c5a5277b7faa4cb3f81d04730c0e61b342b0a5ccbe7d8509197fa1da6f6b3"
+
+[[files]]
 file = "kubejs/assets/minecraft/models/item/invisibility/s.json"
 hash = "9b67b437adb5e1b63b6121a4367ae62807f44cdb0bca4152c57e7b9d27b34c5a"
 
 [[files]]
 file = "kubejs/assets/minecraft/models/item/invisibility/sl.json"
 hash = "22925bbb9ce4344d451ba4aa99d0419c47a1711f1784e4a43fec1b4ff80deec2"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/invisibility/ss.json"
+hash = "20ed6e7c35fa5cece4faf510a39817fc889c129cb8989b8d8e1bf775e3f68e58"
 
 [[files]]
 file = "kubejs/assets/minecraft/models/item/knockback.json"
@@ -1453,12 +1245,20 @@ file = "kubejs/assets/minecraft/models/item/night_vision/ll.json"
 hash = "a9bd3e8b61138c8cce487b6aefa45e2c482b9076f27d454d06c8899f5c30d957"
 
 [[files]]
+file = "kubejs/assets/minecraft/models/item/night_vision/ls.json"
+hash = "e151ffa25b0b3f48b1a1e42e43f8631da6e1d774d3a379a955614e712cb3147e"
+
+[[files]]
 file = "kubejs/assets/minecraft/models/item/night_vision/s.json"
 hash = "eeff7ed74afd0495e76d898c8c171e4fadec435d3aa1ebb87f4db619907ad6f2"
 
 [[files]]
 file = "kubejs/assets/minecraft/models/item/night_vision/sl.json"
 hash = "5a70dd87567b2def6d83070a55951b482c9cb7033f8e7d77a02119dc61221efe"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/night_vision/ss.json"
+hash = "697fefff78825d2cb749ce7da6aab7149f5680b378b59dd5bba465d20abc8482"
 
 [[files]]
 file = "kubejs/assets/minecraft/models/item/poison/l.json"
@@ -1529,8 +1329,16 @@ file = "kubejs/assets/minecraft/models/item/slow_falling/ls.json"
 hash = "b43e30a97af3634d60db64e308ad3cec5ce8d9b05d73f3cddcec6e11f8d0f13b"
 
 [[files]]
+file = "kubejs/assets/minecraft/models/item/slow_falling/s.json"
+hash = "bf6068d9d5ec273f6e80b2565e01dad5f297e0c5baa6ba6bc020039dc4c84df5"
+
+[[files]]
 file = "kubejs/assets/minecraft/models/item/slow_falling/sl.json"
 hash = "247e1268e890640e14c89c85606fc5bebf4b4c2cb5e2d49990032e5c45c80ddb"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/slow_falling/ss.json"
+hash = "c7543e00a2c10e15bfb552218b0c3f86159db6c9cfa544aefdde07013a36d62a"
 
 [[files]]
 file = "kubejs/assets/minecraft/models/item/slowness/l.json"
@@ -1665,12 +1473,20 @@ file = "kubejs/assets/minecraft/models/item/water_breathing/ll.json"
 hash = "5b8ef94195d2d74fe1c2e73fff5808b512560686619b0025b3081b39a994a4b2"
 
 [[files]]
+file = "kubejs/assets/minecraft/models/item/water_breathing/ls.json"
+hash = "a720668f6ba0f5f970a5f353888ff4de6eac453ed9b2adc32e73a226bba6458c"
+
+[[files]]
 file = "kubejs/assets/minecraft/models/item/water_breathing/s.json"
 hash = "54c85ca510345322ef292212cf6c353248bd6ec641981620322015ee48725a42"
 
 [[files]]
 file = "kubejs/assets/minecraft/models/item/water_breathing/sl.json"
 hash = "53be4579357a48a7dd9c601967233184423f0c2f1ec9599fe32af4c81d44523b"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/water_breathing/ss.json"
+hash = "ccdb2c25a548c2895f49988966e23f4b15dad4ec95bb2370179c6b2693c4a79e"
 
 [[files]]
 file = "kubejs/assets/minecraft/models/item/weakness/l.json"
@@ -1681,12 +1497,20 @@ file = "kubejs/assets/minecraft/models/item/weakness/ll.json"
 hash = "e4f99470043356776713b54c713fd4c6e3b8f29c326e145cf3c3e76473f35920"
 
 [[files]]
+file = "kubejs/assets/minecraft/models/item/weakness/ls.json"
+hash = "733022ab006f416392ec73d3ae301050471d1ce01378ef1e26d80deffdf03766"
+
+[[files]]
 file = "kubejs/assets/minecraft/models/item/weakness/s.json"
 hash = "33c6c4a38bee747173e66072493dddc14b169a42316e9e8806f92e506da7dd16"
 
 [[files]]
 file = "kubejs/assets/minecraft/models/item/weakness/sl.json"
 hash = "1acab0fbf766bd167530f693571a86ab1b7d47609443b1440dddd6f24e26a6fa"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/weakness/ss.json"
+hash = "ff82b4eafaf766c3ef93f11003a7cfef927565cedb2a39ad45ad68f47c5c04ff"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/awkward/l.properties"
@@ -1709,6 +1533,14 @@ file = "kubejs/assets/minecraft/optifine/cit/brimstone.properties"
 hash = "5a56cc4014cf94c221036bcbe11203aa932560b27f7a02c6639d858a47f82c60"
 
 [[files]]
+file = "kubejs/assets/minecraft/optifine/cit/buoy.properties"
+hash = "6d03d0f51fdc6f2e75bc4d1e1469123fbc0457c68c1e3a924c375cb76bf7458e"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/bury.properties"
+hash = "e924810798dce7c544f0fc20fac6adde8d2f680d1b694b3181319e5ed713afe4"
+
+[[files]]
 file = "kubejs/assets/minecraft/optifine/cit/channeling.properties"
 hash = "634dfec6488f6f7f0ad1f1e4f8e77e5a029d99dd05c1343a494c08bcfbcd74c2"
 
@@ -1721,8 +1553,12 @@ file = "kubejs/assets/minecraft/optifine/cit/curse_of_vanishing.properties"
 hash = "3596d3aa30f38f60c8ca126ac83d5a654ae53ea682fcd9f7647910740ae65e7a"
 
 [[files]]
+file = "kubejs/assets/minecraft/optifine/cit/dash.properties"
+hash = "69b5a3c78ef46248a2cc013158faea535c6d9d492dc2a60449666362ff81ec0c"
+
+[[files]]
 file = "kubejs/assets/minecraft/optifine/cit/depth_strider.properties"
-hash = "55815835dafe28227e3e254a1093a6229820f66637e7bb82d5147234d7f9048f"
+hash = "a6f724e967429b18a83051f67dc556b6d4628a038b2b3938ea7c13d742151a0a"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/efficiency.properties"
@@ -1750,7 +1586,7 @@ hash = "64c4b5b05c899f1c6042b888df170be72eac7a5aa7458d763ce9153802f7aa04"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/fire_aspect.properties"
-hash = "868f7bc947acdeae5efbccc1218813ee682bc8311c1111e61a36f8596e8fb7e0"
+hash = "08016c24e8d69fdd87bed345346a75b2d2c1b06ab154202c3d33ae87e2eadcec"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/fire_resistance/l.properties"
@@ -1767,6 +1603,18 @@ hash = "49846094159026d721ef285978057dbda180cfbeb6388f473ad32583ad7f6c8d"
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/fire_resistance/sl.properties"
 hash = "a3a5a1b5af521ac3871980a822e54ce669d138179af948c568819bec4a89b54e"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/frostbite.properties"
+hash = "7a851fe53501a9d17e0a46227f1d8385c06eb805fab57309413162f36541bb15"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/gale.properties"
+hash = "7745c9af8600fa1daef128003b5cb6643c65dda6255327b19c88130bd6d99741"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/grapple.properties"
+hash = "e54c7cd9b1b1b44b06e952c52bb5f161950943fd55752c57515933ad8df6560d"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/harming/l.properties"
@@ -1802,7 +1650,7 @@ hash = "3218c049c94dc26c878089b27d8768b15f640949f0aabaf8400c678bdbaf3874"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/infinity.properties"
-hash = "9217fb781c9a06be9e47399827ca453b3272f3ea99af35260462d19532c40aed"
+hash = "5d7d459f8550fc2ddee953f26b9126e284c9e7e3e0bd32bcc470be95c47c5439"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/invisibility/l.properties"
@@ -1813,12 +1661,20 @@ file = "kubejs/assets/minecraft/optifine/cit/invisibility/ll.properties"
 hash = "dfc5f2c77c48c52962e086a60853c9fe003d0d152d6f1c16481d773cef6533f8"
 
 [[files]]
+file = "kubejs/assets/minecraft/optifine/cit/invisibility/ls.properties"
+hash = "968204da4315b1a874f830e8d34a1ecf034c6f42c3e2e6f2903803f7738260be"
+
+[[files]]
 file = "kubejs/assets/minecraft/optifine/cit/invisibility/s.properties"
 hash = "bd5ad8dfa5f9f4784a8c92199b4a15b87335e52ee53625fe0db617f7a807a6f9"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/invisibility/sl.properties"
 hash = "a2f12e0aec8ef88a1d9c2938b3c441784447337aa841cbf271c335fc78a4de5e"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/invisibility/ss.properties"
+hash = "e6076cb0c1852db435702db9a998816e844ed7b0727f5b411073f9cfb97004c2"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/knockback.properties"
@@ -1853,12 +1709,32 @@ file = "kubejs/assets/minecraft/optifine/cit/luck/l.properties"
 hash = "f024aa035f538927e8bcdbb400d006219f8c499b1b86f1c709f754f9a78a1078"
 
 [[files]]
+file = "kubejs/assets/minecraft/optifine/cit/luck/ll.properties"
+hash = "b8fccfb6866b9d0830a341a8711ad6980ddcda30d8401a38bbde4d807bbdb3e3"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/luck/ls.properties"
+hash = "ac5b4c4ab67e57ceb167bd9bb1d15c12f91cc3809854ad1d2e27d2271cbd3ef3"
+
+[[files]]
 file = "kubejs/assets/minecraft/optifine/cit/luck/s.properties"
 hash = "8d018687b8e3787838649515d5dce7b7c6643b403dca14338c122d61da483f78"
 
 [[files]]
+file = "kubejs/assets/minecraft/optifine/cit/luck/sl.properties"
+hash = "6ea6906f88c029c97dc710922088c63c1a74b184d90c0d10f36c277a438f325e"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/luck/ss.properties"
+hash = "5ff81973719e720d8daadca08e9d9da33938b43a60febdb36c89e79902fb1f44"
+
+[[files]]
 file = "kubejs/assets/minecraft/optifine/cit/luck_of_the_sea.properties"
 hash = "3ad8ba3f475b2e87894615cc364374900b6b2fe886acc27a986b5aed97f819e9"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/molten.properties"
+hash = "7841244c8f8270dac48b2564e02699f0e4361642882b5c1317dfc01748494825"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/mundane/l.properties"
@@ -1877,12 +1753,20 @@ file = "kubejs/assets/minecraft/optifine/cit/night_vision/ll.properties"
 hash = "089339d988881dac7115b9e13d485643d20789bcb7ade28cb692234c57bd9f82"
 
 [[files]]
+file = "kubejs/assets/minecraft/optifine/cit/night_vision/ls.properties"
+hash = "e1c6e3d482e6b5c753c0f619d3b3f349fa168c63319a4e6afba66b26db1d8cd2"
+
+[[files]]
 file = "kubejs/assets/minecraft/optifine/cit/night_vision/s.properties"
 hash = "8349bc8d552fa3ccf0aeb3c180a39c82358cff6026d5c8657a744008bf43d630"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/night_vision/sl.properties"
 hash = "8ffae146ac019c4d7e36fe08ab398adb33c21abd85d5abbd237dae83d9a94e72"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/night_vision/ss.properties"
+hash = "db6af4c339b61624161199f401b4d0a0ee2505aeee978f469ee1bee4403cc791"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/poison/l.properties"
@@ -1957,12 +1841,20 @@ file = "kubejs/assets/minecraft/optifine/cit/slow_falling/ll.properties"
 hash = "dbd60d90bd0ce5d866887373ea8593df7d93e740ed4830110396b7dfccd01e96"
 
 [[files]]
+file = "kubejs/assets/minecraft/optifine/cit/slow_falling/ls.properties"
+hash = "7b0d546996d67ece1596b095dd5bb46fb3c1c15a242bf88816b42c8c5b3232a4"
+
+[[files]]
 file = "kubejs/assets/minecraft/optifine/cit/slow_falling/s.properties"
 hash = "f10bf2d70041ff1a99b38f4d03fa5295823bb59a3637bd3441a2b89f5628b02c"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/slow_falling/sl.properties"
 hash = "d70d66cd23d72ff51dc16d7186ac3c0b323a2ad498b475de850fb22304540fd5"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/slow_falling/ss.properties"
+hash = "a3eb15f1a9fc73193a77c96e5970a8f663d3181a12b2cd94ce40a415d718c51b"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/slowness/l.properties"
@@ -2018,7 +1910,7 @@ hash = "236c845674163fc8edabc033c1f03a3ccdadc742f4f0820cecd89929e7b0cc3c"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/sweeping_edge.properties"
-hash = "0cb334923c6b1890ec431e3f9a4108eebedd51e2f9a2685baaabdf7cc90cd343"
+hash = "f310a0958ec3bd1d6d222c720f4c6e0c55cb8dbe923038647a80690463dd53e5"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/swiftness/l.properties"
@@ -2078,7 +1970,11 @@ hash = "1a8ab53eb0f3010d3497ca7eb5327d9179ccc2696511e29fd0e958603d62ed92"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/unbreaking.properties"
-hash = "2da43f93ed75222d46be7b4f5f639f8b7a92ce989b7563add2d6e962d0d742c5"
+hash = "7e5e56faeb159a2d68f93ea13c62dd31100812d0e755286f58ffd74c3f80b784"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/warp.properties"
+hash = "3bf50d471a757d569e7950b31094202f75ad3563001cff39da3debc7cd889c4b"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/water/l.properties"
@@ -2097,12 +1993,20 @@ file = "kubejs/assets/minecraft/optifine/cit/water_breathing/ll.properties"
 hash = "b67d0f40cd1c01dee6bc103ab4d607943f446ce522488a0711b2a10097fc2344"
 
 [[files]]
+file = "kubejs/assets/minecraft/optifine/cit/water_breathing/ls.properties"
+hash = "a07b361daaff07414463526ceb67cecad67fef751f9482f770d25b8943ac591e"
+
+[[files]]
 file = "kubejs/assets/minecraft/optifine/cit/water_breathing/s.properties"
 hash = "191e00e82d87c0fa831862e28639a25268662b6a67c7596093a0ee9d75462ef9"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/water_breathing/sl.properties"
 hash = "dc438a5264d1c6e576411c3a02867e01623d594bce06d0a5c3f28eedac6ffda1"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/water_breathing/ss.properties"
+hash = "361ddc6530e55294773f2e5e72d79e91a71d3b8ae704e7dfca8664a990d7bdda"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/water_protection.properties"
@@ -2117,12 +2021,20 @@ file = "kubejs/assets/minecraft/optifine/cit/weakness/ll.properties"
 hash = "7500dfa8a108456c2a04cd96027483c2b856e80fd45ebfd77769367607e8cf90"
 
 [[files]]
+file = "kubejs/assets/minecraft/optifine/cit/weakness/ls.properties"
+hash = "c900ce22c0b3d408bbd5e229a6293388e4217aec7df3e988377fcc8fc6cd548d"
+
+[[files]]
 file = "kubejs/assets/minecraft/optifine/cit/weakness/s.properties"
 hash = "af98f96f857590abf2e46219d699d7fb2335960f1b89d0031506b916b1d29a3d"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/weakness/sl.properties"
 hash = "9afdaeeb995c224d6b7de122b29e93827aa95ca2838faf6328210a399b0af3fa"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/weakness/ss.properties"
+hash = "48f31291cf1f9bfcad52969802175b90424febc5171b3b5a7b6e3a71b19ccf00"
 
 [[files]]
 file = "kubejs/assets/minecraft/overrides/item/enchanted_book.json"
@@ -2149,6 +2061,14 @@ file = "kubejs/assets/minecraft/textures/item/brimstone.png"
 hash = "3197270c4a56918eade3136b01dcdb710f0c8bbd88d40ed92a949b02f74b1c2a"
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/item/buoy.png"
+hash = "bbd6f0a76cfa79a6ace8578cc26e3c533509fa89a96dfd505c1335a0a2f75196"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/bury.png"
+hash = "e9f56ff5063e554c0079501d2207dcb30a8f7b777a615bb329878ca1c14aaa06"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/item/channeling.png"
 hash = "dc6f5f20c758d460af7ec56c965e45e1731cdbb9abe58e71a368c5df6f4b4fe8"
 
@@ -2159,6 +2079,10 @@ hash = "d15cbe87f31a39e73a333cab2b3a47292a99dbd1d0980c854336073dd47b54e4"
 [[files]]
 file = "kubejs/assets/minecraft/textures/item/curse_of_vanishing.png"
 hash = "68fba12b65c16e570148bf4b8715b486d4758fc475c0fb46688d1031cb385aa0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/dash.png"
+hash = "eeac7cce1a1fbc0af6580610bf6aff576260195ad76f2ffb508fdab36f6062f7"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/item/depth_strider.png"
@@ -2211,6 +2135,18 @@ hash = "3dbcdeb612201a41e27a9b655437b7e9639f1168f9f38bf2a2f675ff03586eab"
 [[files]]
 file = "kubejs/assets/minecraft/textures/item/fire_resistance/sl.png"
 hash = "e7c4425243d5ddff698502c792a04d681e5cb4e14500cb29a514133c98b2e5c0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/frostbite.png"
+hash = "875af24941c8d7c83ce15b042440da002d48d472f04442746e37226abf2016c6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/gale.png"
+hash = "e31e36fc2b5227919b2ae4344c1af0f3fd2119c6eed9c9b2bdc8d296d60c171f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/grapple.png"
+hash = "ae568f8c2afebbde3cce8c73b73466fcba482e89a9f9949732041a6915bbbc28"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/item/harming/l.png"
@@ -2303,6 +2239,10 @@ hash = "162e3c538bd865a35c896fb3054cdf335a5f9026e51396b749c550cc8e36996f"
 [[files]]
 file = "kubejs/assets/minecraft/textures/item/luck_of_the_sea.png"
 hash = "df0d71dba9356b2fec6f4da146d6df9e46f9f791fe04a6bf5d8d8f7873afe874"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/molten.png"
+hash = "71ea381d47def73b7c4920d67b1490c2d9f365c00730b7bca18c9861cdad745f"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/item/mundane/l.png"
@@ -2523,6 +2463,10 @@ hash = "5be76e5d351ae18213ace3cb3365437f4773fd3be5c4c4c1dea83ec793e4fc36"
 [[files]]
 file = "kubejs/assets/minecraft/textures/item/unbreaking.png"
 hash = "ea7a2917e2b58948cf38c5390bbbe0177e4e791467d89a31e4faf9523fbb92b6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/warp.png"
+hash = "c2a2ba31361c2ac1c8f24bc87f0c328d2286890211a3b5d3500192ad8f716ab2"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/item/water/l.png"
@@ -2785,7 +2729,7 @@ metafile = true
 
 [[files]]
 file = "mods/fixes/nbt-autocomplete.pw.toml"
-hash = "2f0128bf1c12a809cfdf2c9e7fe86b4f4e7f03213e30db0450ed008442d57ff2"
+hash = "d97dd784eecd25410d83f4692814fa3105b159e4d262bae8c0442ad7654a24a2"
 metafile = true
 
 [[files]]
