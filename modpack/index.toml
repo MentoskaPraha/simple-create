@@ -3681,11 +3681,6 @@ hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
-file = "mods/fixes/memoryleakfix.pw.toml"
-hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
-metafile = true
-
-[[files]]
 file = "mods/fixes/modelfix.pw.toml"
 hash = "9d903fdb128e98639fca7b110c1d1993bfaddc9025ccbe0d03753c429f895134"
 metafile = true
@@ -3916,18 +3911,8 @@ hash = "c71af8cb740fbf42b489ab24ee01ea0d09c3329cb9a62108b2b9dd85e721b3c8"
 metafile = true
 
 [[files]]
-file = "mods/optimasations/adaptiveview.pw.toml"
-hash = "b5f11bb7dbc0c095268b15e0b01e90062f827da73a32808fd87d24b8e686c1f1"
-metafile = true
-
-[[files]]
 file = "mods/optimasations/alternate-current.pw.toml"
 hash = "2efef40105037d802c4cd424f9831d452f2caf4bfcca41f73feb9a2c5cae01f1"
-metafile = true
-
-[[files]]
-file = "mods/optimasations/c2me-fabric.pw.toml"
-hash = "62c11b66d114f86bf0dbe77ba13a2d6c968828be7da7f9ba8a054b62c6c75f3f"
 metafile = true
 
 [[files]]
