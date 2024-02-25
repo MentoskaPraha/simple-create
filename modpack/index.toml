@@ -2670,9 +2670,8 @@ hash = "5a4d31825bdd55127b3716eb8eda5bd2e4d06319fa90850db633421a1d922f44"
 metafile = true
 
 [[files]]
-file = "mods/content/extended-cogwheels.pw.toml"
-hash = "2e9fb6794be0508c5afe707536ad16360f821980f0287e33f79ce39beea41ba2"
-metafile = true
+file = "mods/content/extendedgears-2.1.0-1.19.2-0.5.1.c-fabric+custom-build.jar"
+hash = "951431fa7c4f7aca2205b6276759d4b9b9da332ffd338dab67a4f7ed3dd2cbfb"
 
 [[files]]
 file = "mods/content/farmers-delight-fabric.pw.toml"

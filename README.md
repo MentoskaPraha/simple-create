@@ -38,7 +38,7 @@ This list has all the mods that add content to the game.
 | [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) | Client and Server | Used | ✅ |
 | [Create: Enchantement Industry](https://modrinth.com/mod/AEZO385x) | Client and Server | Used | ✅ |
 | [Create: Big Cannons](https://modrinth.com/mod/GWp4jCJj) | Client and Server | Used | ✅ |
-| [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Client and Server | Used | ✅ |
+| [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Client and Server | Custom Version Used (see details bellow) | ✅ |
 | [Create: Extended Bogeys](https://github.com/Rabbitminers/Extended-Bogeys) | Client and Server | Planned, once mod is complete. | N/A |
 | [Create: Ore Excavation](https://modrinth.com/mod/ResbpANg) | Client and Server | Used | ✅ |
 | [Create: Slice and Dice](https://modrinth.com/mod/GmjmRQ0A) | Client and Server | Used | ✅ |
@@ -272,3 +272,9 @@ All crafting tweaks are source from [VanillaTweaks](https://vanillatweaks.net/).
 | Unpackable Ice | Client or Server | Forced | ✅ |
 | Unpackable Nether Wart | Client or Server | Forced | ✅ |
 | Unpackable Wool | Client or Server | Forced | ✅ |
+
+### Custome Mod Versions
+Some mods needed to have their source code modified in order to function properly, here's a list of all the modifications.
+| Mod name and Link | Change | Reason for change |
+| :---------------------| :-----------------: | :------------------- |
+| [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Lowered Fabric API version from `0.76.1` to `0.76.0`. | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qvIfYCYJ) for Minecraft `1.19.2` only supports up to Fabric API `0.76.0`. |
