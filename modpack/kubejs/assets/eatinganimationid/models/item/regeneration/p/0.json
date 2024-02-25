@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "eatinganimationid:item/o",
+        "layer1": "eatinganimationid:item/regeneration/p/0"
+    }
+}
