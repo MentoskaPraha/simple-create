@@ -85,8 +85,6 @@ These mods rework terrain generation, allowing for interesting structures and ex
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [BetterEnd](https://modrinth.com/mod/gc8OEnCC) | Client and Server | Used | ✅ |
 | [BetterNether](https://modrinth.com/mod/MpzVLzy5) | Client and Server | Used | ✅ |
-| [Oh The Biomes You'll Go](https://modrinth.com/mod/uE1WpIAk) | Client and Server | Used |  |
-| [Regions Unexplored](https://modrinth.com/mod/Tkikq67H) | Client and Server | Used | ✅ |
 | [Terralith](https://modrinth.com/mod/8oi3bsk5) | Client and Server | Used | ✅ |
 | [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) | Client and Server | Used | ✅ |
 | [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5) | Client and Server | Used | ✅ |
@@ -137,7 +135,6 @@ These mods fix certain aspects of the game.
 | [Food Effect Tooltips](https://modrinth.com/mod/GGfyJWnG) | Client | Used | ✅ |
 | [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA) | Client | Used | ✅ |
 | [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) | Client | Used | ✅ |
-
 | [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | Client | Used | ✅ |
 | [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) | Client | Used | ✅ |
 | [NBT Autocomplete](https://modrinth.com/mod/UR0ocuEt) | Client | Used | ✅ |
@@ -214,7 +211,7 @@ These mods allow all the other mods to work.
 | [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) | Client and Server | Used | ✅ |
 | [Rhino](https://modrinth.com/mod/sk9knFPE) | Client and Server | Used | ✅ |
 | [TerraBlender](https://modrinth.com/mod/kkmrDlKT) | Client and Server | Used | ✅ |
-| [ToolTipFix](https://modrinth.com/mod/2RKFTmiB) | Client | Used (This is a dependancy for Enchancement and nothing else.) | ✅ |
+| [ToolTipFix](https://modrinth.com/mod/2RKFTmiB) | Client and Server | Used (This is a dependancy for Enchancement and nothing else.) | ✅ |
 | [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) | Client | Used | ✅ |
 | [YUNG's API](https://modrinth.com/mod/Ua7DFN59) | Client and Server | Used | ✅ |
 
