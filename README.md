@@ -182,8 +182,8 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [MoreChatHistory](https://modrinth.com/mod/8qkXwOnk) | Client | Used | ✅ |
 | [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C) | Client | Used | ✅ |
 | [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) | Client | Used | ✅ |
-| [ReplayMod](https://modrinth.com/mod/Nv2fQJo5) | Client | Used and outdated as an update to Replay Voice Chat is needed | ✅ |
-| [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) | Client and Server | Used and outdated as an update to Replay Voice Chat is needed | ✅ |
+| [ReplayMod](https://modrinth.com/mod/Nv2fQJo5) | Client | Used | ✅ |
+| [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) | Client and Server | Used | ✅ |
 | [Spirit Walker](https://modrinth.com/mod/zbX4s3vj) | Client and Server | Used | ✅ |
 | [Traveler's Titles](https://modrinth.com/mod/JtifUr64) | Client | Used | ✅ |
 
