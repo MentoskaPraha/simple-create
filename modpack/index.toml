@@ -4011,16 +4011,6 @@ hash = "7e20038c6bcc8d636fe707b027c4ea82e02db6ba662f3a372328b37fdd5c245c"
 metafile = true
 
 [[files]]
-file = "mods/terrain/biomesyougo.pw.toml"
-hash = "378704b4e71ff0698c980cb7cfe2c5ce990d8504dc0eb171ea6e477148da2202"
-metafile = true
-
-[[files]]
-file = "mods/terrain/regions-unexplored.pw.toml"
-hash = "3c366b447c196754b2fcf7d841f55f4393e76fee9593806e58b4d26e6014cba3"
-metafile = true
-
-[[files]]
 file = "mods/terrain/terralith.pw.toml"
 hash = "64228ac782b244019e700da682e0006e9959f472035252c5a5354e0dc395d1e0"
 metafile = true
