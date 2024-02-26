@@ -18,7 +18,7 @@ hash = "77129d09033bb64a26b01b9824774ffb722b31d01829b94a6553c9c234f4b4dc"
 
 [[files]]
 file = "config/bcc.json"
-hash = "0da651d5eedad594d227cf283fcb694ddda0e3ad3b221193cd454ffb4805f263"
+hash = "5c452c360776c5c721867e0bd6f399ec443ae6d252ff599d3560b04f39cfe582"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -3305,6 +3305,10 @@ file = "kubejs/assets/minecraft/textures/item/silk_touch.png"
 hash = "5afd64f73e64e3d9defc95f97682c1bd0951ea30563bcd81a5319cb595ab6d80"
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/item/siphon.png"
+hash = "3565222cb899f7f93bc7c40a6112c75e5504873289844a86ea8046ee7737f30b"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/item/slow_falling/l.png"
 hash = "2df8410dcb302d5022c0b4582898ed953523623e413b5100589b419da31dadc8"
 
@@ -3626,12 +3630,12 @@ metafile = true
 
 [[files]]
 file = "mods/fixes/antighost.pw.toml"
-hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
+hash = "a0ccdbeba73ba4d5992ec991241cfa323f416631385ce2da9b93c24ef9c979e3"
 metafile = true
 
 [[files]]
 file = "mods/fixes/better-advancements.pw.toml"
-hash = "f156a51ba3706bbdd6d38a6d5a40364cf62d4911490635d3341ff07d4acb8dc7"
+hash = "264b4befe71497f87077d33d4cb3fec1e3395694833a12a95b42e6de590f7a1d"
 metafile = true
 
 [[files]]
@@ -3646,7 +3650,7 @@ metafile = true
 
 [[files]]
 file = "mods/fixes/better-stats.pw.toml"
-hash = "b469c86a931721e040f584123ecb78a007cbf30de61a702d14fb73f71f7ebba0"
+hash = "267424a24a97d0f0add3dd2db33e25f29ced59958f61bd4cd4c1c0ed1f40b0af"
 metafile = true
 
 [[files]]
@@ -3666,12 +3670,12 @@ metafile = true
 
 [[files]]
 file = "mods/fixes/enchantment-descriptions.pw.toml"
-hash = "183037212cfd0fa8c041a68b90cae821ab05760f5df4b46fb98a9e9d64726382"
+hash = "1f87846265206279eb38e4ce9b4f69cb3a4401e8074fc69f039100713e525e58"
 metafile = true
 
 [[files]]
 file = "mods/fixes/foodeffecttooltips.pw.toml"
-hash = "b9ff1ddd9cd5d89ec7c022d655216ffdd0c883e56245c9311f18e0de1285af6c"
+hash = "baff407819a6c5abaeea5fb19918706070283df823cebb0f8e62c0b42fc545c3"
 metafile = true
 
 [[files]]
@@ -3686,7 +3690,7 @@ metafile = true
 
 [[files]]
 file = "mods/fixes/modelfix.pw.toml"
-hash = "9d903fdb128e98639fca7b110c1d1993bfaddc9025ccbe0d03753c429f895134"
+hash = "77c8b976aed1fe40c5677e607a98860455bfb21fd7fb8559ccf60a96b5f99f87"
 metafile = true
 
 [[files]]
@@ -3846,7 +3850,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/enchantedshulkers.pw.toml"
-hash = "5bfb5d4291d7821f5ba8277f4768d62b9b6bc4739d0cb904b19b25e7b1fa505c"
+hash = "29f6f57a4f8fe861db939f260b16c72bf22ef8e904f53bb309779475feeccabf"
 metafile = true
 
 [[files]]
