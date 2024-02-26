@@ -18,7 +18,7 @@ hash = "77129d09033bb64a26b01b9824774ffb722b31d01829b94a6553c9c234f4b4dc"
 
 [[files]]
 file = "config/bcc.json"
-hash = "5c452c360776c5c721867e0bd6f399ec443ae6d252ff599d3560b04f39cfe582"
+hash = "0bdb1db52bff5ced83457e61ab4131a983db5d3ac3bcbef8e87417bb83ac1e33"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -3996,11 +3996,6 @@ metafile = true
 [[files]]
 file = "mods/reworks/impaled.pw.toml"
 hash = "717e42c31fd9e80097f4d21ed6c138094a0025b53dfcf14d780c0078eb1b8722"
-metafile = true
-
-[[files]]
-file = "mods/reworks/requiem.pw.toml"
-hash = "f3ee2ed045aadd9b00942c517d5b0fbddacee0bccf1a9cadfd03841e043ad155"
 metafile = true
 
 [[files]]
