@@ -1,6 +1,6 @@
 name = "EnchantedShulkers"
 filename = "enchantedshulkers-1.0.4+1.19.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vUi6HFie/versions/QxRvomUF/enchantedshulkers-1.0.4%2B1.19.jar"

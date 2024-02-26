@@ -9,6 +9,10 @@ file = "config/DiscordIntegration-Data/Messages.toml"
 hash = "09a6a5a72717f10dcc273f209680c124c8821d8b1e014368e91e0b4bb4b4afee"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "4c6bb61ee72406cb61e5259d12683b0ac5be8430dc1eedaeffce7cd8fc613d23"
+
+[[files]]
 file = "config/NoChatReports/NCR-Common.json"
 hash = "77129d09033bb64a26b01b9824774ffb722b31d01829b94a6553c9c234f4b4dc"
 
@@ -4008,6 +4012,11 @@ metafile = true
 [[files]]
 file = "mods/terrain/betternether.pw.toml"
 hash = "7e20038c6bcc8d636fe707b027c4ea82e02db6ba662f3a372328b37fdd5c245c"
+metafile = true
+
+[[files]]
+file = "mods/terrain/regions-unexplored.pw.toml"
+hash = "3c366b447c196754b2fcf7d841f55f4393e76fee9593806e58b4d26e6014cba3"
 metafile = true
 
 [[files]]

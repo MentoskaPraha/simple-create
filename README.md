@@ -85,6 +85,7 @@ These mods rework terrain generation, allowing for interesting structures and ex
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [BetterEnd](https://modrinth.com/mod/gc8OEnCC) | Client and Server | Used | ✅ |
 | [BetterNether](https://modrinth.com/mod/MpzVLzy5) | Client and Server | Used | ✅ |
+| [Regions Unexplored](https://modrinth.com/mod/Tkikq67H) | Client and Server | Used | ✅ |
 | [Terralith](https://modrinth.com/mod/8oi3bsk5) | Client and Server | Used | ✅ |
 | [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) | Client and Server | Used | ✅ |
 | [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5) | Client and Server | Used | ✅ |
@@ -112,7 +113,7 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Client and Server | Used | ✅ |
 | [LazyDFU](https://modrinth.com/mod/hvFnDODi) | Client and Server | Used, mod will be removed on update to `1.20.1`. | N/A |
 | [Lithium](https://modrinth.com/mod/gvQqBUqZ) | Client and Server | Used | ✅ |
-| [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | Server | Used | ✅ |
+| [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | Client and Server | Used | ✅ |
 | [Smooth Boot](https://modrinth.com/mod/FWumhS4T) | Client and Server | Used, mod will be removed on update to `1.20.1`. | N/A |
 | [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) | Client | Used | ✅ |
 | [Sodium](https://modrinth.com/mod/AANobbMI) | Client | Used | ✅ |
