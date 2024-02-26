@@ -57,7 +57,6 @@ These mods rework certain aspects of the game, usually changing them completely.
 | [Do a Barrel Roll](https://modrinth.com/mod/6FtRfnLg) | Client and Server | Used | ✅ |
 | [Enchancement](https://modrinth.com/mod/6hN1V6wJ) | Client and Server | Used | ✅ |
 | [Impaled](https://modrinth.com/mod/AiHAhIP5) | Client and Server | Used |  |
-| [Requiem](https://modrinth.com/mod/bYmqMxlQ) | Client and Server | Used |  |
 | [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) | Client | Used | ✅ |
 
 ### Utility Mods
