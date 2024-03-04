@@ -131,7 +131,7 @@ These mods fix certain aspects of the game.
 | [Better Command Block UI](https://modrinth.com/mod/8iQcgjQ2) | Client | Used | ✅ |
 | [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) | Client | Used | ✅ |
 | [Debugify](https://modrinth.com/mod/QwxR6Gcd) | Client and server | Used | ✅ |
-| [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) | Client | Used | ✅ |
+| [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) | Client and Server | Used | ✅ |
 | [Food Effect Tooltips](https://modrinth.com/mod/GGfyJWnG) | Client | Used | ✅ |
 | [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA) | Client | Used | ✅ |
 | [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) | Client | Used | ✅ |
