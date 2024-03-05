@@ -3834,6 +3834,11 @@ hash = "bcc01d6329bbe6dc0df4c84a158d940ab1666f83f33100e7cd7d6879276cc15b"
 metafile = true
 
 [[files]]
+file = "mods/misc/borderless-mining.pw.toml"
+hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
+metafile = true
+
+[[files]]
 file = "mods/misc/carry-on.pw.toml"
 hash = "78a55cd6aa6ac75610e8273cee84077e7ed3ef1503c4648d59b63a63f0e00cb2"
 metafile = true
@@ -3906,6 +3911,11 @@ metafile = true
 [[files]]
 file = "mods/misc/replaymod.pw.toml"
 hash = "93ea8f70011c63f6f41502d2205666f011496f9886a254d5104810ba610f054f"
+metafile = true
+
+[[files]]
+file = "mods/misc/screenshot-to-clipboard.pw.toml"
+hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
 
 [[files]]
@@ -4153,8 +4163,8 @@ hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
 metafile = true
 
 [[files]]
-file = "mods/textures/quilted_clear_skies-1.0.0+1.19_until_1.19.2.jar"
-hash = "fe7c86fad0c294457e131fc2de059273de5e8c2686e7beff3cb1e44614a0cbd5"
+file = "mods/textures/quilted_clear_skies-1.0.0+1.19.2.jar"
+hash = "987f96409d2ac8d7d89d742434410e72296ee1cb3566cab2159a2025896fd0b7"
 
 [[files]]
 file = "mods/utils/appleskin.pw.toml"

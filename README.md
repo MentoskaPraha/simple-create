@@ -169,6 +169,7 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Advancement Plaques](https://modrinth.com/mod/9NM0dXub) | Client | Used | ✅ |
 | [AmbientSounds](https://modrinth.com/mod/fM515JnW) | Client | Used | ✅ |
+| [Borderless Mining](https://modrinth.com/mod/kYq5qkSL) | Client | Used | ✅ |
 | [Carry On](https://modrinth.com/mod/joEfVgkn) | Client and Server | Used | ✅ |
 | [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) | Client | Used | ✅ |
 | [ClearDespawn](https://modrinth.com/mod/yoJJjRRE) | Client | Used | ✅ |
@@ -185,6 +186,7 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C) | Client | Used | ✅ |
 | [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) | Client | Used | ✅ |
 | [ReplayMod](https://modrinth.com/mod/Nv2fQJo5) | Client | Used | ✅ |
+| [Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg) | Client | Used | ✅ |
 | [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) | Client and Server | Used | ✅ |
 | [Spirit Walker](https://modrinth.com/mod/zbX4s3vj) | Client and Server | Used | ✅ |
 | [Traveler's Titles](https://modrinth.com/mod/JtifUr64) | Client | Used | ✅ |
