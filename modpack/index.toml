@@ -3834,11 +3834,6 @@ hash = "bcc01d6329bbe6dc0df4c84a158d940ab1666f83f33100e7cd7d6879276cc15b"
 metafile = true
 
 [[files]]
-file = "mods/misc/borderless-mining.pw.toml"
-hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
-metafile = true
-
-[[files]]
 file = "mods/misc/carry-on.pw.toml"
 hash = "78a55cd6aa6ac75610e8273cee84077e7ed3ef1503c4648d59b63a63f0e00cb2"
 metafile = true
