@@ -1,14 +1,14 @@
 version: "3.8"
 services:
   minecraft:
-    image: itzg/minecraft-server:2024.2.2-java17-jdk
+    image: itzg/minecraft-server:2024.3.0-java17-jdk
     environment:
       EULA: "TRUE"
       PACKWIZ_URL: "http://localhost:6942/pack.toml"
       MAX_MEMORY: "6G"
       TYPE: "QUILT"
       VERSION: "1.19.2"
-      QUILT_LOADER_VERSION: "0.23.1"
+      QUILT_LOADER_VERSION: "0.24.0"
     volumes:
       - ./data:/data
     depends_on:
