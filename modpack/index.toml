@@ -3620,7 +3620,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/supplementaries.pw.toml"
-hash = "969dcef45857b1d2998b453a3db85c7762151ed23d631c9176e3388e533570e8"
+hash = "35662ef47ed624da31c44a98149a3196565a1252a5cccf35c701945df0e51d17"
 metafile = true
 
 [[files]]
@@ -3670,7 +3670,7 @@ metafile = true
 
 [[files]]
 file = "mods/fixes/enchantment-descriptions.pw.toml"
-hash = "183037212cfd0fa8c041a68b90cae821ab05760f5df4b46fb98a9e9d64726382"
+hash = "1f87846265206279eb38e4ce9b4f69cb3a4401e8074fc69f039100713e525e58"
 metafile = true
 
 [[files]]
@@ -3710,7 +3710,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/architectury-api.pw.toml"
-hash = "93ab5cc883afdea0d637ff6222e440656cc075d7a93424840b37588ad1ae46a9"
+hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
@@ -3725,12 +3725,12 @@ metafile = true
 
 [[files]]
 file = "mods/libs/cardinal-components-api.pw.toml"
-hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+hash = "353218b78fe0b51422052c923f8ca19076495e5767c043a829527258a8db93b8"
 metafile = true
 
 [[files]]
 file = "mods/libs/cloth-config.pw.toml"
-hash = "e1b84efda222d3d22b8b683980ef1d089ca015e0d8671cd18f2892f70d4b03e5"
+hash = "4dac267435479d9a56cd1c8d550fa060d49b56429c05ed617f5a650a4f1bef29"
 metafile = true
 
 [[files]]
@@ -3740,12 +3740,12 @@ metafile = true
 
 [[files]]
 file = "mods/libs/creativecore.pw.toml"
-hash = "f56a9c6bd8794310c23f32b9d57b34a892a432d1e62546599e523dd5106c1480"
+hash = "b28af7cace4880450f325a1681af28c15e6867a6b5d7099e81d402a7f8948cda"
 metafile = true
 
 [[files]]
 file = "mods/libs/forge-config-api-port.pw.toml"
-hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
+hash = "bd1a021bfca6e96d3cd3b952e2d889d0c4b69521abd69d036a25c6808e791a07"
 metafile = true
 
 [[files]]
@@ -3755,7 +3755,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/iceberg.pw.toml"
-hash = "a81c6e60f18faf727ed743029c8a4d093c6c96f0c450be7bf3535985ee6f4288"
+hash = "e2c8657cf0e39d2237380dd2b802ec0619d0fd439ef6297ca7a362fd5664cc78"
 metafile = true
 
 [[files]]
@@ -3805,7 +3805,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/yacl.pw.toml"
-hash = "80bab11e8d1438ec93695050f087dc2f9d0ae1d2523a17b8236af7029f14119e"
+hash = "17d831dc9a5939806f745aadeb8a0b11b0f1c7f587043e0d1aa77f40c76f73b9"
 metafile = true
 
 [[files]]
@@ -3825,7 +3825,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/carry-on.pw.toml"
-hash = "4b68b30e6d461076e9e2e75de9a01782653c02e8fd05cb0222bea6123df36433"
+hash = "78a55cd6aa6ac75610e8273cee84077e7ed3ef1503c4648d59b63a63f0e00cb2"
 metafile = true
 
 [[files]]
@@ -3900,7 +3900,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/simple-voice-chat.pw.toml"
-hash = "19cadf47c6a50584389e66d7d5370ca445ac99f74e17dfc24445ac8aeeeb15b1"
+hash = "960e79c3dc346ffc70a8a079ddc3e160063d3ceabe9e1ba4725ae2843f01ea05"
 metafile = true
 
 [[files]]
@@ -4110,7 +4110,7 @@ metafile = true
 
 [[files]]
 file = "mods/textures/entity-model-features.pw.toml"
-hash = "cb393324deb0194fb3a0019f40f1c42f45b295dbbfd118e9e4343f4b0d97244e"
+hash = "c3c2a25f6b35e7860e62b939a9b7fad6fa0a325dd473270eb2fb4218a51388db"
 metafile = true
 
 [[files]]

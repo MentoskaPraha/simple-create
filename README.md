@@ -131,7 +131,7 @@ These mods fix certain aspects of the game.
 | [Better Command Block UI](https://modrinth.com/mod/8iQcgjQ2) | Client | Used | ✅ |
 | [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) | Client | Used | ✅ |
 | [Debugify](https://modrinth.com/mod/QwxR6Gcd) | Client and server | Used | ✅ |
-| [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) | Client and Server | Used | ✅ |
+| [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) | Client | Used | ✅ |
 | [Food Effect Tooltips](https://modrinth.com/mod/GGfyJWnG) | Client | Used | ✅ |
 | [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA) | Client | Used | ✅ |
 | [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) | Client | Used | ✅ |
@@ -195,13 +195,13 @@ These mods allow all the other mods to work.
 | [Architectury API](https://modrinth.com/mod/lhGA9TYQ) | Client and Server | Used | ✅ |
 | [BCLib](https://modrinth.com/mod/BgNRHReB) | Client and Server | Used | ✅ |
 | [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) | Client and Server | Used | ✅ |
-| [Cardinal Components API](https://modrinth.com/mod/K01OU20C) | Client and Server | Used | ✅ |
-| [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client and Server | Used | ✅ |
+| [Cardinal Components API](https://modrinth.com/mod/K01OU20C) | Client | Used | ✅ |
+| [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client | Used | ✅ |
 | [CorgiLib](https://modrinth.com/mod/ziOp6EO8) | Client and Server | Used | ✅ |
-| [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client and Server | Used | ✅ |
-| [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client and Server | Used | ✅ |
+| [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client | Used | ✅ |
+| [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client | Used | ✅ |
 | [Geckolib](https://modrinth.com/mod/) | Client and Server | Used | ✅ |
-| [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client and Server | Used | ✅ |
+| [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client | Used | ✅ |
 | [Indium](https://modrinth.com/mod/Orvt0mRa) | Client | Used | ✅ |
 | [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) | Client and Server | Used | ✅ |
 | [oωo (owo-lib)](https://modrinth.com/mod/ccKDOlHs) | Client and Server | Used | ✅ |
@@ -212,7 +212,7 @@ These mods allow all the other mods to work.
 | [Rhino](https://modrinth.com/mod/sk9knFPE) | Client and Server | Used | ✅ |
 | [TerraBlender](https://modrinth.com/mod/kkmrDlKT) | Client and Server | Used | ✅ |
 | [ToolTipFix](https://modrinth.com/mod/2RKFTmiB) | Client and Server | Used (This is a dependancy for Enchancement and nothing else.) | ✅ |
-| [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) | Client and Server | Used | ✅ |
+| [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) | Client | Used | ✅ |
 | [YUNG's API](https://modrinth.com/mod/Ua7DFN59) | Client and Server | Used | ✅ |
 
 ### Resourcepacks
