@@ -3629,6 +3629,11 @@ hash = "0ac5d550c5b1483b2993492cc4179c9158b5251459a36493ba37a49d1746996c"
 metafile = true
 
 [[files]]
+file = "mods/fixes/advancements-debug.pw.toml"
+hash = "f6620ab34805ef3a7c88b8a83c044e69f15c2034af90bd55820041469e8357fa"
+metafile = true
+
+[[files]]
 file = "mods/fixes/antighost.pw.toml"
 hash = "a0ccdbeba73ba4d5992ec991241cfa323f416631385ce2da9b93c24ef9c979e3"
 metafile = true
@@ -3656,6 +3661,11 @@ metafile = true
 [[files]]
 file = "mods/fixes/bettercommandblockui.pw.toml"
 hash = "d0da0fac043039200f0b903770640f6f4f5e9bab5dbd685afa7857e5f82b0cc3"
+metafile = true
+
+[[files]]
+file = "mods/fixes/block_limit_fix.pw.toml"
+hash = "c0625a832fcf4384480a7589e6ad62018a790dc727829ab86b8a6c2c80c1c050"
 metafile = true
 
 [[files]]

@@ -123,12 +123,14 @@ These mods fix certain aspects of the game.
 
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.1 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
+| [Advancement Debug](https://modrinth.com/mod/rxMTwxyO) | Client and Server | Used, mod will be removed on update to `1.20.1`. | N/A |
 | [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR) | Client | Used | ✅ |
 | [Better Advancements](https://modrinth.com/mod/Q2OqKxDG) | Client | Used | ✅ |
 | [Better Compatibility Checker](https://modrinth.com/mod/KJhXPbHQ) | Client and Server | Used | ✅ |
 | [Better Mount HUD](https://modrinth.com/mod/kqJFAPU9) | Client | Used | ✅ |
 | [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) | Client | Used | ✅ |
 | [Better Command Block UI](https://modrinth.com/mod/8iQcgjQ2) | Client | Used | ✅ |
+| [Block Limit Fix](https://modrinth.com/mod/oJtNN7Tj) | Client and Server | Used, mod will be removed on update to `1.20.1`. | N/A |
 | [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) | Client | Used | ✅ |
 | [Debugify](https://modrinth.com/mod/QwxR6Gcd) | Client and server | Used | ✅ |
 | [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) | Client | Used | ✅ |
