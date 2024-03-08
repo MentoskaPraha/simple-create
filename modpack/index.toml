@@ -18,7 +18,7 @@ hash = "77129d09033bb64a26b01b9824774ffb722b31d01829b94a6553c9c234f4b4dc"
 
 [[files]]
 file = "config/bcc.json"
-hash = "2b0ee1ad2a354cc2557a383ca9c2eba4a82e318ce85a825c409a2628d3f77a1e"
+hash = "7bd396291753a1ff401963b2741e672348d73185c2c6c93156643fd585fb1c09"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -38,7 +38,7 @@ hash = "69ddad2cb637deba48766fa9a8946764a7cd8e7e8c07588560b426cf8a587c62"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "10908398e46b011ae00c9926901f1df360107a5c4f252e5c0c1ca9bdd308c041"
+hash = "38b64793d63d1227188d6e5415a211903dd7ff0f4208f7582d663cda34128df5"
 
 [[files]]
 file = "config/lithium.properties"
@@ -3831,6 +3831,11 @@ metafile = true
 [[files]]
 file = "mods/misc/ambientsounds.pw.toml"
 hash = "bcc01d6329bbe6dc0df4c84a158d940ab1666f83f33100e7cd7d6879276cc15b"
+metafile = true
+
+[[files]]
+file = "mods/misc/audioplayer.pw.toml"
+hash = "c8b83be71dd9415f5e49ca7e7ec19cd3141592def02bf28dcce4fbc5a0034751"
 metafile = true
 
 [[files]]

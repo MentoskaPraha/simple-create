@@ -1,0 +1,13 @@
+name = "AudioPlayer"
+filename = "audioplayer-fabric-1.19.2-1.8.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/s5oivqda/audioplayer-fabric-1.19.2-1.8.9.jar"
+hash-format = "sha1"
+hash = "8f608e0d6e65ad07300ed311ff142cec1d5cc53a"
+
+[update]
+[update.modrinth]
+mod-id = "SRlzjEBS"
+version = "s5oivqda"

@@ -169,6 +169,7 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Advancement Plaques](https://modrinth.com/mod/9NM0dXub) | Client | Used | ✅ |
 | [AmbientSounds](https://modrinth.com/mod/fM515JnW) | Client | Used | ✅ |
+| [AudioPlayer](https://modrinth.com/mod/SRlzjEBS) | Client | Used | ✅ |
 | [Carry On](https://modrinth.com/mod/joEfVgkn) | Client and Server | Used | ✅ |
 | [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) | Client | Used | ✅ |
 | [ClearDespawn](https://modrinth.com/mod/yoJJjRRE) | Client | Used | ✅ |
