@@ -18,7 +18,7 @@ hash = "77129d09033bb64a26b01b9824774ffb722b31d01829b94a6553c9c234f4b4dc"
 
 [[files]]
 file = "config/bcc.json"
-hash = "7bd396291753a1ff401963b2741e672348d73185c2c6c93156643fd585fb1c09"
+hash = "f33bad0bbf3c0e2aef6248316c4b1703d043c39d0f773eb4f898594ebe548069"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -3542,7 +3542,7 @@ hash = "426db7e776f68eac677f02630867e1c1b258ee6ee480253749e6e7645e831fe7"
 
 [[files]]
 file = "kubejs/startup_scripts/custom-items.js"
-hash = "d8ebfa224b166761f03fd8d16461995e40d564f67d65ffb18e22d53d435678a1"
+hash = "ca956899726d4cc23780fdfeff72a739565834bb555a2358b193a2569559c27c"
 
 [[files]]
 file = "mods/content/blast.pw.toml"

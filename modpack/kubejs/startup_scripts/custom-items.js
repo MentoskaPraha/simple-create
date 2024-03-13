@@ -3,6 +3,7 @@ StartupEvents.registry("item", event => {
 		.displayName("Meth")
 		.tooltip("It's exactly what it sounds like. Enjoy!")
 		.glow(false)
+		.tag("origins:ignore_diet")
 		.food(food => {
 			food
 				.effect("pickyourpoison:comatose", 200, 0, 0.2)
@@ -17,6 +18,7 @@ StartupEvents.registry("item", event => {
 		.displayName("Super Meth")
 		.tooltip("Like regular meth, just better in every way.")
 		.glow(true)
+		.tag("origins:ignore_diet")
 		.food(food => {
 			food
 				.effect("minecraft:levitation", 200, 99, 0.1)
