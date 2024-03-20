@@ -17,8 +17,12 @@ file = "config/NoChatReports/NCR-Common.json"
 hash = "77129d09033bb64a26b01b9824774ffb722b31d01829b94a6553c9c234f4b4dc"
 
 [[files]]
+file = "config/audioplayer/audioplayer-server.properties"
+hash = "a900ba20a3d8ad7cd4caf6403b0b6971d99953e35104797342f9ed5bf1cd1bf1"
+
+[[files]]
 file = "config/bcc.json"
-hash = "f33bad0bbf3c0e2aef6248316c4b1703d043c39d0f773eb4f898594ebe548069"
+hash = "f2e55fe26e52f0edf82cf5ee67fc5a4e246fd4c8ee6ef8e3efb0a53d8340c1e6"
 
 [[files]]
 file = "config/bclib/server.json"
