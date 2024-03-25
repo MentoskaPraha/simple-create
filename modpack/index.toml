@@ -22,7 +22,7 @@ hash = "a900ba20a3d8ad7cd4caf6403b0b6971d99953e35104797342f9ed5bf1cd1bf1"
 
 [[files]]
 file = "config/bcc.json"
-hash = "f2e55fe26e52f0edf82cf5ee67fc5a4e246fd4c8ee6ef8e3efb0a53d8340c1e6"
+hash = "20a73c9ad70e1b62c6ff1dd21081ac15521f0e883182ad10bdbeaa2e545a73da"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -3575,7 +3575,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/create-fabric.pw.toml"
-hash = "85177d5ff0334af62a87ae4ec1b175ecbbd478604f99474cf27e84663a52d551"
+hash = "554469202953482b511629f0adf3dafcaf9fe29a6026425c0e56b646e015e6e0"
 metafile = true
 
 [[files]]
@@ -3590,7 +3590,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/create-steam-n-rails.pw.toml"
-hash = "5a4d31825bdd55127b3716eb8eda5bd2e4d06319fa90850db633421a1d922f44"
+hash = "9508cc23452b7721c13d2379b890591b54630444e1a7aaf730b0057fece0792f"
 metafile = true
 
 [[files]]
@@ -3629,7 +3629,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/travelersbackpack.pw.toml"
-hash = "0ac5d550c5b1483b2993492cc4179c9158b5251459a36493ba37a49d1746996c"
+hash = "51aeef2909959901b1989d8756855375396c68f09b9a15bd00466d08e4cb6c4d"
 metafile = true
 
 [[files]]
@@ -3670,6 +3670,11 @@ metafile = true
 [[files]]
 file = "mods/fixes/block_limit_fix.pw.toml"
 hash = "c0625a832fcf4384480a7589e6ad62018a790dc727829ab86b8a6c2c80c1c050"
+metafile = true
+
+[[files]]
+file = "mods/fixes/borderless-mining.pw.toml"
+hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
 metafile = true
 
 [[files]]
@@ -3794,7 +3799,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/qsl.pw.toml"
-hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+hash = "5c32754581f5be9dceca7be3e2d5d6dc9fb35406c87449b46e69e2bb7afc9755"
 metafile = true
 
 [[files]]
@@ -3839,7 +3844,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/audioplayer.pw.toml"
-hash = "c8b83be71dd9415f5e49ca7e7ec19cd3141592def02bf28dcce4fbc5a0034751"
+hash = "1f8ecbcd6c56e7bab1bca1a94a076fe9801ad9c2e6878629ed43461244d2297b"
 metafile = true
 
 [[files]]
@@ -3849,7 +3854,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/chat-heads.pw.toml"
-hash = "56b9f6cd143dd7d37a43fbc8e16b0059c6a85cc9160126b1a9c9794596d0a183"
+hash = "7d6840e1fd9bd47ed0f9e7015b2a59fe01d6e70ce59fb69a664b916c194182bc"
 metafile = true
 
 [[files]]
@@ -3914,7 +3919,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/replaymod.pw.toml"
-hash = "93ea8f70011c63f6f41502d2205666f011496f9886a254d5104810ba610f054f"
+hash = "6442d1aacbdac3049d13760f3fdb6b028bf3ccc8f8ac6c36843563ed207c8554"
 metafile = true
 
 [[files]]
@@ -3924,7 +3929,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/simple-voice-chat.pw.toml"
-hash = "960e79c3dc346ffc70a8a079ddc3e160063d3ceabe9e1ba4725ae2843f01ea05"
+hash = "1a925344165ea09f5bea3f2a8095cfc5d2e1573c2278d379e9f1772b3a94c7cd"
 metafile = true
 
 [[files]]
@@ -3970,6 +3975,11 @@ metafile = true
 [[files]]
 file = "mods/optimasations/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/optimasations/immediatelyfast.pw.toml"
+hash = "8177a47aff4e87511946b64ed2e52454a13d749e0df75ecbdcaef40912b6b497"
 metafile = true
 
 [[files]]

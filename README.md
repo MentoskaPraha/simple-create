@@ -110,6 +110,7 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 | [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) | Client | Used | ✅ |
 | [Entity Culling](https://modrinth.com/mod/NNAgCjsB) | Client | Used | ✅ |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Client and Server | Used | ✅ |
+| [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) | Client | Used | ✅ |
 | [LazyDFU](https://modrinth.com/mod/hvFnDODi) | Client and Server | Used, mod will be removed on update to `1.20.1`. | N/A |
 | [Lithium](https://modrinth.com/mod/gvQqBUqZ) | Client and Server | Used | ✅ |
 | [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | Client and Server | Used | ✅ |
@@ -131,6 +132,7 @@ These mods fix certain aspects of the game.
 | [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) | Client | Used | ✅ |
 | [Better Command Block UI](https://modrinth.com/mod/8iQcgjQ2) | Client | Used | ✅ |
 | [Block Limit Fix](https://modrinth.com/mod/oJtNN7Tj) | Client and Server | Used, mod will be removed on update to `1.20.1`. | N/A |
+| [Borderless Mining](https://modrinth.com/mod/kYq5qkSL) | Client and Server | Used | ✅ |
 | [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) | Client | Used | ✅ |
 | [Debugify](https://modrinth.com/mod/QwxR6Gcd) | Client and server | Used | ✅ |
 | [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) | Client | Used | ✅ |
@@ -177,7 +179,7 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [Discord Integration](https://modrinth.com/mod/rbJ7eS5V) | Server | Used | ✅ |
 | [EnchantedShulkers](https://modrinth.com/mod/vUi6HFie) | Client and Server | Used | ✅ |
 | [ExtraSounds](https://modrinth.com/mod/uPWCQrVL) | Client | Used, mod will be removed on update to `1.20.1`. | N/A |
-| [Sounds](https://modrinth.com/mod/ZouiUX7t) | Client | Planned, once we update to 1.20.1 | N/A |
+| [Sounds](https://modrinth.com/mod/ZouiUX7t) | Client | Planned, once we update to `1.20.1`. | N/A |
 | [Global Packs](https://modrinth.com/mod/NRLPy2mk) | Client and Server | Used | ✅ |
 | [KubeJS Create](https://modrinth.com/mod/T38eAZQC) | Client and Server | Used | ✅ |
 | [KubeJS](https://modrinth.com/mod/umyGl7zF) | Client and Server | Used | ✅ |
