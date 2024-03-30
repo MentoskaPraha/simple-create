@@ -3625,7 +3625,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/supplementaries.pw.toml"
-hash = "65f347a0032d625a3911a27bf504f894670966e4c00dd31a0f3b01e27043cc9e"
+hash = "43616f92853591895ea74e866e3e0f223c41b1a6a680b384b34a60ca8b58f081"
 metafile = true
 
 [[files]]
@@ -3724,6 +3724,11 @@ hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
+file = "mods/libs/athena-ctm.pw.toml"
+hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
+metafile = true
+
+[[files]]
 file = "mods/libs/bclib.pw.toml"
 hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
 metafile = true
@@ -3736,6 +3741,11 @@ metafile = true
 [[files]]
 file = "mods/libs/cardinal-components-api.pw.toml"
 hash = "21892c66e16498485c1ad0d073ea9a7d4a4f30ccc7851f56b68244e32be5d308"
+metafile = true
+
+[[files]]
+file = "mods/libs/cicada.pw.toml"
+hash = "fb74f8257a46a29c27c1861e7d4b5fd361bcffc9b167d49d846037f49a09ff70"
 metafile = true
 
 [[files]]
@@ -3776,6 +3786,11 @@ metafile = true
 [[files]]
 file = "mods/libs/moonlight.pw.toml"
 hash = "b91afc0cc0069f645835be6bf7a9da309e61f9bc207e486fe8cb5af7012632d9"
+metafile = true
+
+[[files]]
+file = "mods/libs/mru.pw.toml"
+hash = "9157ed576dff4174a28294ba0c57c98631ef64f1faf0751bdac67b679426cc22"
 metafile = true
 
 [[files]]

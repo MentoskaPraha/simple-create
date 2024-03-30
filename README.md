@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Modpack is currently a bit broken as Impaled doesn't have a `1.20.1` version yet is still included in the mods folder.
+
 # Simple Create
 Simple Create is a modpack based around [Create mod](https://modrinth.com/mod/Xbc0uyRg). It's designed to be a fun experience with the Boys, but can be played alone if you so wish.
 
@@ -177,7 +180,7 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [ClickThrough](https://modrinth.com/mod/Z5b0cAlD) | Client | Used | |
 | [Discord Integration](https://modrinth.com/mod/rbJ7eS5V) | Server | Used | |
 | [EnchantedShulkers](https://modrinth.com/mod/vUi6HFie) | Client and Server | Used | |
-| [Sounds](https://modrinth.com/mod/ZouiUX7t) | Client | USed |  |
+| [Sounds](https://modrinth.com/mod/ZouiUX7t) | Client | Used |  |
 | [Global Packs](https://modrinth.com/mod/NRLPy2mk) | Client and Server | Used | ✅ |
 | [KubeJS Create](https://modrinth.com/mod/T38eAZQC) | Client and Server | Planned, once mod supports `1.20.1`, it's not really needed as it was used for one thing, which can easily be replaced with a datapack. |  |
 | [KubeJS](https://modrinth.com/mod/umyGl7zF) | Client and Server | Used | |
@@ -197,9 +200,11 @@ These mods allow all the other mods to work.
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Architectury API](https://modrinth.com/mod/lhGA9TYQ) | Client and Server | Used |  |
+| [Athena](https://modrinth.com/mod/b1ZV3DIJ) | Client and Server | Used |  |
 | [BCLib](https://modrinth.com/mod/BgNRHReB) | Client and Server | Used |  |
 | [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) | Client and Server | Used | |
 | [Cardinal Components API](https://modrinth.com/mod/K01OU20C) | Client | Used |  |
+| [CICADA](https://modrinth.com/mod/IwCkru1D) | Client | Used |  |
 | [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client | Used |  |
 | [CorgiLib](https://modrinth.com/mod/ziOp6EO8) | Client and Server | Used | |
 | [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client | Used | |
@@ -208,8 +213,8 @@ These mods allow all the other mods to work.
 | [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client | Used | |
 | [Indium](https://modrinth.com/mod/Orvt0mRa) | Client | Used | |
 | [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) | Client and Server | Used | |
+| [M.R.U](https://modrinth.com/mod/SNVQ2c0g) | Client | Used | |
 | [oωo (owo-lib)](https://modrinth.com/mod/ccKDOlHs) | Client and Server | Used | |
-| [Pehkui](https://modrinth.com/mod/t5W7Jfwy) | Client and Server | Used | |
 | [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client and Server | Used | |
 | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qvIfYCYJ) | Client and Server | Used | |
 | [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) | Client and Server | Used | |
