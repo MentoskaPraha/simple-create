@@ -1,5 +1,5 @@
 > [!CAUTION]
-> Modpack is currently a bit broken as Impaled doesn't have a `1.20.1` version yet is still included in the mods folder.
+> Modpack is currently a bit broken as Impaled doesn't have a `1.20.1` version yet is still included in the mods folder. Also currently it just doesn't want to start for some reason.
 
 # Simple Create
 Simple Create is a modpack based around [Create mod](https://modrinth.com/mod/Xbc0uyRg). It's designed to be a fun experience with the Boys, but can be played alone if you so wish.
