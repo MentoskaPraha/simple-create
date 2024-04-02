@@ -134,7 +134,6 @@ These mods fix certain aspects of the game.
 | [Better Mount HUD](https://modrinth.com/mod/kqJFAPU9) | Client | Used |  |
 | [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) | Client | Used |  |
 | [Better Command Block UI](https://modrinth.com/mod/8iQcgjQ2) | Client | Used |  |
-| [Borderless Mining](https://modrinth.com/mod/kYq5qkSL) | Client and Server | Used |  |
 | [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) | Client | Used |  |
 | [Debugify](https://modrinth.com/mod/QwxR6Gcd) | Client and server | Used |  |
 | [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) | Client | Used |  |
@@ -177,7 +176,7 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [Carry On](https://modrinth.com/mod/joEfVgkn) | Client and Server | Used | |
 | [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) | Client | Used | |
 | [ClearDespawn](https://modrinth.com/mod/yoJJjRRE) | Client | Used | |
-| [ClickThrough](https://modrinth.com/mod/Z5b0cAlD) | Client | Used | |
+| [Clickthrough 2.0](https://modrinth.com/mod/ERHOxvaH) | Client | Used | |
 | [Discord Integration](https://modrinth.com/mod/rbJ7eS5V) | Server | Used | |
 | [EnchantedShulkers](https://modrinth.com/mod/vUi6HFie) | Client and Server | Used | |
 | [Sounds](https://modrinth.com/mod/ZouiUX7t) | Client | Used |  |

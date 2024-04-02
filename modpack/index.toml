@@ -33,6 +33,10 @@ file = "config/betterf3.json"
 hash = "9c5b679e4eb28804ec2e609b55e0deeff5bdf5730e52024f549842e585d5132a"
 
 [[files]]
+file = "config/borderlessmining.json"
+hash = "7c47862b98890f793c72476c7f2f805ff6404c4dc37c90465a82007be49e95fd"
+
+[[files]]
 file = "config/do_a_barrel_roll-server.json"
 hash = "216918751aad525f6b3508bec64fb5c3d0183019cd75565735f2ff5e8f7cf8d7"
 
@@ -3664,11 +3668,6 @@ hash = "3b459d321d422b95dd13da104e7b88ec301bdc6e07f22215f4be7adcab13c7d8"
 metafile = true
 
 [[files]]
-file = "mods/fixes/borderless-mining.pw.toml"
-hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
-metafile = true
-
-[[files]]
 file = "mods/fixes/dark-loading-screen.pw.toml"
 hash = "97ca0b01ac6888486402018e7c95ec3b219a89c3338a416fd25418def5f51fa1"
 metafile = true
@@ -3686,6 +3685,16 @@ metafile = true
 [[files]]
 file = "mods/fixes/foodeffecttooltips.pw.toml"
 hash = "0563bcabdae1e63e405183e6c126c258fcfdcb7eb33ab4c751f1adb0913dcced"
+metafile = true
+
+[[files]]
+file = "mods/fixes/geckoanimfix.pw.toml"
+hash = "57b3027a5fc1975acd687f947a02f70ed0693f4bd2bee293ab42583609f95839"
+metafile = true
+
+[[files]]
+file = "mods/fixes/iris-flw-compat.pw.toml"
+hash = "15733da443b242fa60953e3fec16df945c545d9123bfc4b76589e8828fb11012"
 metafile = true
 
 [[files]]
@@ -3869,8 +3878,8 @@ hash = "be484c508ba6866ae478956e053a069643d489b8a92eb6079057d70e3337c106"
 metafile = true
 
 [[files]]
-file = "mods/misc/clickthrough.pw.toml"
-hash = "e6d3f593517ccc7331cb2f581deaa092094bef8fc501284eacd7379a33bee212"
+file = "mods/misc/clickthrough2.0.pw.toml"
+hash = "be99cc0e7cc05be147d0b4ab71024c5266c34eda5b6ce67dc7f7d93061a60511"
 metafile = true
 
 [[files]]
@@ -4014,11 +4023,6 @@ hash = "b1fb98bba73569341ebc733ad2dcc6a3a0a7de580f0758f49f353c3367d2bd5f"
 metafile = true
 
 [[files]]
-file = "mods/reworks/impaled.pw.toml"
-hash = "717e42c31fd9e80097f4d21ed6c138094a0025b53dfcf14d780c0078eb1b8722"
-metafile = true
-
-[[files]]
 file = "mods/reworks/sound-physics-remastered.pw.toml"
 hash = "cfeac7b1e393b702a18e76e887a4857b021b2fa56a62261513b715d2c8e35833"
 metafile = true
@@ -4110,7 +4114,7 @@ metafile = true
 
 [[files]]
 file = "mods/textures/cit-resewn.pw.toml"
-hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
 metafile = true
 
 [[files]]
@@ -4125,7 +4129,7 @@ metafile = true
 
 [[files]]
 file = "mods/textures/effective.pw.toml"
-hash = "0defe5f1c4912392940ed43a0acbd7a8df22442768dc8eec63c0790d85d22529"
+hash = "c102c17148affae740d8152d7a9123b79a808a3f6eb5734791e22cde43cf19a4"
 metafile = true
 
 [[files]]
