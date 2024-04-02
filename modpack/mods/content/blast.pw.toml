@@ -1,13 +1,13 @@
 name = "BLAST"
-filename = "blast-1.13.jar"
+filename = "blast-1.14.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hrVBD9fd/versions/ojB3W9Gs/blast-1.13.jar"
+url = "https://cdn.modrinth.com/data/hrVBD9fd/versions/vRxBeYJI/blast-1.14.jar"
 hash-format = "sha1"
-hash = "10d7ebefb9cd465a6577397f2cb51e529693aef5"
+hash = "22c2fa0141397101a48abddcaea2c5396617544b"
 
 [update]
 [update.modrinth]
 mod-id = "hrVBD9fd"
-version = "ojB3W9Gs"
+version = "vRxBeYJI"

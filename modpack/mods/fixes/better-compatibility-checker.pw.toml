@@ -1,13 +1,13 @@
 name = "Better Compatibility Checker"
-filename = "BetterCompatibilityChecker-fabric-4.0.1+mc1.20.1.jar"
+filename = "BetterCompatibilityChecker-Fabric-2.0.2-build.16+mc1.19.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KJhXPbHQ/versions/gatP97QZ/BetterCompatibilityChecker-fabric-4.0.1%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/KJhXPbHQ/versions/kACizCIT/BetterCompatibilityChecker-Fabric-2.0.2-build.16%2Bmc1.19.1.jar"
 hash-format = "sha1"
-hash = "0c4dda5c9ebe5fcedd829996a272009f3122630a"
+hash = "929a35cd548cb326c2a085a02b9f89a83e4899cd"
 
 [update]
 [update.modrinth]
 mod-id = "KJhXPbHQ"
-version = "gatP97QZ"
+version = "kACizCIT"

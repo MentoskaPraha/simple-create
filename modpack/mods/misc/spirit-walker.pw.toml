@@ -1,13 +1,13 @@
 name = "Spirit Walker"
-filename = "spirit-walker-0.1.5+1.20.jar"
+filename = "spirit-walker-0.1.1+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/zbX4s3vj/versions/OiZK261v/spirit-walker-0.1.5%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/zbX4s3vj/versions/Gbu2vbnC/spirit-walker-0.1.1%2B1.19.jar"
 hash-format = "sha1"
-hash = "8f69a40e558e645d4353c1dd2c2e3f7a7cda8897"
+hash = "cc27ecad163d061b342bae4b1e6b3eb8aeb5d032"
 
 [update]
 [update.modrinth]
 mod-id = "zbX4s3vj"
-version = "OiZK261v"
+version = "Gbu2vbnC"
