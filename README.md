@@ -32,18 +32,19 @@ This list has all the mods that add content to the game.
 | [Create: Liftoff](https://createsimulated.com/) | Client and Server | Planned, once mod is complete. | N/A |
 | [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) | Client and Server | Used | ✅ |
 | [Create: Enchantement Industry](https://modrinth.com/mod/AEZO385x) | Client and Server | Used | ✅ |
-| [Create: Big Cannons](https://modrinth.com/mod/GWp4jCJj) | Client and Server | Used | ✅ |
+| [Create: Big Cannons](https://modrinth.com/mod/GWp4jCJj) | Client and Server | Used | Support for [Create](https://modrinth.com/mod/Xbc0uyRg) patch F is required |
 | [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Client and Server | Custom Version Used (see details bellow) | ✅ |
 | [Create: Extended Bogeys](https://github.com/Rabbitminers/Extended-Bogeys) | Client and Server | Planned, once mod is complete. | N/A |
 | [Create: Ore Excavation](https://modrinth.com/mod/ResbpANg) | Client and Server | Used | ✅ |
-| [Create: Slice and Dice](https://modrinth.com/mod/GmjmRQ0A) | Client and Server | Used | ✅ |
+| [Create: Slice and Dice](https://modrinth.com/mod/GmjmRQ0A) | Client and Server | Used | Support for [Farmer's Delight Refabricated](https://modrinth.com/mod/7vxePowz) is required. |
 | [Create: Origins](https://modrinth.com/mod/PnhmwLM0) | Client and Server | Used | ✅ |
 | [Origins](https://modrinth.com/mod/3BeIrqZR) | Client and Server | Used | ✅ |
 | [Farmer's Delight](https://modrinth.com/mod/4EakbH8e) | Client and Server | Used | ✅ |
+| [Farmer's Delight Refabricated](https://modrinth.com/mod/7vxePowz) | Client and Server | Used | ✅ |
 | [Lovely Snails](https://modrinth.com/mod/hBVVhStr) | Client and Server | Used | ✅ |
 | [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) | Client and Server | Used | ✅ |
-| [Supplementaries](https://modrinth.com/mod/fFEIiSDQ) | Client and Server | Used | ✅ |
 | [Chipped](https://modrinth.com/mod/BAscRYKm) | Client and Server | Used | ✅ |
+| [Every Compat (Wood Good)](https://modrinth.com/mod/eiktJyw1) | Client and Server | Used | ✅ |
 | [Chalk](https://modrinth.com/mod/OrtjXTCH) | Client and Server | Used | ✅ |
 | [Pick Your Poison](https://modrinth.com/mod/EHjFQKek) | Client and Server | Used | ✅ |
 | [Blast](https://modrinth.com/mod/hrVBD9fd) | Client and Server | Used | ✅ |
@@ -56,7 +57,7 @@ These mods rework certain aspects of the game, usually changing them completely.
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Do a Barrel Roll](https://modrinth.com/mod/6FtRfnLg) | Client and Server | Used | ✅ |
 | [Enchancement](https://modrinth.com/mod/6hN1V6wJ) | Client and Server | Used | ✅ |
-| [Impaled](https://modrinth.com/mod/AiHAhIP5) | Client and Server | Used |  |
+| [Impaled](https://modrinth.com/mod/AiHAhIP5) | Client and Server | Used | `1.20.1` Version Required |
 | [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) | Client | Used | ✅ |
 
 ### Utility Mods
@@ -84,6 +85,10 @@ These mods rework terrain generation, allowing for interesting structures and ex
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [BetterEnd](https://modrinth.com/mod/gc8OEnCC) | Client and Server | Used | ✅ |
 | [BetterNether](https://modrinth.com/mod/MpzVLzy5) | Client and Server | Used | ✅ |
+| [Fabric Seasons](https://modrinth.com/mod/KJe6y9Eu) | Client and Server | Planed, once compatability for Regions Unexplored is availible. | N/A |
+| [Fabric Seasons: Extra](https://modrinth.com/mod/64FYdx5z) | Client and Server | Planed, once Fabric Seasons is added. | N/A |
+| [Fabric Seasons: Delight Compat](https://modrinth.com/mod/4VYO7ir0) | Client and Server | Planed, once Fabric Seasons is added and mod is compatible with [Farmer's Delight Refabricated](https://modrinth.com/mod/7vxePowz). | N/A |
+| [Fabric Seasons: Terralith Compat](https://modrinth.com/mod/D53qveoj) | Client and Server | Planed, once Fabric Seasons is added. | N/A |
 | [Regions Unexplored](https://modrinth.com/mod/Tkikq67H) | Client and Server | Used | ✅ |
 | [Terralith](https://modrinth.com/mod/8oi3bsk5) | Client and Server | Used | ✅ |
 | [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv) | Client and Server | Used | ✅ |
@@ -110,7 +115,6 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 | [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) | Client | Used | ✅ |
 | [Entity Culling](https://modrinth.com/mod/NNAgCjsB) | Client | Used | ✅ |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Client and Server | Used | ✅ |
-| [ImmediatelyFast](https://modrinth.com/mod/5ZwdcRci) | Client | Used | ✅ |
 | [LazyDFU](https://modrinth.com/mod/hvFnDODi) | Client and Server | Used, mod will be removed on update to `1.20.1`. | N/A |
 | [Lithium](https://modrinth.com/mod/gvQqBUqZ) | Client and Server | Used | ✅ |
 | [Let Me Despawn](https://modrinth.com/mod/vE2FN5qn) | Client and Server | Used | ✅ |
@@ -136,7 +140,6 @@ These mods fix certain aspects of the game.
 | [Debugify](https://modrinth.com/mod/QwxR6Gcd) | Client and server | Used | ✅ |
 | [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) | Client | Used | ✅ |
 | [Food Effect Tooltips](https://modrinth.com/mod/GGfyJWnG) | Client | Used | ✅ |
-| [Iris & Oculus Flywheel Compat](https://modrinth.com/mod/ndHYMY2K) | Client | Used | ✅ |
 | [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA) | Client | Used | ✅ |
 | [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) | Client | Used | ✅ |
 | [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | Client | Used | ✅ |
@@ -175,7 +178,8 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [Carry On](https://modrinth.com/mod/joEfVgkn) | Client and Server | Used | ✅ |
 | [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) | Client | Used | ✅ |
 | [ClearDespawn](https://modrinth.com/mod/yoJJjRRE) | Client | Used | ✅ |
-| [ClickThrough](https://modrinth.com/mod/Z5b0cAlD) | Client | Used | ✅ |
+| [ClickThrough](https://modrinth.com/mod/Z5b0cAlD) | Client | Used, mod will be removed on update to `1.20.1`. | N/A |
+| [Clickthrough 2.0](https://modrinth.com/mod/ERHOxvaH) | Client | Planned, once we update to `1.20.1`. | ✅ |
 | [Discord Integration](https://modrinth.com/mod/rbJ7eS5V) | Server | Used | ✅ |
 | [EnchantedShulkers](https://modrinth.com/mod/vUi6HFie) | Client and Server | Used | ✅ |
 | [ExtraSounds](https://modrinth.com/mod/uPWCQrVL) | Client | Used, mod will be removed on update to `1.20.1`. | N/A |
@@ -203,7 +207,6 @@ These mods allow all the other mods to work.
 | [Bookshelf](https://modrinth.com/mod/uy4Cnpcm) | Client and Server | Used | ✅ |
 | [Cardinal Components API](https://modrinth.com/mod/K01OU20C) | Client | Used | ✅ |
 | [Cloth Config API](https://modrinth.com/mod/9s6osm5g) | Client | Used | ✅ |
-| [CorgiLib](https://modrinth.com/mod/ziOp6EO8) | Client and Server | Used | ✅ |
 | [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client | Used | ✅ |
 | [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client | Used | ✅ |
 | [Geckolib](https://modrinth.com/mod/) | Client and Server | Used | ✅ |
@@ -211,7 +214,6 @@ These mods allow all the other mods to work.
 | [Indium](https://modrinth.com/mod/Orvt0mRa) | Client | Used | ✅ |
 | [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) | Client and Server | Used | ✅ |
 | [oωo (owo-lib)](https://modrinth.com/mod/ccKDOlHs) | Client and Server | Used | ✅ |
-| [Pehkui](https://modrinth.com/mod/t5W7Jfwy) | Client and Server | Used | ✅ |
 | [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client and Server | Used | ✅ |
 | [Quilted Fabric API (QFAPI) / Quilt Standard Libraries (QSL)](https://modrinth.com/mod/qvIfYCYJ) | Client and Server | Used | ✅ |
 | [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) | Client and Server | Used | ✅ |

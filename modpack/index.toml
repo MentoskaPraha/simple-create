@@ -22,7 +22,7 @@ hash = "a900ba20a3d8ad7cd4caf6403b0b6971d99953e35104797342f9ed5bf1cd1bf1"
 
 [[files]]
 file = "config/bcc.json"
-hash = "20a73c9ad70e1b62c6ff1dd21081ac15521f0e883182ad10bdbeaa2e545a73da"
+hash = "9e3f8cea71da42a2e26f9a8041e1115153e21749af6f531bd89ecb4415dbb768"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -3575,7 +3575,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/create-fabric.pw.toml"
-hash = "554469202953482b511629f0adf3dafcaf9fe29a6026425c0e56b646e015e6e0"
+hash = "f405a134ed1beb4ea967afdd2eaa9b70287f8f88084d6859d86108ec21ab0d49"
 metafile = true
 
 [[files]]
@@ -3590,7 +3590,12 @@ metafile = true
 
 [[files]]
 file = "mods/content/create-steam-n-rails.pw.toml"
-hash = "9508cc23452b7721c13d2379b890591b54630444e1a7aaf730b0057fece0792f"
+hash = "eb102d4c9343c7ea43be9a26bc4e6673d8afe7f8e84eb072f9ed286adafc996a"
+metafile = true
+
+[[files]]
+file = "mods/content/every-compat.pw.toml"
+hash = "01d5a0f9f91399b011c27f93adc31381a7e79d09636ed25995db288fb09fd148"
 metafile = true
 
 [[files]]
@@ -3620,11 +3625,6 @@ metafile = true
 [[files]]
 file = "mods/content/slice-and-dice.pw.toml"
 hash = "b8b05210624a4edae6cb92795f96293375259f79bfbc90c359944b2c5561171e"
-metafile = true
-
-[[files]]
-file = "mods/content/supplementaries.pw.toml"
-hash = "35662ef47ed624da31c44a98149a3196565a1252a5cccf35c701945df0e51d17"
 metafile = true
 
 [[files]]
@@ -3693,11 +3693,6 @@ hash = "baff407819a6c5abaeea5fb19918706070283df823cebb0f8e62c0b42fc545c3"
 metafile = true
 
 [[files]]
-file = "mods/fixes/iris-flw-compat.pw.toml"
-hash = "97f5e755b79accc731514d61eccf8025cb0b47aacaf910f31cc5a5f81a153bb6"
-metafile = true
-
-[[files]]
 file = "mods/fixes/lambdabettergrass.pw.toml"
 hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
 metafile = true
@@ -3753,11 +3748,6 @@ hash = "4dac267435479d9a56cd1c8d550fa060d49b56429c05ed617f5a650a4f1bef29"
 metafile = true
 
 [[files]]
-file = "mods/libs/corgilib.pw.toml"
-hash = "cdfbb6b7cd0f3205e6ba9f77f9a16aff7ebb4c4afc275264e86edd8cef2a9423"
-metafile = true
-
-[[files]]
 file = "mods/libs/creativecore.pw.toml"
 hash = "b28af7cace4880450f325a1681af28c15e6867a6b5d7099e81d402a7f8948cda"
 metafile = true
@@ -3799,7 +3789,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/qsl.pw.toml"
-hash = "5c32754581f5be9dceca7be3e2d5d6dc9fb35406c87449b46e69e2bb7afc9755"
+hash = "5cc176932a27866d8ecd5cf168d91d96520e667567035aad7e22523841df2f97"
 metafile = true
 
 [[files]]
@@ -3929,7 +3919,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/simple-voice-chat.pw.toml"
-hash = "1a925344165ea09f5bea3f2a8095cfc5d2e1573c2278d379e9f1772b3a94c7cd"
+hash = "7b96e272948b88339104a325917724604adf16598cc2d0ffe1cb25314cf8f12e"
 metafile = true
 
 [[files]]
@@ -3975,11 +3965,6 @@ metafile = true
 [[files]]
 file = "mods/optimasations/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
-metafile = true
-
-[[files]]
-file = "mods/optimasations/immediatelyfast.pw.toml"
-hash = "8177a47aff4e87511946b64ed2e52454a13d749e0df75ecbdcaef40912b6b497"
 metafile = true
 
 [[files]]
@@ -4114,7 +4099,7 @@ metafile = true
 
 [[files]]
 file = "mods/textures/blahaj-of-undying.pw.toml"
-hash = "9995ebc17bc91f1ce0355ca6edff3fcd65477f394f8d5875e29843d9ac3c2243"
+hash = "922331408edda653e934f532c7e9590d8e89367651ada4ff511c6019b115535c"
 metafile = true
 
 [[files]]
@@ -4177,8 +4162,9 @@ hash = "d44a47592608a2ef6eb105eb6a4642839e1a9ea59736b92345c0fa492ddbc47a"
 metafile = true
 
 [[files]]
-file = "mods/textures/quilted_clear_skies-1.0.0+1.19.2.jar"
-hash = "987f96409d2ac8d7d89d742434410e72296ee1cb3566cab2159a2025896fd0b7"
+file = "mods/textures/quilted_clear_skies.pw.toml"
+hash = "f744039c8442c6f5e4fbf5f93f22132b8cad023e58bd06b603ef374cf3130204"
+metafile = true
 
 [[files]]
 file = "mods/utils/appleskin.pw.toml"
