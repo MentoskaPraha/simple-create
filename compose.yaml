@@ -1,6 +1,6 @@
 services:
   minecraft:
-    image: itzg/minecraft-server:2024.3.0-java17-jdk
+    image: itzg/minecraft-server:2024.4.0-java17-jdk
     environment:
       EULA: "TRUE"
       PACKWIZ_URL: "http://localhost:6942/pack.toml"
@@ -14,7 +14,7 @@ services:
       - packwiz
     network_mode: "host"
   packwiz:
-    image: httpd:2.4.58-alpine3.19
+    image: httpd:2.4.59-alpine3.19
     ports:
       - "6942:80"
     volumes:
