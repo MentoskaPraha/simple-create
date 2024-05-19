@@ -1,8 +1,0 @@
-name = "Quilted Clear Skies"
-filename = "quilted_clear_skies-1.0.0+1.19.2.jar"
-side = "client"
-
-[download]
-url = "https://github.com/MentoskaPraha/quilted-clear-skies/releases/download/1.0.0/quilted_clear_skies-1.0.0+1.19.2.jar"
-hash-format = "sha1"
-hash = "6af673c343f22c4f986ff9b1855826f70ff3a9a2"

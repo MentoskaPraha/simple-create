@@ -18,4 +18,4 @@ services:
     ports:
       - "6942:80"
     volumes:
-      - ./modpack:/usr/local/apache2/htdocs/
+      - .:/usr/local/apache2/htdocs/

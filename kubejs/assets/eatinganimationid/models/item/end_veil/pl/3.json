@@ -1,0 +1,7 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "eatinganimationid:item/o",
+        "layer1": "eatinganimationid:item/end_veil/pl/3"
+    }
+}

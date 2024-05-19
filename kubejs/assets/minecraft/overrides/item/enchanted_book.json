@@ -1,0 +1,15 @@
+{
+  "overrides": [
+    { "model": "minecraft:item/channeling", "predicate": {"nbt": { "StoredEnchantments": [{"id": "minecraft:channeling", "lvl": 1}]}}},
+    { "model": "minecraft:item/efficiency", "predicate": {"nbt": { "StoredEnchantments": [{"id": "minecraft:efficiency", "lvl": 1}]}}},
+    { "model": "minecraft:item/fire_aspect", "predicate": {"nbt": { "StoredEnchantments": [{"id": "minecraft:fire_aspect", "lvl": 1}]}}},
+    { "model": "minecraft:item/infinity", "predicate": {"nbt": { "StoredEnchantments": [{"id": "minecraft:infinity", "lvl": 1}]}}},
+    { "model": "minecraft:item/luck_of_the_sea", "predicate": {"nbt": { "StoredEnchantments": [{"id": "minecraft:luck_of_the_sea", "lvl": 1}]}}},
+    { "model": "minecraft:item/riptide", "predicate": {"nbt": { "StoredEnchantments": [{"id": "minecraft:riptide", "lvl": 1}]}}},
+    { "model": "minecraft:item/silk_touch", "predicate": {"nbt": { "StoredEnchantments": [{"id": "minecraft:silk_touch", "lvl": 1}]}}},
+    { "model": "minecraft:item/sweeping", "predicate": {"nbt": { "StoredEnchantments": [{"id": "minecraft:sweeping", "lvl": 1}]}}},
+    { "model": "minecraft:item/unbreaking", "predicate": {"nbt": { "StoredEnchantments": [{"id": "minecraft:unbreaking", "lvl": 1}]}}},
+    { "model": "minecraft:item/vanishing_curse", "predicate": {"nbt": { "StoredEnchantments": [{"id": "minecraft:vanishing_curse", "lvl": 1}]}}}
+    
+  ]
+}

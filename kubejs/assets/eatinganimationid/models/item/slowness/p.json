@@ -1,0 +1,37 @@
+{
+    "parent":"item/generated",
+    "textures": {
+        "layer0":"eatinganimationid:item/o",
+        "layer1":"eatinganimationid:item/slowness/p"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "drinking": 1,
+                "drink": 0.1
+            },
+            "model": "eatinganimationid:item/slowness/p/0"
+        },
+        {
+            "predicate": {
+                "drinking": 1,
+                "drink": 0.35
+            },
+            "model": "eatinganimationid:item/slowness/p/1"
+        },
+        {
+            "predicate": {
+                "drinking": 1,
+                "drink": 0.70
+            },
+            "model": "eatinganimationid:item/slowness/p/2"
+        },
+        {
+            "predicate": {
+                "drinking": 1,
+                "drink": 0.90
+            },
+            "model": "eatinganimationid:item/slowness/p/3"
+        }
+    ]
+}

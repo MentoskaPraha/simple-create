@@ -1,5 +1,5 @@
 # Exclude exported Modrinth modpacks and macOS metafiles
 *.mrpack
 .DS_Store
-data
-backups
+/data
+/backups
