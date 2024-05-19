@@ -32,7 +32,6 @@ This list has all the mods that add content to the game.
 | [Create: Liftoff](https://createsimulated.com/) | Client and Server | Planned, once mod is complete. | N/A |
 | [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) | Client and Server | Used | ✅ |
 | [Create: Enchantement Industry](https://modrinth.com/mod/AEZO385x) | Client and Server | Used | ✅ |
-| [Create: Big Cannons](https://modrinth.com/mod/GWp4jCJj) | Client and Server | Used | Support for [Create](https://modrinth.com/mod/Xbc0uyRg) patch F is required |
 | [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Client and Server | Custom Version Used (see details bellow) | ✅ |
 | [Create: Extended Bogeys](https://github.com/Rabbitminers/Extended-Bogeys) | Client and Server | Planned, once mod is complete. | N/A |
 | [Create: Ore Excavation](https://modrinth.com/mod/ResbpANg) | Client and Server | Used | ✅ |
@@ -40,15 +39,22 @@ This list has all the mods that add content to the game.
 | [Create: Origins](https://modrinth.com/mod/PnhmwLM0) | Client and Server | Used | ✅ |
 | [Origins](https://modrinth.com/mod/3BeIrqZR) | Client and Server | Used | ✅ |
 | [Farmer's Delight](https://modrinth.com/mod/4EakbH8e) | Client and Server | Used | ✅ |
-| [Farmer's Delight Refabricated](https://modrinth.com/mod/7vxePowz) | Client and Server | Used | ✅ |
+| [Farmer's Delight Refabricated](https://modrinth.com/mod/7vxePowz) | Client and Server | Planned, once we update to `1.20.1`. | ✅ |
 | [Lovely Snails](https://modrinth.com/mod/hBVVhStr) | Client and Server | Used | ✅ |
 | [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) | Client and Server | Used | ✅ |
-| [Chipped](https://modrinth.com/mod/BAscRYKm) | Client and Server | Used | ✅ |
-| [Every Compat (Wood Good)](https://modrinth.com/mod/eiktJyw1) | Client and Server | Used | ✅ |
 | [Chalk](https://modrinth.com/mod/OrtjXTCH) | Client and Server | Used | ✅ |
 | [Pick Your Poison](https://modrinth.com/mod/EHjFQKek) | Client and Server | Used | ✅ |
 | [Blast](https://modrinth.com/mod/hrVBD9fd) | Client and Server | Used | ✅ |
 | [Charter](https://modrinth.com/mod/hGMwZahr) | Client and Server | Planned, once mod rewrite is complete. | N/A |
+
+### Building Mods
+These mods add cool new blocks and other things to build with.
+|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.1 Upgrade |
+| :---------------------| :-----------------: | :-------------------: | :---------------: |
+| [Chipped](https://modrinth.com/mod/BAscRYKm) | Client and Server | Used | ✅ |
+| [Every Compat (Wood Good)](https://modrinth.com/mod/eiktJyw1) | Client and Server | Used | ✅ |
+| [Create: Deco](https://modrinth.com/mod/sMvUb4Rb) | Client and Server | Planned, once we update to `1.20.1`. | N/A |
+| [Create: Copycats+](https://modrinth.com/mod/UT2M39wf) | Client and Server | Used | ✅ |
 
 ### Rework Mods
 These mods rework certain aspects of the game, usually changing them completely.
@@ -58,7 +64,6 @@ These mods rework certain aspects of the game, usually changing them completely.
 | [Do a Barrel Roll](https://modrinth.com/mod/6FtRfnLg) | Client and Server | Used | ✅ |
 | [Enchancement](https://modrinth.com/mod/6hN1V6wJ) | Client and Server | Used | ✅ |
 | [Impaled](https://modrinth.com/mod/AiHAhIP5) | Client and Server | Used | `1.20.1` Version Required |
-| [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) | Client | Used | ✅ |
 
 ### Utility Mods
 These mods add certain useful utilities to the game.
@@ -66,10 +71,16 @@ These mods add certain useful utilities to the game.
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.1 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [AppleSkin](https://modrinth.com/mod/EsAfCjCV) | Client and Server | Used | ✅ |
+| [Better Advancements](https://modrinth.com/mod/Q2OqKxDG) | Client | Used | ✅ |
+| [Better Compatibility Checker](https://modrinth.com/mod/KJhXPbHQ) | Client and Server | Used | ✅ |
+| [Better Mount HUD](https://modrinth.com/mod/kqJFAPU9) | Client | Used | ✅ |
+| [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) | Client | Used | ✅ |
+| [Better Command Block UI](https://modrinth.com/mod/8iQcgjQ2) | Client | Used | ✅ |
 | [BetterF3](https://modrinth.com/mod/8shC1gFX) | Client | Used | ✅ |
 | [Boat Item View](https://modrinth.com/mod/BdKIyOLe) | Client | Used | ✅ |
 | [Chunky](https://modrinth.com/mod/fALzjamp) | Server | Used | ✅ |
-| [ItemSwapper](https://modrinth.com/mod/RPOSBQgq) | Client | Used | ✅ |
+| [Food Effect Tooltips](https://modrinth.com/mod/GGfyJWnG) | Client | Used | ✅ |
+| [ItemSwapper](https://modrinth.com/mod/RPOSBQgq) | Client and Server | Used | ✅ |
 | [Jade Addons](https://modrinth.com/mod/fThnVRli) | Client and Server | Used | ✅ |
 | [Jade](https://modrinth.com/mod/nvQzSEkH) | Client and Server | Used | ✅ |
 | [NBT Tooltip](https://modrinth.com/mod/G0GDoyVf) | Client | Used | ✅ |
@@ -130,18 +141,10 @@ These mods fix certain aspects of the game.
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Advancement Debug](https://modrinth.com/mod/rxMTwxyO) | Client and Server | Used, mod will be removed on update to `1.20.1`. | N/A |
 | [AntiGhost](https://modrinth.com/mod/Jw3Wx1KR) | Client | Used | ✅ |
-| [Better Advancements](https://modrinth.com/mod/Q2OqKxDG) | Client | Used | ✅ |
-| [Better Compatibility Checker](https://modrinth.com/mod/KJhXPbHQ) | Client and Server | Used | ✅ |
-| [Better Mount HUD](https://modrinth.com/mod/kqJFAPU9) | Client | Used | ✅ |
-| [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) | Client | Used | ✅ |
-| [Better Command Block UI](https://modrinth.com/mod/8iQcgjQ2) | Client | Used | ✅ |
 | [Block Limit Fix](https://modrinth.com/mod/oJtNN7Tj) | Client and Server | Used, mod will be removed on update to `1.20.1`. | N/A |
 | [Dark Loading Screen](https://modrinth.com/mod/h3XWIuzM) | Client | Used | ✅ |
 | [Debugify](https://modrinth.com/mod/QwxR6Gcd) | Client and server | Used | ✅ |
 | [Enchantment Descriptions](https://modrinth.com/mod/UVtY3ZAC) | Client | Used | ✅ |
-| [Food Effect Tooltips](https://modrinth.com/mod/GGfyJWnG) | Client | Used | ✅ |
-| [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA) | Client | Used | ✅ |
-| [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) | Client | Used | ✅ |
 | [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) | Client | Used | ✅ |
 | [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) | Client | Used | ✅ |
 | [NBT Autocomplete](https://modrinth.com/mod/UR0ocuEt) | Client | Used | ✅ |
@@ -159,6 +162,9 @@ These mods allow texturepacks to work and rework some textures sometimes.
 | [Effective](https://modrinth.com/mod/pcPXJeZi) | Client | Used | ✅ |
 | [Cave Dust](https://modrinth.com/mod/jawg7zT1) | Client | Used | ✅ |
 | [Particle Rain](https://modrinth.com/mod/nrikgvxm) | Client, needs to be updated manually | Used | ✅ |
+| [LambdaBetterGrass](https://modrinth.com/mod/2Uev7LdA) | Client | Used | ✅ |
+| [LambDynamicLights](https://modrinth.com/mod/yBW8D80W) | Client | Used | ✅ |
+| [Iris](https://modrinth.com/mod/YL57xq9U) | Client | Used | ✅ |
 | [Make Bubbles Pop](https://modrinth.com/mod/gPCdW0Wr) | Client | Used | ✅ |
 | [Presence Footsteps](https://modrinth.com/mod/rcTfTZr3) | Client | Used | ✅ |
 | [Nyf's Spiders](https://modrinth.com/mod/dOGM7ccu) | Client | Used | ✅ |
@@ -167,25 +173,32 @@ These mods allow texturepacks to work and rework some textures sometimes.
 | [Iris Shaders](https://modrinth.com/mod/YL57xq9U) | Client | Used | ✅ |
 | [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) | Client | Used | ✅ |
 
+### Sound Mods
+These mods rework sounds, allowing for the game to sound amazing.
+
+|  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.1 Upgrade |
+| :---------------------| :-----------------: | :-------------------: | :---------------: |
+| [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) | Client | Not Used, due to incompatability with [Create](https://modrinth.com/mod/Xbc0uyRg), see [Issue #172](https://github.com/henkelmax/sound-physics-remastered/issues/172) | ✅ |
+| [ExtraSounds](https://modrinth.com/mod/uPWCQrVL) | Client | Used, mod will be removed on update to `1.20.1`. | N/A |
+| [Sounds](https://modrinth.com/mod/ZouiUX7t) | Client | Planned, once we update to `1.20.1`. | N/A |
+| [AmbientSounds](https://modrinth.com/mod/fM515JnW) | Client | Used | ✅ |
+| [AudioPlayer](https://modrinth.com/mod/SRlzjEBS) | Client | Used | ✅ |
+
 ### Misc Mods
 These mods didn't fit into any of the other categories so, they're just dumbed in this one.
 
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.20.1 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Advancement Plaques](https://modrinth.com/mod/9NM0dXub) | Client | Used | ✅ |
-| [AmbientSounds](https://modrinth.com/mod/fM515JnW) | Client | Used | ✅ |
-| [AudioPlayer](https://modrinth.com/mod/SRlzjEBS) | Client | Used | ✅ |
 | [Carry On](https://modrinth.com/mod/joEfVgkn) | Client and Server | Used | ✅ |
 | [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ) | Client | Used | ✅ |
 | [ClearDespawn](https://modrinth.com/mod/yoJJjRRE) | Client | Used | ✅ |
 | [ClickThrough](https://modrinth.com/mod/Z5b0cAlD) | Client | Used, mod will be removed on update to `1.20.1`. | N/A |
 | [Clickthrough 2.0](https://modrinth.com/mod/ERHOxvaH) | Client | Planned, once we update to `1.20.1`. | ✅ |
+| [Continue Button](https://modrinth.com/mod/6DpItqEj) | Client | Used | ✅ |
 | [Discord Integration](https://modrinth.com/mod/rbJ7eS5V) | Server | Used | ✅ |
 | [EnchantedShulkers](https://modrinth.com/mod/vUi6HFie) | Client and Server | Used | ✅ |
-| [ExtraSounds](https://modrinth.com/mod/uPWCQrVL) | Client | Used, mod will be removed on update to `1.20.1`. | N/A |
-| [Sounds](https://modrinth.com/mod/ZouiUX7t) | Client | Planned, once we update to `1.20.1`. | N/A |
 | [Global Packs](https://modrinth.com/mod/NRLPy2mk) | Client and Server | Used | ✅ |
-| [KubeJS Create](https://modrinth.com/mod/T38eAZQC) | Client and Server | Used | ✅ |
 | [KubeJS](https://modrinth.com/mod/umyGl7zF) | Client and Server | Used | ✅ |
 | [Mod Menu](https://modrinth.com/mod/mOgUt4GM) | Client | Used | ✅ |
 | [MoreChatHistory](https://modrinth.com/mod/8qkXwOnk) | Client | Used | ✅ |
@@ -194,7 +207,7 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [ReplayMod](https://modrinth.com/mod/Nv2fQJo5) | Client | Used | ✅ |
 | [Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg) | Client | Used | ✅ |
 | [Simple Voice Chat](https://modrinth.com/mod/9eGKb6K1) | Client and Server | Used | ✅ |
-| [Spirit Walker](https://modrinth.com/mod/zbX4s3vj) | Client and Server | Used | ✅ |
+| [Freecam](https://modrinth.com/mod/XeEZ3fK2) | Client | Used | ✅ |
 | [Traveler's Titles](https://modrinth.com/mod/JtifUr64) | Client | Used | ✅ |
 
 ### Library Mods

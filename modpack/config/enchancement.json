@@ -55,7 +55,7 @@
 	"randomMobEnchantments": true,
 	"rebalanceArmor": true,
 	"safeChanneling": true,
-	"tridentsReturnFromVoid": true,
+	"tridentsReturnFromVoid": false,
 	"weakerFireAspect": true,
 	"weakerGoldenApple": true,
 	"weakerPotions": true,

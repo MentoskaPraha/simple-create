@@ -22,7 +22,7 @@ hash = "a900ba20a3d8ad7cd4caf6403b0b6971d99953e35104797342f9ed5bf1cd1bf1"
 
 [[files]]
 file = "config/bcc.json"
-hash = "9e3f8cea71da42a2e26f9a8041e1115153e21749af6f531bd89ecb4415dbb768"
+hash = "8b7da0eb9b1760c54bc590cf121cc11312403ccba419a52955f334c612db9f9c"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -42,7 +42,7 @@ hash = "69ddad2cb637deba48766fa9a8946764a7cd8e7e8c07588560b426cf8a587c62"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "38b64793d63d1227188d6e5415a211903dd7ff0f4208f7582d663cda34128df5"
+hash = "b6798bdb041c768ca81a7611a34bf2dac917cc356f88a6c1de0a9074a1d3841d"
 
 [[files]]
 file = "config/lithium.properties"
@@ -3533,12 +3533,12 @@ file = "kubejs/data/Wandering-Trades.zip"
 hash = "5c92c292ed118e3b11199698cb4fad5a8762318d10bfddb071394565a4305c08"
 
 [[files]]
-file = "kubejs/server_scripts/coin-recipes.js"
-hash = "8d3757204ded25ff571c8840036734291646983754f58ffff560834f695182a8"
+file = "kubejs/data/custom-crafting/recipes/netherrack.json"
+hash = "93416d07e459ce63910712df5ef1866dcf54b072a261b224ca19728b96db0c46"
 
 [[files]]
-file = "kubejs/server_scripts/custom-recipes.js"
-hash = "e39cdbce2c0f37eb236a461cf719536ab4f621c808af6be2c42a2186fe766771"
+file = "kubejs/server_scripts/coin-recipes.js"
+hash = "8d3757204ded25ff571c8840036734291646983754f58ffff560834f695182a8"
 
 [[files]]
 file = "kubejs/server_scripts/origins-foods-compatibility.js"
@@ -3546,7 +3546,22 @@ hash = "426db7e776f68eac677f02630867e1c1b258ee6ee480253749e6e7645e831fe7"
 
 [[files]]
 file = "kubejs/startup_scripts/custom-items.js"
-hash = "ca956899726d4cc23780fdfeff72a739565834bb555a2358b193a2569559c27c"
+hash = "8a5ab665672284be4e39a1979776164d26b1ff166e7009418227c7b88345ba22"
+
+[[files]]
+file = "mods/building/chipped.pw.toml"
+hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
+metafile = true
+
+[[files]]
+file = "mods/building/copycats.pw.toml"
+hash = "bb8ae5c9f121ba0e2d617eaeb528aa0a0aaa3b76eaa7ea156d23883c5ba55571"
+metafile = true
+
+[[files]]
+file = "mods/building/every-compat.pw.toml"
+hash = "31b3f9a173b498339ef0018adbbd35e02ff7d953cd71729753213a7b8ea65b75"
+metafile = true
 
 [[files]]
 file = "mods/content/blast.pw.toml"
@@ -3559,23 +3574,13 @@ hash = "3b1ab484e2e6240f704b382d169d98f69ba3a312d89c0027f56e9ed7cd549c7f"
 metafile = true
 
 [[files]]
-file = "mods/content/chipped.pw.toml"
-hash = "60eea1bbbf59860d54d9d66b0961e2f414586f1fbc66a416e5c02f34e883b1aa"
-metafile = true
-
-[[files]]
-file = "mods/content/create-big-cannons.pw.toml"
-hash = "4a2b9a2a43ca3651b5c1a9a93e841283c95c96f5f5feb8262ed9de31e5234aa3"
-metafile = true
-
-[[files]]
 file = "mods/content/create-enchantment-industry-fabric.pw.toml"
 hash = "23356a49d285b0c2844a7586cffd84e5d1af7f866e3602903205a72d580d5f3f"
 metafile = true
 
 [[files]]
 file = "mods/content/create-fabric.pw.toml"
-hash = "f405a134ed1beb4ea967afdd2eaa9b70287f8f88084d6859d86108ec21ab0d49"
+hash = "521ecd5a27fbfd5d0d2904a9a1dd5f4c202a49d172e0a9f5a819db55a61604d2"
 metafile = true
 
 [[files]]
@@ -3590,17 +3595,13 @@ metafile = true
 
 [[files]]
 file = "mods/content/create-steam-n-rails.pw.toml"
-hash = "eb102d4c9343c7ea43be9a26bc4e6673d8afe7f8e84eb072f9ed286adafc996a"
+hash = "44760e01de91df25f39b6dac5c265af4b6893ecde930c821c7b02cf3334e36a1"
 metafile = true
 
 [[files]]
-file = "mods/content/every-compat.pw.toml"
-hash = "01d5a0f9f91399b011c27f93adc31381a7e79d09636ed25995db288fb09fd148"
+file = "mods/content/extended-cogwheels.pw.toml"
+hash = "d77bd4aaf304323614808767dd5265368b5becdc7916bb303dda63d774ace5c9"
 metafile = true
-
-[[files]]
-file = "mods/content/extendedgears-2.1.0-1.19.2-0.5.1.c-fabric+custom-build.jar"
-hash = "951431fa7c4f7aca2205b6276759d4b9b9da332ffd338dab67a4f7ed3dd2cbfb"
 
 [[files]]
 file = "mods/content/farmers-delight-fabric.pw.toml"
@@ -3629,7 +3630,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/travelersbackpack.pw.toml"
-hash = "51aeef2909959901b1989d8756855375396c68f09b9a15bd00466d08e4cb6c4d"
+hash = "959fd2436cd78e882f8804d98021daddd0c0583ef6fb3a2a281243d67100c8f5"
 metafile = true
 
 [[files]]
@@ -3640,31 +3641,6 @@ metafile = true
 [[files]]
 file = "mods/fixes/antighost.pw.toml"
 hash = "a0ccdbeba73ba4d5992ec991241cfa323f416631385ce2da9b93c24ef9c979e3"
-metafile = true
-
-[[files]]
-file = "mods/fixes/better-advancements.pw.toml"
-hash = "264b4befe71497f87077d33d4cb3fec1e3395694833a12a95b42e6de590f7a1d"
-metafile = true
-
-[[files]]
-file = "mods/fixes/better-compatibility-checker.pw.toml"
-hash = "862b44d2518412d15eccc133f2bc8d321f96b605a96c56724a55508dd4180062"
-metafile = true
-
-[[files]]
-file = "mods/fixes/better-mount-hud.pw.toml"
-hash = "fa7eed08ecb81a2cc3ec4f9cc5387874936f2496a5739ec71d263a6f26a45c34"
-metafile = true
-
-[[files]]
-file = "mods/fixes/better-stats.pw.toml"
-hash = "267424a24a97d0f0add3dd2db33e25f29ced59958f61bd4cd4c1c0ed1f40b0af"
-metafile = true
-
-[[files]]
-file = "mods/fixes/bettercommandblockui.pw.toml"
-hash = "d0da0fac043039200f0b903770640f6f4f5e9bab5dbd685afa7857e5f82b0cc3"
 metafile = true
 
 [[files]]
@@ -3685,21 +3661,6 @@ metafile = true
 [[files]]
 file = "mods/fixes/enchantment-descriptions.pw.toml"
 hash = "1f87846265206279eb38e4ce9b4f69cb3a4401e8074fc69f039100713e525e58"
-metafile = true
-
-[[files]]
-file = "mods/fixes/foodeffecttooltips.pw.toml"
-hash = "baff407819a6c5abaeea5fb19918706070283df823cebb0f8e62c0b42fc545c3"
-metafile = true
-
-[[files]]
-file = "mods/fixes/lambdabettergrass.pw.toml"
-hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
-metafile = true
-
-[[files]]
-file = "mods/fixes/lambdynamiclights.pw.toml"
-hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
@@ -3789,7 +3750,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/qsl.pw.toml"
-hash = "5cc176932a27866d8ecd5cf168d91d96520e667567035aad7e22523841df2f97"
+hash = "5c32754581f5be9dceca7be3e2d5d6dc9fb35406c87449b46e69e2bb7afc9755"
 metafile = true
 
 [[files]]
@@ -3828,16 +3789,6 @@ hash = "0dab01471af606f39a1a447537a0df53505b9ee020cef4a488de6b62ac911bd2"
 metafile = true
 
 [[files]]
-file = "mods/misc/ambientsounds.pw.toml"
-hash = "bcc01d6329bbe6dc0df4c84a158d940ab1666f83f33100e7cd7d6879276cc15b"
-metafile = true
-
-[[files]]
-file = "mods/misc/audioplayer.pw.toml"
-hash = "1f8ecbcd6c56e7bab1bca1a94a076fe9801ad9c2e6878629ed43461244d2297b"
-metafile = true
-
-[[files]]
 file = "mods/misc/carry-on.pw.toml"
 hash = "78a55cd6aa6ac75610e8273cee84077e7ed3ef1503c4648d59b63a63f0e00cb2"
 metafile = true
@@ -3858,6 +3809,11 @@ hash = "0b307a8cfdc3f214c384fc9f8e34e786373efbf3874715947ef8a6bedcb5806c"
 metafile = true
 
 [[files]]
+file = "mods/misc/continue.pw.toml"
+hash = "5bba7ebad1eba042d8f98f0bc617c2de7123c4da2ac4da040b0b9987cec4c7cc"
+metafile = true
+
+[[files]]
 file = "mods/misc/dcintegration.pw.toml"
 hash = "507655427b794decd3a154060eb63685b83c53a475ae1a55b0c876bc2c000dbc"
 metafile = true
@@ -3868,18 +3824,13 @@ hash = "29f6f57a4f8fe861db939f260b16c72bf22ef8e904f53bb309779475feeccabf"
 metafile = true
 
 [[files]]
-file = "mods/misc/extrasounds.pw.toml"
-hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
+file = "mods/misc/freecam.pw.toml"
+hash = "73c8ecd7e5177807be5b4155f4c3e5a0f8e8f02f7422b716059dbe7a6b62c603"
 metafile = true
 
 [[files]]
 file = "mods/misc/globalpacks.pw.toml"
 hash = "2f3d78980ca33ab11a46413f80bcd53f7d14245759006a158b05da6d2ebee63a"
-metafile = true
-
-[[files]]
-file = "mods/misc/kubejs-create.pw.toml"
-hash = "c5de61a84348cb75101bcd9e3067b689db172d25d13ecde51750d05ead2bf444"
 metafile = true
 
 [[files]]
@@ -3919,12 +3870,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/simple-voice-chat.pw.toml"
-hash = "7b96e272948b88339104a325917724604adf16598cc2d0ffe1cb25314cf8f12e"
-metafile = true
-
-[[files]]
-file = "mods/misc/spirit-walker.pw.toml"
-hash = "63d3eb4e21e33db00d3ac42eba1aacebf3bfc7cbdf9a28c5ffdf14d8652260ff"
+hash = "a9df936e6714dce531e85b0e39567857105a21202f5ed86651a7eba8a51323df"
 metafile = true
 
 [[files]]
@@ -4018,8 +3964,18 @@ hash = "717e42c31fd9e80097f4d21ed6c138094a0025b53dfcf14d780c0078eb1b8722"
 metafile = true
 
 [[files]]
-file = "mods/reworks/sound-physics-remastered.pw.toml"
-hash = "5e37c2458f2f92a16eca8ef74f8bbb82c7e6bd6550eff47fdebfbc608848af74"
+file = "mods/sound/ambientsounds.pw.toml"
+hash = "bcc01d6329bbe6dc0df4c84a158d940ab1666f83f33100e7cd7d6879276cc15b"
+metafile = true
+
+[[files]]
+file = "mods/sound/audioplayer.pw.toml"
+hash = "8dac448af3cc434a893ddd38f134204e084d40381cd7d4f7fe57c857dc003831"
+metafile = true
+
+[[files]]
+file = "mods/sound/extrasounds.pw.toml"
+hash = "2e871ee3068cfb44e799d244f4e586e6f32e5708b16a6832939c3c4f01d91170"
 metafile = true
 
 [[files]]
@@ -4143,6 +4099,16 @@ hash = "14e50c7cd16b4650d3a491f5f31bc00af6be0c290734db9552852ab1de9bc3bb"
 metafile = true
 
 [[files]]
+file = "mods/textures/lambdabettergrass.pw.toml"
+hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
+metafile = true
+
+[[files]]
+file = "mods/textures/lambdynamiclights.pw.toml"
+hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
+metafile = true
+
+[[files]]
 file = "mods/textures/make_bubbles_pop.pw.toml"
 hash = "d4940d5261b39bb36efa8b823a67c64104f7c3371eb13646423a811ef37d8b0b"
 metafile = true
@@ -4163,12 +4129,37 @@ metafile = true
 
 [[files]]
 file = "mods/textures/quilted_clear_skies.pw.toml"
-hash = "f744039c8442c6f5e4fbf5f93f22132b8cad023e58bd06b603ef374cf3130204"
+hash = "9c2569dc39e5cf84340be04425d566b6b16b404637c602d4c8ca8aac6e1ad80a"
 metafile = true
 
 [[files]]
 file = "mods/utils/appleskin.pw.toml"
 hash = "602b1ad3cc17ce560a449be683de62a2e7b0babbb945a4c2229c146bca9692ee"
+metafile = true
+
+[[files]]
+file = "mods/utils/better-advancements.pw.toml"
+hash = "264b4befe71497f87077d33d4cb3fec1e3395694833a12a95b42e6de590f7a1d"
+metafile = true
+
+[[files]]
+file = "mods/utils/better-compatibility-checker.pw.toml"
+hash = "862b44d2518412d15eccc133f2bc8d321f96b605a96c56724a55508dd4180062"
+metafile = true
+
+[[files]]
+file = "mods/utils/better-mount-hud.pw.toml"
+hash = "fa7eed08ecb81a2cc3ec4f9cc5387874936f2496a5739ec71d263a6f26a45c34"
+metafile = true
+
+[[files]]
+file = "mods/utils/better-stats.pw.toml"
+hash = "267424a24a97d0f0add3dd2db33e25f29ced59958f61bd4cd4c1c0ed1f40b0af"
+metafile = true
+
+[[files]]
+file = "mods/utils/bettercommandblockui.pw.toml"
+hash = "d0da0fac043039200f0b903770640f6f4f5e9bab5dbd685afa7857e5f82b0cc3"
 metafile = true
 
 [[files]]
@@ -4187,8 +4178,13 @@ hash = "7ed22be52dd112450b1770ef41d05768a4c44fa04442ffe244dd94fe2de35038"
 metafile = true
 
 [[files]]
+file = "mods/utils/foodeffecttooltips.pw.toml"
+hash = "baff407819a6c5abaeea5fb19918706070283df823cebb0f8e62c0b42fc545c3"
+metafile = true
+
+[[files]]
 file = "mods/utils/itemswapper.pw.toml"
-hash = "4ee2934e90a2e1a508139ff83e5e21d88debd88223c7c235c057bf26fe7f10f5"
+hash = "cdc6994dedc82cf7807f6afbdde9000cf11841c174008b2aad20f62d9b0b08c7"
 metafile = true
 
 [[files]]
@@ -4208,7 +4204,7 @@ metafile = true
 
 [[files]]
 file = "mods/utils/rei.pw.toml"
-hash = "036e1c7dfc11c1cfc68844d17bc1e0c38732072c99526a10a5bec71dd4c0e021"
+hash = "79b18b786060ead1bc6f9f701b706b04e56902abd000ed1c9b00750aa0a9f3b1"
 metafile = true
 
 [[files]]
@@ -4228,7 +4224,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "35493589da6a8631af4da6fb38cc06ee442e9c4b9b3a662847e4bce5399b8b66"
+hash = "93b5974fd1bd58abfc280fe7ca0680954aa83756e9ce61a08449bab7e05ad946"
 
 [[files]]
 file = "resourcepacks/VanillaTweaks.zip"

@@ -22,7 +22,6 @@ StartupEvents.registry("item", event => {
 		.food(food => {
 			food
 				.effect("minecraft:levitation", 200, 99, 0.1)
-				.effect("spirit-walker:spirit_walk", 200, 1, 0.1)
 				.effect("pickyourpoison:comatose", 200, 0, 0.2)
 				.effect("minecraft:nausea", 600, 3, 1)
 				.effect("farmersdelight:comfort", 1800, 0, 0.5)
