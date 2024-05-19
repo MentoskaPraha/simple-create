@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "compose.yaml"
-hash = "8d2447ba7cbf979cc8b96d84fe8afe74a6cea6786bd3000764732317a85f36dc"
-
-[[files]]
 file = "config/Discord-Integration.toml"
 hash = "ab2fb21c4732e8e0a7094e5f33ee4b7ae2b27b2928b64109489e7de05e54d3cf"
 
@@ -34,7 +30,11 @@ hash = "2c728cfd2c02f5de7f2518f0c73675751c1a070b26e861c5c8a71ec6f71557a3"
 
 [[files]]
 file = "config/bcc.json"
-hash = "8b7da0eb9b1760c54bc590cf121cc11312403ccba419a52955f334c612db9f9c"
+hash = "a1af9cd9354f94a9640d9100490fc778a4a94e99bd54267b06084fa3392b494a"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "ade365a1dc838a6fed2323e36390c30131f8802a85f0afb9cc9d8b1f4f994097"
 
 [[files]]
 file = "config/bclib/server.json"
@@ -58,7 +58,7 @@ hash = "b6798bdb041c768ca81a7611a34bf2dac917cc356f88a6c1de0a9074a1d3841d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ff08c7ca1273ca79a928d470370fa9ebead214fc2d7a3a496321755170414c4c"
+hash = "0468a348bac5023a4cc7555e1023652bd461772577524007b95b6ef1366c3dae"
 
 [[files]]
 file = "config/lithium.properties"
@@ -82,7 +82,7 @@ hash = "052512422e9edca0e95592015a956c76d130fbb2d04bfd6715fd9c9a3ac86eb9"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "9b9b8af687261a814b6cb219775f6286f690273b2411d4d199017e75d1d189e9"
+hash = "1c359612add3529de0109c646011c64d6ddbb77cfce704db281d78f8d281b3e4"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -3554,15 +3554,15 @@ hash = "93416d07e459ce63910712df5ef1866dcf54b072a261b224ca19728b96db0c46"
 
 [[files]]
 file = "kubejs/server_scripts/coin-recipes.js"
-hash = "8d3757204ded25ff571c8840036734291646983754f58ffff560834f695182a8"
+hash = "a85f9fd5172fe6933e5412efde7cfb9b72100c70c734408a69f078df89eefab4"
 
 [[files]]
 file = "kubejs/server_scripts/origins-foods-compatibility.js"
-hash = "426db7e776f68eac677f02630867e1c1b258ee6ee480253749e6e7645e831fe7"
+hash = "33a9319b325d9bcca78b686d3c4b3fc70c10e0a9222d239f023d1986404c9628"
 
 [[files]]
 file = "kubejs/startup_scripts/custom-items.js"
-hash = "8a5ab665672284be4e39a1979776164d26b1ff166e7009418227c7b88345ba22"
+hash = "ea56b7041468b6e713e43391ba378c9b042eb7543efd4f1d5c991ad1b046e854"
 
 [[files]]
 file = "mods/building/chipped.pw.toml"
@@ -3660,11 +3660,6 @@ hash = "102eec6363f711986f22f402338b0d23818227d7137c95c83b6eca419228a555"
 metafile = true
 
 [[files]]
-file = "mods/create/create-origins.pw.toml"
-hash = "98b41adf822f00af6c0caef0f47efc112003bcc1784fd58b7a25c42735f32a59"
-metafile = true
-
-[[files]]
 file = "mods/create/create-power-loader-fabric.pw.toml"
 hash = "70fba7c03aa74167b98cbd4ca7f2ff416a821e74bdb94543fd63f653a2ad6ce7"
 metafile = true
@@ -3700,6 +3695,11 @@ hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
 
 [[files]]
+file = "mods/extra-libs/geckolib.pw.toml"
+hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
+metafile = true
+
+[[files]]
 file = "mods/extra-libs/moonlight.pw.toml"
 hash = "c14f6130b0f0ecd7bd2407d1135328d4e017e7152438f994660eb56f6a2296da"
 metafile = true
@@ -3707,6 +3707,11 @@ metafile = true
 [[files]]
 file = "mods/extra-libs/resourceful-lib.pw.toml"
 hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
+metafile = true
+
+[[files]]
+file = "mods/extra-libs/satin-api.pw.toml"
+hash = "d2cf373e948d483f3cb2bcc9180710a468ece84419dd732e1e8eab8ddcafa36a"
 metafile = true
 
 [[files]]
@@ -3722,6 +3727,11 @@ metafile = true
 [[files]]
 file = "mods/extra-misc/enchantedshulkers.pw.toml"
 hash = "7cb70cf22e1a4fb243bc11d3ebeebacf1417cf37b8986769b63e9cb0e645d107"
+metafile = true
+
+[[files]]
+file = "mods/extra-misc/jade-addons-fabric.pw.toml"
+hash = "063ef9a509d15f98acd95d4032e617b90c9f0d105c8872b9186d6ed16672247a"
 metafile = true
 
 [[files]]
@@ -3892,6 +3902,11 @@ metafile = true
 [[files]]
 file = "mods/libs/iceberg.pw.toml"
 hash = "b60c351dc27fdfefbbce5c51e964e02aac963ae203f8ec3f203d841af449d3a3"
+metafile = true
+
+[[files]]
+file = "mods/libs/indium.pw.toml"
+hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
@@ -4105,11 +4120,6 @@ hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
 metafile = true
 
 [[files]]
-file = "mods/sounds/sound-physics-remastered.pw.toml"
-hash = "cfeac7b1e393b702a18e76e887a4857b021b2fa56a62261513b715d2c8e35833"
-metafile = true
-
-[[files]]
 file = "mods/terrain/terralith.pw.toml"
 hash = "bfe46c098031de85aa222b0460dbe5a35aff9ce5c071543ec807f2ec18c15959"
 metafile = true
@@ -4167,11 +4177,6 @@ metafile = true
 [[files]]
 file = "mods/terrain/yungs-extras.pw.toml"
 hash = "3f0ac032a4f89382745b03a8e1078041f728d9e4f2df14fa9eb910382b98b1c4"
-metafile = true
-
-[[files]]
-file = "mods/textures/better-end-sky.pw.toml"
-hash = "9d5eb5ff51dfc7123dfea318a027ec5fdf96ac9a29451367ce36cfcb88833679"
 metafile = true
 
 [[files]]
@@ -4321,7 +4326,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ca28811343320f8d0c1a03fe30366888af44d33e3815a33318bfbffee8613ff6"
+hash = "e4e24a075984c46c2f61ae03a9c863d748ba56b95dbc1515f668d37ce9d83d68"
 
 [[files]]
 file = "resourcepacks/Vanilla_Tweaks.zip"
@@ -4331,10 +4336,6 @@ hash = "df6a008d297de483b0ec257bce276c3b86652148deb8e6b334a783a02ba63b1c"
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
 metafile = true
-
-[[files]]
-file = "simple-create-logo.jpeg"
-hash = "fbcd6e27f71d25251dbfd481b4b6992a7bf3a47a72679dec20c41df98decbea1"
 
 [[files]]
 file = "simple-create-vertical-banner.png"

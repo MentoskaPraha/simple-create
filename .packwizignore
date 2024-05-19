@@ -10,3 +10,6 @@ LICENSE
 .DS_Store
 /data
 /backups
+compose.yaml
+simple-create-logo.jpeg
+simple-create-vertical-banner.jpeg

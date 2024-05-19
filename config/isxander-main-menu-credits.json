@@ -1,26 +1,27 @@
 {
   "main_menu": {
     "top_left": [
-      "Modpack: Simple Create"
-    ],
-    "top_right": [
+      "Modpack: Simple Create",
+      "",
       "Authors:",
       "MentoskaPraha",
       "Gljue"
     ],
+    "top_right": [],
     "bottom_left": [],
     "bottom_right": [],
     "mod_blacklist": []
   },
   "pause_menu": {
-    "top_left": [],
-    "top_right": [],
-    "bottom_left": [
-      "Gljue",
+    "top_left": [
+      "Modpack: Simple Create",
+      "",
+      "Authors:",
       "MentoskaPraha",
-      "Authors",
-      "Modpack: Simple Create"
+      "Gljue"
     ],
+    "top_right": [],
+    "bottom_left": [],
     "bottom_right": [],
     "mod_blacklist": []
   }

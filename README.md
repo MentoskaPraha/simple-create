@@ -34,11 +34,10 @@ These are all the mods related to Create.
 | [Create: Steam 'n' Rails](https://modrinth.com/mod/ZzjhlDgM) | Client and Server | Used |  |
 | [Create: Enchantement Industry](https://modrinth.com/mod/AEZO385x) | Client and Server | Used |  |
 | [Create: Big Cannons](https://modrinth.com/mod/GWp4jCJj) | Client and Server | Used |  |
-| [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Client and Server | Custom Version Used (see details bellow) |  |
+| [Create: Extended Cogwheels](https://modrinth.com/mod/qO4lsa4Y) | Client and Server | Used |  |
 | [Create: Extended Bogeys](https://github.com/Rabbitminers/Extended-Bogeys) | Client and Server | Planned, once mod is complete. | N/A |
 | [Create: Ore Excavation](https://modrinth.com/mod/ResbpANg) | Client and Server | Used |  |
 | [Create: Slice and Dice](https://modrinth.com/mod/GmjmRQ0A) | Client and Server | Used |  |
-| [Create: Origins](https://modrinth.com/mod/PnhmwLM0) | Client and Server | Used |  |
 
 ### Content Mods
 This list has all the mods that add content to the game.
@@ -107,6 +106,7 @@ These mods add some extra bits and bobs.
 | [On Soul Fire](https://modrinth.com/mod/HfTvoVqY) | Client and Server | Used |  |
 | [Realistic Fire Spread](https://modrinth.com/mod/7JCIgcfe) | Client and Server | Used |  |
 | [Potion Sauce](https://modrinth.com/mod/btXizr0j) | Client and Server | Used |  |
+| [Jade Addons](https://modrinth.com/mod/fThnVRli) | Client and Server | Used |  |
 
 ### Extra Lib Mods
 These mods make other mods work.
@@ -115,11 +115,13 @@ These mods make other mods work.
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Athena](https://modrinth.com/mod/b1ZV3DIJ) | Client | Used |  |
 | [BCLib](https://modrinth.com/mod/BgNRHReB) | Client and Server | Used |  |
-| [Cardinal Components API](https://modrinth.com/mod/) | Server | Used |  |
+| [Cardinal Components API](https://modrinth.com/mod/K01OU20C) | Server | Used |  |
 | [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) | Client and Server | Used |  |
 | [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) | Client and Server | Used |  |
 | [TerraBlender](https://modrinth.com/mod/kkmrDlKT) | Client and Server | Used |  |
+| [Gecklib](https://modrinth.com/mod/8BmcQJ2H) | Client and Server | Used |  |
 | [ToolTipFix](https://modrinth.com/mod/2RKFTmiB) | Client and Server | Used |  |
+| [Satin API](https://modrinth.com/mod/fRbqPLg4) | Client | Used |  |
 
 ## Mods from Vanilla Modpack
 These are the mods that are inherited from Vanilla Modpack.
@@ -161,6 +163,7 @@ These mods allow all the other mods to work.
 | [CreativeCore](https://modrinth.com/mod/OsZiaDHq) | Client | Used |   |
 | [Forge Config API Port](https://modrinth.com/mod/ohNO6lps) | Client | Used |   |
 | [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client | Used |   |
+| [Indium](https://modrinth.com/mod/Orvt0mRa) | Client | Used |   |
 | [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) | Client or Server | Used |   |
 | [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client | Used |   |
 | [Quilted Fabric API / Quilt Standard Libraries](https://modrinth.com/mod/qvIfYCYJ) | Client | Used |   |
@@ -245,7 +248,7 @@ These mods allow texturepacks to work and rework some textures sometimes.
 
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
-| [Better End Sky](https://modrinth.com/mod/SgJ1iW80) | Client | Used |   |
+| [Better End Sky](https://modrinth.com/mod/SgJ1iW80) | Client | Not Used, as BetterEnd provides the skybox by default. |   |
 | [Blåhaj of Undying](https://modrinth.com/mod/aJb4vlkM) | Client | Used |   |
 | [CIT Resewn](https://modrinth.com/mod/otVJckYQ) | Client | Used |   |
 | [Continuity](https://modrinth.com/mod/1IjD5062) | Client | Used |   |
