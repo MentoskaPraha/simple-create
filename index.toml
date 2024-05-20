@@ -30,7 +30,7 @@ hash = "2c728cfd2c02f5de7f2518f0c73675751c1a070b26e861c5c8a71ec6f71557a3"
 
 [[files]]
 file = "config/bcc.json"
-hash = "a1af9cd9354f94a9640d9100490fc778a4a94e99bd54267b06084fa3392b494a"
+hash = "aa5e565ec7a0aaeb90f81fa33bb13d1773fa3818b85b1006db2e40b9c0290a4b"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -42,7 +42,7 @@ hash = "25c77659150998588c011af422b0da2e3159b2edf80a5b229f076f73bdf8535c"
 
 [[files]]
 file = "config/betterf3.json"
-hash = "9c5b679e4eb28804ec2e609b55e0deeff5bdf5730e52024f549842e585d5132a"
+hash = "6d8ebc11d37431295a789f9ed1bf5ef075eb0174524bbcbae7da7e7e5b5318e0"
 
 [[files]]
 file = "config/do_a_barrel_roll-server.json"
@@ -54,7 +54,7 @@ hash = "69ddad2cb637deba48766fa9a8946764a7cd8e7e8c07588560b426cf8a587c62"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "b6798bdb041c768ca81a7611a34bf2dac917cc356f88a6c1de0a9074a1d3841d"
+hash = "c10e2b947c9be4bd1dfa27cef99da68f82a2ae103040fbeb1f1134fb7c41cc15"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -3630,11 +3630,6 @@ hash = "9e40403b25139c04b8bc2a3eefcf8080f2b973b135a0263f06aa7d8b138698eb"
 metafile = true
 
 [[files]]
-file = "mods/content/superb-steeds.pw.toml"
-hash = "4ddcc796fd8ff0532b86c3ea81b70631061b7b1ad0782b79c9c602807905520b"
-metafile = true
-
-[[files]]
 file = "mods/content/travelersbackpack.pw.toml"
 hash = "c8b62279ce25dc287020134e4e3438d3a06fec88aacd402db2d893efae7182c2"
 metafile = true
@@ -3700,6 +3695,11 @@ hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
 metafile = true
 
 [[files]]
+file = "mods/extra-libs/midnightlib.pw.toml"
+hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
+metafile = true
+
+[[files]]
 file = "mods/extra-libs/moonlight.pw.toml"
 hash = "c14f6130b0f0ecd7bd2407d1135328d4e017e7152438f994660eb56f6a2296da"
 metafile = true
@@ -3756,7 +3756,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-sounds/audioplayer.pw.toml"
-hash = "a80efaf7fd13e0035e4f8f90fba65fdf7e3cfaf3cf399d280f3d9962b7d53317"
+hash = "b93adab04ab3c8cac59537925a2dffc5a59f9b087bbcd5e0f451720c4488032a"
 metafile = true
 
 [[files]]
@@ -4065,6 +4065,11 @@ hash = "b7a7971c44fd891674222a48df8999e379b8658d96ab9b3cf55c17c0b00bd1ce"
 metafile = true
 
 [[files]]
+file = "mods/optimasation/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
 file = "mods/optimasation/entityculling.pw.toml"
 hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
 metafile = true
@@ -4102,6 +4107,16 @@ metafile = true
 [[files]]
 file = "mods/reworks/enchancement.pw.toml"
 hash = "2a08c1c8c0c07f55d0c315a38e338f6458ca7abb50e3692e11482213cabfefe4"
+metafile = true
+
+[[files]]
+file = "mods/reworks/nox-renoxed.pw.toml"
+hash = "470a5084927dfe49279aa2c846751e1d30cec1e35ce3a81f34d5e8baca584c62"
+metafile = true
+
+[[files]]
+file = "mods/reworks/superb-steeds.pw.toml"
+hash = "4ddcc796fd8ff0532b86c3ea81b70631061b7b1ad0782b79c9c602807905520b"
 metafile = true
 
 [[files]]
@@ -4336,7 +4351,3 @@ hash = "df6a008d297de483b0ec257bce276c3b86652148deb8e6b334a783a02ba63b1c"
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
 metafile = true
-
-[[files]]
-file = "simple-create-vertical-banner.png"
-hash = "dada6314dd29df119dc57b147f0fb4257023ecdb621794c493909f831c3105a8"

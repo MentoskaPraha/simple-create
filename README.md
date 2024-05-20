@@ -51,7 +51,6 @@ This list has all the mods that add content to the game.
 | [Chalk](https://modrinth.com/mod/OrtjXTCH) | Client and Server | Used |  |
 | [Pick Your Poison](https://modrinth.com/mod/EHjFQKek) | Client and Server | Used |  |
 | [Blast](https://modrinth.com/mod/hrVBD9fd) | Client and Server | Used |  |
-| [Superb Steeds](https://modrinth.com/mod/UIZkbR3j) | Client and Server | Used |  |
 | [Anthropophagy](https://modrinth.com/mod/P1m6U6IT) | Client and Server | Used |  |
 | [Friends & Foes](https://modrinth.com/mod/POQ2i9zu) | Client and Server | Used |  |
 | [Charter](https://modrinth.com/mod/hGMwZahr) | Client and Server | Planned, once mod rewrite is complete. | N/A |
@@ -73,6 +72,8 @@ These mods rework certain aspects of the game, usually changing them completely.
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Enchancement](https://modrinth.com/mod/6hN1V6wJ) | Client and Server | Used |  |
+| [Superb Steeds](https://modrinth.com/mod/UIZkbR3j) | Client and Server | Used |  |
+| [Nox Renoxed](https://modrinth.com/mod/zJMkwiX4) | Client and Server | Used |  |
 | [Impaled](https://modrinth.com/mod/AiHAhIP5) | Client and Server | Used | `1.20.1` Version Required |
 
 ### Extra Terrain Mods
@@ -116,6 +117,7 @@ These mods make other mods work.
 | [Athena](https://modrinth.com/mod/b1ZV3DIJ) | Client | Used |  |
 | [BCLib](https://modrinth.com/mod/BgNRHReB) | Client and Server | Used |  |
 | [Cardinal Components API](https://modrinth.com/mod/K01OU20C) | Server | Used |  |
+| [MidnightLib](https://modrinth.com/mod/codAaoxh) | Client and Server | Used |  |
 | [Moonlight Lib](https://modrinth.com/mod/twkfQtEc) | Client and Server | Used |  |
 | [Resourceful Lib](https://modrinth.com/mod/G1hIVOrD) | Client and Server | Used |  |
 | [TerraBlender](https://modrinth.com/mod/kkmrDlKT) | Client and Server | Used |  |
@@ -207,6 +209,7 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 | [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) | Server | Used |   |
 | [Cull Less Leaves](https://modrinth.com/mod/iG6ZHsUV) | Client | Used |   |
 | [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) | Client | Used |   |
+| [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) | Client | Used |   |
 | [Entity Culling](https://modrinth.com/mod/NNAgCjsB) | Client | Used |   |
 | [FerriteCore](https://modrinth.com/mod/uXXizFIs) | Client or Server | Used |   |
 | [Noisium](https://modrinth.com/mod/KuNKN7d2) | Client or Server | Used |   |
