@@ -102,6 +102,7 @@ These mods add some extra bits and bobs.
 
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
+| [Carry On](https://modrinth.com/mod/joEfVgkn) | Client and Server | Used |  |
 | [EnchantedShulkers](https://modrinth.com/mod/vUi6HFie) | Client and Server | Used |  |
 | [Nyf's Spiders](https://modrinth.com/mod/dOGM7ccu) | Client and Server | Used |  |
 | [On Soul Fire](https://modrinth.com/mod/HfTvoVqY) | Client and Server | Used |  |
