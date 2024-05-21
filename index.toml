@@ -3676,7 +3676,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-libs/athena-ctm.pw.toml"
-hash = "e5d87db8974fa2b69870d7ea2f0878ae7d9aabd5f6b1cadb0ea45cd641e89f24"
+hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
 metafile = true
 
 [[files]]
@@ -3711,7 +3711,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-libs/satin-api.pw.toml"
-hash = "d2cf373e948d483f3cb2bcc9180710a468ece84419dd732e1e8eab8ddcafa36a"
+hash = "84e17f8c82af158a2985e7c321b11397353212dea528f1ff36ac30ae8c5d5632"
 metafile = true
 
 [[files]]
@@ -3916,7 +3916,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/qkl.pw.toml"
-hash = "8259f5c5b72ef4dc0c816996bfdf055409a467683c34eaa25e7eff881d13dafc"
+hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
 
 [[files]]

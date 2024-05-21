@@ -114,7 +114,7 @@ These mods make other mods work.
 
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
-| [Athena](https://modrinth.com/mod/b1ZV3DIJ) | Client | Used |  |
+| [Athena](https://modrinth.com/mod/b1ZV3DIJ) | Client and Server | Used |  |
 | [BCLib](https://modrinth.com/mod/BgNRHReB) | Client and Server | Used |  |
 | [Cardinal Components API](https://modrinth.com/mod/K01OU20C) | Server | Used |  |
 | [MidnightLib](https://modrinth.com/mod/codAaoxh) | Client and Server | Used |  |
@@ -123,7 +123,7 @@ These mods make other mods work.
 | [TerraBlender](https://modrinth.com/mod/kkmrDlKT) | Client and Server | Used |  |
 | [Gecklib](https://modrinth.com/mod/8BmcQJ2H) | Client and Server | Used |  |
 | [ToolTipFix](https://modrinth.com/mod/2RKFTmiB) | Client and Server | Used |  |
-| [Satin API](https://modrinth.com/mod/fRbqPLg4) | Client | Used |  |
+| [Satin API](https://modrinth.com/mod/fRbqPLg4) | Client and Server | Used |  |
 
 ## Mods from Vanilla Modpack
 These are the mods that are inherited from Vanilla Modpack.
@@ -167,8 +167,8 @@ These mods allow all the other mods to work.
 | [Iceberg](https://modrinth.com/mod/5faXoLqX) | Client | Used |   |
 | [Indium](https://modrinth.com/mod/Orvt0mRa) | Client | Used |   |
 | [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) | Client or Server | Used |   |
-| [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client | Used |   |
-| [Quilted Fabric API / Quilt Standard Libraries](https://modrinth.com/mod/qvIfYCYJ) | Client | Used |   |
+| [Quilt Kotlin Libraries](https://modrinth.com/mod/lwVhp9o5) | Client and Server | Used |   |
+| [Quilted Fabric API / Quilt Standard Libraries](https://modrinth.com/mod/qvIfYCYJ) | Client and Server | Used |   |
 | [Rhino](https://modrinth.com/mod/sk9knFPE) | Client | Used |   |
 | [YetAnotherConfigLib](https://modrinth.com/mod/1eAoo2KR) | Client | Used |   |
 | [YUNG's API](https://modrinth.com/mod/Ua7DFN59) | Client | Used |   |
