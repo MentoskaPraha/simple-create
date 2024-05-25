@@ -30,7 +30,7 @@ hash = "2c728cfd2c02f5de7f2518f0c73675751c1a070b26e861c5c8a71ec6f71557a3"
 
 [[files]]
 file = "config/bcc.json"
-hash = "8d436964cbc375d189ffcd71c1cf742c934838ee3232f891c2f24ae2cfb8a647"
+hash = "6ed9abb64fae47ef8d3386a7e1988b85665d7fbf8029a8f8c7fe39a24afd997d"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -67,6 +67,10 @@ hash = "b9f5e307a79a7a09819c030e86015b9cb82ae38d5d2eb70144cec8edc153d55d"
 [[files]]
 file = "config/nbttooltip.json"
 hash = "3bb707cbf49aeef223b39bba0970117e08bb2b6baf6f7b0cb949cb5a5b3334ef"
+
+[[files]]
+file = "config/quilt-loader-overrides.json"
+hash = "797f5f834210f27232de30650bf2c76d4c09d0a620c9fbdefad3a4629849a9a8"
 
 [[files]]
 file = "config/replaymod.json"
@@ -4137,6 +4141,11 @@ metafile = true
 [[files]]
 file = "mods/sounds/presence-footsteps.pw.toml"
 hash = "35f2b7d27291e3a313c986137b70b7675bc32b3d0097e0940c7e23b0cf62b92e"
+metafile = true
+
+[[files]]
+file = "mods/sounds/sound-physics-remastered.pw.toml"
+hash = "16b2a712b66781f3848f2664ccad8b9b33a8293285f65f6dcbe271f354f39fe6"
 metafile = true
 
 [[files]]
