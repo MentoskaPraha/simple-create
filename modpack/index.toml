@@ -30,7 +30,7 @@ hash = "2c728cfd2c02f5de7f2518f0c73675751c1a070b26e861c5c8a71ec6f71557a3"
 
 [[files]]
 file = "config/bcc.json"
-hash = "6ed9abb64fae47ef8d3386a7e1988b85665d7fbf8029a8f8c7fe39a24afd997d"
+hash = "882e333f3589391ec7ce8d27093a1996eb774b2e85b0f1056b7f5d3b509d629b"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -46,7 +46,7 @@ hash = "6d8ebc11d37431295a789f9ed1bf5ef075eb0174524bbcbae7da7e7e5b5318e0"
 
 [[files]]
 file = "config/do_a_barrel_roll-server.json"
-hash = "216918751aad525f6b3508bec64fb5c3d0183019cd75565735f2ff5e8f7cf8d7"
+hash = "232ffc8fbe2910f3816dc28bca9cb4a8b84f51824ee1a2bbe095b05c68a70044"
 
 [[files]]
 file = "config/effective.json"
@@ -3635,7 +3635,7 @@ metafile = true
 
 [[files]]
 file = "mods/content/travelersbackpack.pw.toml"
-hash = "c8b62279ce25dc287020134e4e3438d3a06fec88aacd402db2d893efae7182c2"
+hash = "4371fb81920fbe53fafa0eef2d5f49338e20cd137575c86185658dfa94e32ac8"
 metafile = true
 
 [[files]]
@@ -3660,7 +3660,7 @@ metafile = true
 
 [[files]]
 file = "mods/create/create-power-loader-fabric.pw.toml"
-hash = "70fba7c03aa74167b98cbd4ca7f2ff416a821e74bdb94543fd63f653a2ad6ce7"
+hash = "819147b9b5a29485a20add7bb2453d3d0100dfa2df7466d9474b92c8122120b9"
 metafile = true
 
 [[files]]
@@ -3705,12 +3705,12 @@ metafile = true
 
 [[files]]
 file = "mods/extra-libs/moonlight.pw.toml"
-hash = "c14f6130b0f0ecd7bd2407d1135328d4e017e7152438f994660eb56f6a2296da"
+hash = "7356c4b80f79ea0991f67456b265204c45c4897f4acc5858ce40a3028ade12fd"
 metafile = true
 
 [[files]]
 file = "mods/extra-libs/resourceful-lib.pw.toml"
-hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
+hash = "d812e151028b7231d0e6bbd28a7b03a2b0e912c7052c0565e2f47e740717c298"
 metafile = true
 
 [[files]]
@@ -3720,7 +3720,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-libs/terrablender.pw.toml"
-hash = "83d94a056463020f5bab89ba5def37f0090aa9abf7f6045a7e859ea7250be18b"
+hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
 metafile = true
 
 [[files]]
@@ -3770,7 +3770,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-sounds/simple-voice-chat.pw.toml"
-hash = "750d6a7f397806f83912efae496a007cf486487f1e52de2c67c5bcfc15db13bd"
+hash = "1e1666cdc201287916b3005f8a3772a9dda3688fc886b5d514065cd2224c63ef"
 metafile = true
 
 [[files]]
@@ -3825,7 +3825,7 @@ metafile = true
 
 [[files]]
 file = "mods/fixes/enchantment-descriptions.pw.toml"
-hash = "a8d3244d58d7722735a72eee2a869d15e5fe38ec7d9a54ff555aadd53cae637c"
+hash = "97b263054f11e9f66213aefa9bd2a60fb441a02227184e6a6e63de263fd2ff11"
 metafile = true
 
 [[files]]
@@ -3895,7 +3895,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/collective.pw.toml"
-hash = "7b9d20d3402ad364b39b04037d16d9e1dfb2439605d99d72a5bc1fd9612091bf"
+hash = "a704bc3997d75ffc2cac8311ef97f6336fcae75f6c82242d8a36fc15a2641c56"
 metafile = true
 
 [[files]]
@@ -3920,7 +3920,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/puzzles-lib.pw.toml"
-hash = "5017352458c35693d4aa0ea8872a0e6b80a6c128a5866327b02263d2ce87c9c4"
+hash = "e7150de20c3dae1ab19c99881fd8c4bab920f67f97f26311f7ab63fdee0f13d0"
 metafile = true
 
 [[files]]
@@ -3940,7 +3940,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/yacl.pw.toml"
-hash = "34108efa4206b09f00d088be089236914a6fb04852aae5b6ce6293412ed6a6f7"
+hash = "cf9320c102b530590a5b8e6f60ed3a4c995acc112320b1143715efdfa884cceb"
 metafile = true
 
 [[files]]
@@ -3985,7 +3985,7 @@ metafile = true
 
 [[files]]
 file = "mods/misc/do-a-barrel-roll.pw.toml"
-hash = "64810c852d5224a05ea6a115fb085f31918357ac7dd598a0abc8eabce09fce16"
+hash = "908c852f687cbe5b3feb0faeebe2a348462b80da1bd5507496d73113c0c14958"
 metafile = true
 
 [[files]]
@@ -4050,7 +4050,7 @@ metafile = true
 
 [[files]]
 file = "mods/optimasation/alternate-current.pw.toml"
-hash = "7c2ab658cec86b2c7a64cb9778d3b7d038153ea049c25a70718f1d8bb6eb690f"
+hash = "fe48ef33fd4a8d8580fd938b7a6a7c1175aad76e0df0ddf4c12e7acb2f0ea65a"
 metafile = true
 
 [[files]]
@@ -4080,7 +4080,7 @@ metafile = true
 
 [[files]]
 file = "mods/optimasation/entityculling.pw.toml"
-hash = "33f865a014f3acf2c1f2c452bfe7ba1a864acad178322a6eab3759c7e63c9654"
+hash = "fddce1cfc06ce7b3c5fc0cfa062fc57eadfd4ef4213ad561dc93d98b92d329d2"
 metafile = true
 
 [[files]]
@@ -4145,7 +4145,7 @@ metafile = true
 
 [[files]]
 file = "mods/sounds/sound-physics-remastered.pw.toml"
-hash = "16b2a712b66781f3848f2664ccad8b9b33a8293285f65f6dcbe271f354f39fe6"
+hash = "575f7098b7bdda654ac1b2a4c6d3855707bbf86c86f210180fe6c1b3957c3c7d"
 metafile = true
 
 [[files]]

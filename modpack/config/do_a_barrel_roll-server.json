@@ -1,6 +1,6 @@
 {
-  "allowThrusting": true,
-  "forceEnabled": true,
   "forceInstalled": true,
-  "installedTimeout": 20
+  "installedTimeout": 40,
+  "allowThrusting": true,
+  "forceEnabled": true
 }
