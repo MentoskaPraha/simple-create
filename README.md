@@ -196,7 +196,6 @@ These mods didn't fit into any of the other categories so, they're just dumbed i
 | [Not Enough Animations](https://modrinth.com/mod/MPCX6s5C) | Client | Used |   |
 | [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) | Client | Used |   |
 | [ReplayMod](https://modrinth.com/mod/Nv2fQJo5) | Client | Used |   |
-| [Rolling Down in the Deep](https://modrinth.com/mod/zQqsEeqy) | Client or Server | Used |  |
 | [Screenshot to Clipboard](https://modrinth.com/mod/1KiJRrTg) | Client | Used |   |
 | [Traveler's Titles](https://modrinth.com/mod/JtifUr64) | Client | Used |   |
 

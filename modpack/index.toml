@@ -4034,11 +4034,6 @@ hash = "e1fdb3d4b7619e35b10a6131631addbae338a5c52b0145b0d58d24bd7b9007b2"
 metafile = true
 
 [[files]]
-file = "mods/misc/rolling-down-in-the-deep.pw.toml"
-hash = "f9d57c066b44e446e07b6f0d47f568def4a82d68a42e72bc86edd696332ac90d"
-metafile = true
-
-[[files]]
 file = "mods/misc/screenshot-to-clipboard.pw.toml"
 hash = "672f3809a2053eef01aea4015ca4b0d4be6c507622172c091c17833b8d2ffb39"
 metafile = true
