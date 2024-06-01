@@ -30,7 +30,7 @@ hash = "2c728cfd2c02f5de7f2518f0c73675751c1a070b26e861c5c8a71ec6f71557a3"
 
 [[files]]
 file = "config/bcc.json"
-hash = "882e333f3589391ec7ce8d27093a1996eb774b2e85b0f1056b7f5d3b509d629b"
+hash = "2a8f71fae888c5ad3bfb065e3659a9a246cce3c2972d00e48b05dc486b5e8911"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -3585,7 +3585,7 @@ metafile = true
 
 [[files]]
 file = "mods/building/every-compat.pw.toml"
-hash = "098c9c1a245ca39825d7185483414d639910699e891933f1be931d72bf175644"
+hash = "67c983f24579022f3af1fc23527ae4b86c6f798f0c25f4ea8e620ba2bf0b35e3"
 metafile = true
 
 [[files]]
@@ -3606,6 +3606,11 @@ metafile = true
 [[files]]
 file = "mods/content/chalk.pw.toml"
 hash = "6813cfc18a8812f00b3f6a7c5d01a02828b109d8c394f2c1b01bd5960c241120"
+metafile = true
+
+[[files]]
+file = "mods/content/combat-nouveau.pw.toml"
+hash = "f954622830360a9f542b1f9e21a4698e19436d7cd1380efab84d2c4aa5868b8c"
 metafile = true
 
 [[files]]
@@ -3695,7 +3700,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-libs/geckolib.pw.toml"
-hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
+hash = "9a5688af6a1df3758a4bb3749064a0004d151ed7cb7f9d31dd1112f036079bca"
 metafile = true
 
 [[files]]
@@ -3739,6 +3744,11 @@ hash = "7cb70cf22e1a4fb243bc11d3ebeebacf1417cf37b8986769b63e9cb0e645d107"
 metafile = true
 
 [[files]]
+file = "mods/extra-misc/iris-flw-compat.pw.toml"
+hash = "3d809847342f9eec9400018aae9b36803e8297963b0a5c15f9e5b25c55d4d6a7"
+metafile = true
+
+[[files]]
 file = "mods/extra-misc/jade-addons-fabric.pw.toml"
 hash = "063ef9a509d15f98acd95d4032e617b90c9f0d105c8872b9186d6ed16672247a"
 metafile = true
@@ -3765,7 +3775,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-sounds/audioplayer.pw.toml"
-hash = "b93adab04ab3c8cac59537925a2dffc5a59f9b087bbcd5e0f451720c4488032a"
+hash = "f38cad35d111d34d913519e913c833deb3248b13d66c341cf6d302a38de30ee6"
 metafile = true
 
 [[files]]
@@ -3900,7 +3910,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/creativecore.pw.toml"
-hash = "43e7739f17922c11bdd39009d954b937fffad61f0261a2b9c4f960395c682ae7"
+hash = "01c94894fc8ce4a564c7ad0a74d71d4b75d8cc5ad85e921cfc71c013d52adeca"
 metafile = true
 
 [[files]]
@@ -4049,11 +4059,6 @@ hash = "fe48ef33fd4a8d8580fd938b7a6a7c1175aad76e0df0ddf4c12e7acb2f0ea65a"
 metafile = true
 
 [[files]]
-file = "mods/optimasation/c2me-fabric.pw.toml"
-hash = "96cce34fe82c8d2aa487026851cc61f00e22efc553e36f402497e255527ea005"
-metafile = true
-
-[[files]]
 file = "mods/optimasation/clumps.pw.toml"
 hash = "54b6de813db1fc2774b4002898fa89f902a7efeb33a05197cf7bfda498f6b94e"
 metafile = true
@@ -4090,7 +4095,7 @@ metafile = true
 
 [[files]]
 file = "mods/optimasation/lmd.pw.toml"
-hash = "3aea264b192b43936a734b27f3362baa9a4f6da26101d5366fdc5b7238d218bf"
+hash = "1bc3accf6072562427ad444cce1c56ae892f0d55d3ee632f5081a4eabf416da9"
 metafile = true
 
 [[files]]
@@ -4250,7 +4255,7 @@ metafile = true
 
 [[files]]
 file = "mods/textures/iris.pw.toml"
-hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
+hash = "3a54eb27e331d044bdc68dcea0e63c239e21f200683054ecb451c7c23d9407e8"
 metafile = true
 
 [[files]]

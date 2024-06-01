@@ -38,6 +38,7 @@ These are all the mods related to Create.
 | [Create: Extended Bogeys](https://github.com/Rabbitminers/Extended-Bogeys) | Client and Server | Planned, once mod is complete. | N/A |
 | [Create: Ore Excavation](https://modrinth.com/mod/ResbpANg) | Client and Server | Used |  |
 | [Create: Slice and Dice](https://modrinth.com/mod/GmjmRQ0A) | Client and Server | Used |  |
+| [Create: Power Loader](https://modrinth.com/mod/E9MuZ1zB) | Client and Server | Used |  |
 
 ### Content Mods
 This list has all the mods that add content to the game.
@@ -49,6 +50,7 @@ This list has all the mods that add content to the game.
 | [Lovely Snails](https://modrinth.com/mod/hBVVhStr) | Client and Server | Used |  |
 | [Traveler's Backpack](https://modrinth.com/mod/rlloIFEV) | Client and Server | Used |  |
 | [Chalk](https://modrinth.com/mod/OrtjXTCH) | Client and Server | Used |  |
+| [Combat Nouveau](https://modrinth.com/mod/Iv3kcKZn) | Client and Server | Used |  |
 | [Pick Your Poison](https://modrinth.com/mod/EHjFQKek) | Client and Server | Used |  |
 | [Blast](https://modrinth.com/mod/hrVBD9fd) | Client and Server | Used |  |
 | [Anthropophagy](https://modrinth.com/mod/P1m6U6IT) | Client and Server | Used |  |
@@ -109,6 +111,7 @@ These mods add some extra bits and bobs.
 | [Realistic Fire Spread](https://modrinth.com/mod/7JCIgcfe) | Client and Server | Used |  |
 | [Potion Sauce](https://modrinth.com/mod/btXizr0j) | Client and Server | Used |  |
 | [Jade Addons](https://modrinth.com/mod/fThnVRli) | Client and Server | Used |  |
+| [Iris & Oculus Flywheel Compat](https://modrinth.com/mod/ndHYMY2K) | Client | Used |  |
 
 ### Extra Lib Mods
 These mods make other mods work.
@@ -206,7 +209,6 @@ These mods make the game go brrrrrrrrrrrrrrrrrrr.
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
 | [Alternate Current](https://modrinth.com/mod/r0v8vy1s) | Server | Used |   |
 | [Clumps](https://modrinth.com/mod/Wnxd13zP) | Server | Used |   |
-| [Concurrent Chunk Management Engine](https://modrinth.com/mod/VSNURh3q) | Server | Used |   |
 | [Cull Less Leaves](https://modrinth.com/mod/iG6ZHsUV) | Client | Used |   |
 | [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1) | Client | Used |   |
 | [Enhanced Block Entities](https://modrinth.com/mod/OVuFYfre) | Client | Used |   |
@@ -251,7 +253,6 @@ These mods allow texturepacks to work and rework some textures sometimes.
 
 |  Mod Name and Link | Client/Server Info | Use Status | Ready for 1.21 Upgrade |
 | :---------------------| :-----------------: | :-------------------: | :---------------: |
-| [Better End Sky](https://modrinth.com/mod/SgJ1iW80) | Client | Not Used, as BetterEnd provides the skybox by default. |   |
 | [Blåhaj of Undying](https://modrinth.com/mod/aJb4vlkM) | Client | Used |   |
 | [CIT Resewn](https://modrinth.com/mod/otVJckYQ) | Client | Used |   |
 | [Continuity](https://modrinth.com/mod/1IjD5062) | Client | Used |   |
