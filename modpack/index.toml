@@ -30,7 +30,7 @@ hash = "2c728cfd2c02f5de7f2518f0c73675751c1a070b26e861c5c8a71ec6f71557a3"
 
 [[files]]
 file = "config/bcc.json"
-hash = "2a8f71fae888c5ad3bfb065e3659a9a246cce3c2972d00e48b05dc486b5e8911"
+hash = "c7e1a32d67c47c38cf95bec9f5b8080370d64aba4097ed514a6c08f99108cf6b"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -55,6 +55,10 @@ hash = "69ddad2cb637deba48766fa9a8946764a7cd8e7e8c07588560b426cf8a587c62"
 [[files]]
 file = "config/enchancement.json"
 hash = "c10e2b947c9be4bd1dfa27cef99da68f82a2ae103040fbeb1f1134fb7c41cc15"
+
+[[files]]
+file = "config/enhanced_bes.properties"
+hash = "2641d0fb90e71de7978b664be14f302fa624e73b6f5302b087716532d32f79a1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
