@@ -45,6 +45,10 @@ file = "config/betterf3.json"
 hash = "6d8ebc11d37431295a789f9ed1bf5ef075eb0174524bbcbae7da7e7e5b5318e0"
 
 [[files]]
+file = "config/create_power_loader-server.toml"
+hash = "07af5a60bf68f8c08cf959ecbc9589de0b7d88e3428928059ce7ff4fc1226b04"
+
+[[files]]
 file = "config/do_a_barrel_roll-server.json"
 hash = "232ffc8fbe2910f3816dc28bca9cb4a8b84f51824ee1a2bbe095b05c68a70044"
 
