@@ -30,7 +30,7 @@ hash = "2c728cfd2c02f5de7f2518f0c73675751c1a070b26e861c5c8a71ec6f71557a3"
 
 [[files]]
 file = "config/bcc.json"
-hash = "c7e1a32d67c47c38cf95bec9f5b8080370d64aba4097ed514a6c08f99108cf6b"
+hash = "40641728fd5d4a05a9f99ecc00fbf69ab3a764b4451b916db0c12554049cf429"
 
 [[files]]
 file = "config/bclib/client.json"
@@ -3593,7 +3593,7 @@ metafile = true
 
 [[files]]
 file = "mods/building/every-compat.pw.toml"
-hash = "67c983f24579022f3af1fc23527ae4b86c6f798f0c25f4ea8e620ba2bf0b35e3"
+hash = "e9a0ce6fae1c8d3b3d1824eaf4bb09f991104a3cab6a1fefc694a5ce1a570198"
 metafile = true
 
 [[files]]
@@ -3668,7 +3668,7 @@ metafile = true
 
 [[files]]
 file = "mods/create/create-ore-excavation.pw.toml"
-hash = "102eec6363f711986f22f402338b0d23818227d7137c95c83b6eca419228a555"
+hash = "271373d2967b7647a918adcc9e04ca81924d1a639e7fae4d7b5d0eabd775bdf4"
 metafile = true
 
 [[files]]
@@ -3688,7 +3688,7 @@ metafile = true
 
 [[files]]
 file = "mods/create/slice-and-dice.pw.toml"
-hash = "7cfd850586a354b0a14b04234dbc5254f80610b69f7ffc1a7e60a63332739cf1"
+hash = "708ac4fc4da8bba3f5aedcd8534bd15dee339aacbeb3f3f75b17f5a748c67679"
 metafile = true
 
 [[files]]
@@ -3718,7 +3718,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-libs/moonlight.pw.toml"
-hash = "7356c4b80f79ea0991f67456b265204c45c4897f4acc5858ce40a3028ade12fd"
+hash = "b42192432d72cc624869b6b2d3e5fdcf5769c24812275931b48c75fc807fadda"
 metafile = true
 
 [[files]]
@@ -3729,11 +3729,6 @@ metafile = true
 [[files]]
 file = "mods/extra-libs/satin-api.pw.toml"
 hash = "84e17f8c82af158a2985e7c321b11397353212dea528f1ff36ac30ae8c5d5632"
-metafile = true
-
-[[files]]
-file = "mods/extra-libs/terrablender.pw.toml"
-hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
 metafile = true
 
 [[files]]
@@ -3783,7 +3778,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-sounds/audioplayer.pw.toml"
-hash = "f38cad35d111d34d913519e913c833deb3248b13d66c341cf6d302a38de30ee6"
+hash = "d499ea342f312abd0562873f278e6429e8de899367431f457f2fccc4dce09a9d"
 metafile = true
 
 [[files]]
@@ -3828,7 +3823,12 @@ metafile = true
 
 [[files]]
 file = "mods/fixes/bettercommandblockui.pw.toml"
-hash = "bc48b96b648cbdeb36a05fd43532b5098d0d31f0e9bbe605ba0287c4d5b53cef"
+hash = "c98c097f639930947e9513ffa7556d13b74a18c8b1999cb35b856ce359abf374"
+metafile = true
+
+[[files]]
+file = "mods/fixes/client-tweaks.pw.toml"
+hash = "d850ebf55e4799b3dc85bbc5629ea162a7e164d6321d42032757a94c8a048792"
 metafile = true
 
 [[files]]
@@ -3843,7 +3843,7 @@ metafile = true
 
 [[files]]
 file = "mods/fixes/enchantment-descriptions.pw.toml"
-hash = "97b263054f11e9f66213aefa9bd2a60fb441a02227184e6a6e63de263fd2ff11"
+hash = "c80f5af57bf600ce0f77479ddc6c3c63117024ce2f334aaf384959253b6bdcdd"
 metafile = true
 
 [[files]]
@@ -3893,12 +3893,12 @@ metafile = true
 
 [[files]]
 file = "mods/libs/balm.pw.toml"
-hash = "da3d5cf1752758c6061271b27929bff66535638ab04654998f6f787ac2ce6b1c"
+hash = "f4fce67c57b4c42e12e705c25ec3feedb85cef927c2578983e59a59582c81ace"
 metafile = true
 
 [[files]]
 file = "mods/libs/bookshelf-lib.pw.toml"
-hash = "cfd91c91ab8ba79db40eece95998631e3a0f4cdbf129d8df4d1d3fb83fbde187"
+hash = "3975690794d33e222bc3240aa51dbe7aaf5019429ffc279fbe25c34b151d2755"
 metafile = true
 
 [[files]]
@@ -3933,7 +3933,7 @@ metafile = true
 
 [[files]]
 file = "mods/libs/indium.pw.toml"
-hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
+hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
 metafile = true
 
 [[files]]
@@ -3948,12 +3948,17 @@ metafile = true
 
 [[files]]
 file = "mods/libs/qsl.pw.toml"
-hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
+hash = "c94b68658f3158a44d5e95a606aa08628cd2b80a50fe45d26d5679205a77e4d1"
 metafile = true
 
 [[files]]
 file = "mods/libs/rhino.pw.toml"
 hash = "f3dbbcc93a34c8ba38b2e5a1ab3d5e898099d420ded6bd14ac01e0a7386b3b9a"
+metafile = true
+
+[[files]]
+file = "mods/libs/terrablender.pw.toml"
+hash = "99ae3a898041d9e7b6d2de55909287baacd6f71846e44f61f6a9420587fd7a09"
 metafile = true
 
 [[files]]
@@ -4127,6 +4132,11 @@ hash = "2a08c1c8c0c07f55d0c315a38e338f6458ca7abb50e3692e11482213cabfefe4"
 metafile = true
 
 [[files]]
+file = "mods/reworks/hardcore-revival.pw.toml"
+hash = "9dd866e5203500685903aee2a9348b0a42c02f6992be948bed202305763a9650"
+metafile = true
+
+[[files]]
 file = "mods/reworks/nox-renoxed.pw.toml"
 hash = "470a5084927dfe49279aa2c846751e1d30cec1e35ce3a81f34d5e8baca584c62"
 metafile = true
@@ -4154,6 +4164,16 @@ metafile = true
 [[files]]
 file = "mods/sounds/sound-physics-remastered.pw.toml"
 hash = "575f7098b7bdda654ac1b2a4c6d3855707bbf86c86f210180fe6c1b3957c3c7d"
+metafile = true
+
+[[files]]
+file = "mods/terrain/lithosphere.pw.toml"
+hash = "0ad2acf782f3dc365acd9fb68796e57cdd7d9b4980b57981c727d0cb7fcd8e9a"
+metafile = true
+
+[[files]]
+file = "mods/terrain/tectonic.pw.toml"
+hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
 metafile = true
 
 [[files]]
@@ -4228,7 +4248,7 @@ metafile = true
 
 [[files]]
 file = "mods/textures/cave-dust.pw.toml"
-hash = "31274861cb2f560e5f4a7bb3c1d51b727d885686ce6cc03cca4c861fdc48caf8"
+hash = "93bc1b8f65cc5004083d13b2e4ef890b551d16b2e00a1790473cf866e751141a"
 metafile = true
 
 [[files]]
@@ -4258,7 +4278,7 @@ metafile = true
 
 [[files]]
 file = "mods/textures/entitytexturefeatures.pw.toml"
-hash = "3251a3699322607d89dccdd4efef359e0aaa2f9a21e011265c36e165423d83c9"
+hash = "6fa84f7f7d9531276332ea1f4dbb4f46158b06de611b2ab14c204033a6298a21"
 metafile = true
 
 [[files]]
@@ -4371,5 +4391,5 @@ hash = "df6a008d297de483b0ec257bce276c3b86652148deb8e6b334a783a02ba63b1c"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "1e9f9f7053c256baf766dddba7a1f929634f5629c6787ae4ff1f117159232c22"
+hash = "f1ce0778845c0a21e9ec09f582e16d4395d6a226e3eae95dfe8421c7a9ff4d83"
 metafile = true
