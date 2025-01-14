@@ -1,6 +1,9 @@
 # Simple Create
 Simple Create is a modpack based around [Create mod](https://modrinth.com/mod/Xbc0uyRg). It's designed to be a fun experience with the Boys, but can be played alone if you so wish.
 
+>[!WARNING]
+>This modpack is undergoing a full re-work. You can follow the re-work in the `rework` branch.
+
 ## Other Repositories
 [Quilted Clear Skies](https://github.com/MentoskaPraha/quilted-clear-skies) - a mod that removes the banding at the horizon of Vanilla Minecraft.
 
